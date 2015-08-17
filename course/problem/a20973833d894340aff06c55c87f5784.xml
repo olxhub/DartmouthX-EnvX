@@ -1,0 +1,18 @@
+<problem display_name="W6 Q6" markdown="&gt;&gt;The IPCC states that it is “extremely likely” that humans are the cause for unprecedented warming since the 1950s. What are some likely effects of global warming?&lt;&lt; &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the TWO characteristics that apply.&lt;/strong&gt;&#10;[x] warming of atmosphere&#10;[x] warming of oceans&#10;[] decrease in sea level&#10;[] increases in global snow and ice &#10;[] increases in global biodiversity &#10;&#10;[explanation]&#10;The IPCC states, “Warming of the climate system is unequivocal, and since the 1950s, many of the observed changes are unprecedented over decades to millennia. The atmosphere and the ocean have warmed, the amounts of snow and ice have diminished, sea level has risen…” &#10;[explanation]" max_attempts="1" weight="2.0">
+  <p>The IPCC states that it is “extremely likely” that humans are the cause for unprecedented warming since the 1950s. What are some likely effects of global warming? <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the TWO characteristics that apply.</strong></p>
+  <choiceresponse>
+    <checkboxgroup label="The IPCC states that it is “extremely likely” that humans are the cause for unprecedented warming since the 1950s. What are some likely effects of global warming?" direction="vertical">
+      <choice correct="true">warming of atmosphere</choice>
+      <choice correct="true">warming of oceans</choice>
+      <choice correct="false">decrease in sea level</choice>
+      <choice correct="false">increases in global snow and ice </choice>
+      <choice correct="false">increases in global biodiversity </choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The IPCC states, “Warming of the climate system is unequivocal, and since the 1950s, many of the observed changes are unprecedented over decades to millennia. The atmosphere and the ocean have warmed, the amounts of snow and ice have diminished, sea level has risen…” </p>
+    </div>
+  </solution>
+</problem>

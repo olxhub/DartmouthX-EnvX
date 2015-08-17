@@ -1,0 +1,18 @@
+<problem display_name="W2 Q3" markdown="&gt;&gt;An example of a country where the age-structure diagram looks like a pyramid is:&lt;&lt;&#10;(x) India&#10;() Italy &#10;() Germany&#10;() Russia&#10;() Japan&#10;&#10;[explanation]&#10;A pyramid age-structure diagram indicates an increasing population. India has an increasing population, while the rest of the countries in the question are either declining in population or are stable. &#10;[explanation]&#10;&#10;" max_attempts="1">
+  <p>An example of a country where the age-structure diagram looks like a pyramid is:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="An example of a country where the age-structure diagram looks like a pyramid is:" type="MultipleChoice">
+      <choice correct="true">India</choice>
+      <choice correct="false">Italy </choice>
+      <choice correct="false">Germany</choice>
+      <choice correct="false">Russia</choice>
+      <choice correct="false">Japan</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A pyramid age-structure diagram indicates an increasing population. India has an increasing population, while the rest of the countries in the question are either declining in population or are stable. </p>
+    </div>
+  </solution>
+</problem>

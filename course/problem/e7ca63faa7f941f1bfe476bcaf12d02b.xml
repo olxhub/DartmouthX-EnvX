@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;The best estimate for the approximate total number of species on Earth, in millions is:&lt;&lt;&#10;() 2&#10;() 5&#10;(x) 10&#10;() 20&#10;() 100&#10;&#10;[explanation]&#10;&#10;There 2 million NAMED species on Earth. Although estimates vary, 10 million is the most common number for TOTAL species on Earth. &#10;&#10;[explanation]" max_attempts="3" showanswer="attempted" weight="1.0">
+  <p>The best estimate for the approximate total number of species on Earth, in millions is:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The best estimate for the approximate total number of species on Earth, in millions is:" type="MultipleChoice">
+      <choice correct="false">2</choice>
+      <choice correct="false">5</choice>
+      <choice correct="true">10</choice>
+      <choice correct="false">20</choice>
+      <choice correct="false">100</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>There 2 million NAMED species on Earth. Although estimates vary, 10 million is the most common number for TOTAL species on Earth. </p>
+    </div>
+  </solution>
+</problem>

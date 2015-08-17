@@ -1,0 +1,18 @@
+<problem display_name="W6 Q9" markdown="&gt;&gt;Dissolution of atmospheric carbon dioxide into the oceans causes: &lt;&lt;&#10;() sea level rise&#10;() increased melting of sea ice&#10;() fewer hurricanes&#10;(x) ocean acidification &#10;() sea water expansion&#10;&#10;[explanation]&#10;Increased atmospheric CO2 can dissolve into the ocean, leading to ocean acidification. &#10;[explanation]&#10;" max_attempts="1">
+  <p>Dissolution of atmospheric carbon dioxide into the oceans causes: </p>
+  <multiplechoiceresponse>
+    <choicegroup label="Dissolution of atmospheric carbon dioxide into the oceans causes: " type="MultipleChoice">
+      <choice correct="false">sea level rise</choice>
+      <choice correct="false">increased melting of sea ice</choice>
+      <choice correct="false">fewer hurricanes</choice>
+      <choice correct="true">ocean acidification </choice>
+      <choice correct="false">sea water expansion</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Increased atmospheric CO2 can dissolve into the ocean, leading to ocean acidification. </p>
+    </div>
+  </solution>
+</problem>

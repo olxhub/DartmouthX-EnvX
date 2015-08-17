@@ -1,0 +1,18 @@
+<problem display_name="W3 Q1" markdown="&gt;&gt;Generally, an ideal composition for agricultural soils is: &lt;&lt;&#10;() 20% sand, 40% silt, 40% clay&#10;() 40% sand, 20% silt, 40% clay&#10;(x) 40% sand, 40% silt, 20% clay&#10;() 33% sand, 33% silt, 34% clay &#10;() 60% sand, 20% silt, 20% clay &#10;&#10;[explanation]&#10;A loam is usually the ideal agricultural soil. The typical loam is 40% sand, 40% silt and 20% clay. &#10;[explanation]&#10;&#10;" max_attempts="1">
+  <p>Generally, an ideal composition for agricultural soils is: </p>
+  <multiplechoiceresponse>
+    <choicegroup label="Generally, an ideal composition for agricultural soils is: " type="MultipleChoice">
+      <choice correct="false">20% sand, 40% silt, 40% clay</choice>
+      <choice correct="false">40% sand, 20% silt, 40% clay</choice>
+      <choice correct="true">40% sand, 40% silt, 20% clay</choice>
+      <choice correct="false">33% sand, 33% silt, 34% clay </choice>
+      <choice correct="false">60% sand, 20% silt, 20% clay </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A loam is usually the ideal agricultural soil. The typical loam is 40% sand, 40% silt and 20% clay. </p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown=" &gt;&gt;Caterpillars are hatching two weeks earlier on average because of an increase in: &lt;&lt;&#10;() daylight&#10;() rainfall&#10;(x) temperature&#10;() windstorms&#10;() sea level &#10;&#10;&#10;[explanation]&#10;The hatching of caterpillars is cued by temperature. The flycatcher hatching is not cued by temperature and thus have become out of sync with caterpillar hatching. &#10;[explanation]&#10;" max_attempts="3">
+  <p> Caterpillars are hatching two weeks earlier on average because of an increase in: </p>
+  <multiplechoiceresponse>
+    <choicegroup label="Caterpillars are hatching two weeks earlier on average because of an increase in: " type="MultipleChoice">
+      <choice correct="false">daylight</choice>
+      <choice correct="false">rainfall</choice>
+      <choice correct="true">temperature</choice>
+      <choice correct="false">windstorms</choice>
+      <choice correct="false">sea level </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The hatching of caterpillars is cued by temperature. The flycatcher hatching is not cued by temperature and thus have become out of sync with caterpillar hatching. </p>
+    </div>
+  </solution>
+</problem>

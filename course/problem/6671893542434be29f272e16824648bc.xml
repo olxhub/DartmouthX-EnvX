@@ -1,0 +1,17 @@
+<problem display_name="Q3" markdown="&gt;&gt;An array of wind turbines will NOT adversely impact which of the following?&lt;&lt;&#10;() bird and bat deaths&#10;(x) grazing cattle&#10;() aesthetics &#10;() noise&#10;&#10;[explanation]&#10;Wind turbines are noisy, to many people not aesthetically pleasing, and may cause bird and bat deaths. However, one advantage of wind turbines is that you can use the area around them for other purposes, like grazing cattle. &#10;[explanation]&#10;" max_attempts="3">
+  <p>An array of wind turbines will NOT adversely impact which of the following?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="An array of wind turbines will NOT adversely impact which of the following?" type="MultipleChoice">
+      <choice correct="false">bird and bat deaths</choice>
+      <choice correct="true">grazing cattle</choice>
+      <choice correct="false">aesthetics </choice>
+      <choice correct="false">noise</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Wind turbines are noisy, to many people not aesthetically pleasing, and may cause bird and bat deaths. However, one advantage of wind turbines is that you can use the area around them for other purposes, like grazing cattle. </p>
+    </div>
+  </solution>
+</problem>

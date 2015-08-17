@@ -1,0 +1,11 @@
+<video youtube="1.00:JTfWzURHMgk" url_name="2b36e980d2494356aec7df1f67bf7f9a" display_name="Video: Environmental Science Definitions and Terms" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V001000" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk1_Terms_Definitions_Handout.pdf" html5_sources="[]" sub="JTfWzURHMgk" track="/static/Wk1-Definitions_and_Terms.pdf" youtube_id_1_0="JTfWzURHMgk">
+  <track src="/static/Wk1-Definitions_and_Terms.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk1_Terms_Definitions_Handout.pdf"/>
+  <video_asset client_video_id="Wk1-Definitions_and_Terms-FINAL-1_7" duration="192.31">
+    <encoded_video bitrate="2614" file_size="62846379" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001000_DTH.mp4"/>
+    <encoded_video bitrate="780" file_size="18759730" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001000_MB1.mp4"/>
+    <encoded_video bitrate="335" file_size="8077124" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001000_MB2.mp4"/>
+    <encoded_video bitrate="1078" file_size="25927063" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001000_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="JTfWzURHMgk"/>
+  </video_asset>
+</video>

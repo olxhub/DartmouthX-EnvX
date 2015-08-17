@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;A cloud can create a negative or positive climate feedback loop depending on the:&lt;&lt;&#10;&#10;( ) temperature and volume of the cloud&#10;(x) albedo and altitude of the cloud&#10;( ) color and surface area of the cloud&#10;( ) width and shape of the cloud&#10;( ) transparency and temperature of the cloud &#10;&#10;[explanation]&#10;A cloud can create a negative or positive climate feedback loop depending on its albedo and altitude. For example, a cloud with low albedo (low reflectivity) might act as a blanket, absorbing infrared radiation and warming the earth. A low lying cloud with a high albedo could reflect incoming solar radiation, cooling the earth. &#10;[explanation]&#10;" max_attempts="3">
+  <p>A cloud can create a negative or positive climate feedback loop depending on the:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="A cloud can create a negative or positive climate feedback loop depending on the:" type="MultipleChoice">
+      <choice correct="false">temperature and volume of the cloud</choice>
+      <choice correct="true">albedo and altitude of the cloud</choice>
+      <choice correct="false">color and surface area of the cloud</choice>
+      <choice correct="false">width and shape of the cloud</choice>
+      <choice correct="false">transparency and temperature of the cloud </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A cloud can create a negative or positive climate feedback loop depending on its albedo and altitude. For example, a cloud with low albedo (low reflectivity) might act as a blanket, absorbing infrared radiation and warming the earth. A low lying cloud with a high albedo could reflect incoming solar radiation, cooling the earth. </p>
+    </div>
+  </solution>
+</problem>

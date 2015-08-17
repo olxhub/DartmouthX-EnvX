@@ -1,0 +1,18 @@
+<problem display_name="W6 Q3" markdown=" &gt;&gt;Anaerobic decomposition produces a potent greenhouse gas called:&lt;&lt;&#10;() oxygen&#10;() carbon monoxide&#10;() ozone&#10;(x) methane&#10;() CFC&#10;&#10;[explanation]&#10;Methane, a potent greenhouse gas with a global warming potential of 25, is produced by anaerobic decomposition, which occurs in waterlogged fields, landfills and other wet locations. &#10;[explanation]" max_attempts="1">
+  <p> Anaerobic decomposition produces a potent greenhouse gas called:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Anaerobic decomposition produces a potent greenhouse gas called:" type="MultipleChoice">
+      <choice correct="false">oxygen</choice>
+      <choice correct="false">carbon monoxide</choice>
+      <choice correct="false">ozone</choice>
+      <choice correct="true">methane</choice>
+      <choice correct="false">CFC</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Methane, a potent greenhouse gas with a global warming potential of 25, is produced by anaerobic decomposition, which occurs in waterlogged fields, landfills and other wet locations. </p>
+    </div>
+  </solution>
+</problem>

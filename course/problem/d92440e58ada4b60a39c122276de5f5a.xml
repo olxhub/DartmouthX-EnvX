@@ -1,0 +1,17 @@
+<problem display_name="W6 Q7" markdown="&gt;&gt;Global warming can be most precisely quantified through which of the following terms?&lt;&lt;&#10;&#10;() ocean acidification&#10;() albedo&#10;(x) positive radiative forcing&#10;() anthropogenic climate change&#10;&#10;[explanation]&#10;Radiative forcing refers to the quantities of energy flux to and from earth. The IPCC reports that currently radiative forcing is positive (meaning the earth is getting warmer), and the largest contributor to this phenomenon is the CO2 in the atmosphere, which has been increasing since 1750. &#10;[explanation]" max_attempts="1">
+  <p>Global warming can be most precisely quantified through which of the following terms?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Global warming can be most precisely quantified through which of the following terms?" type="MultipleChoice">
+      <choice correct="false">ocean acidification</choice>
+      <choice correct="false">albedo</choice>
+      <choice correct="true">positive radiative forcing</choice>
+      <choice correct="false">anthropogenic climate change</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Radiative forcing refers to the quantities of energy flux to and from earth. The IPCC reports that currently radiative forcing is positive (meaning the earth is getting warmer), and the largest contributor to this phenomenon is the CO2 in the atmosphere, which has been increasing since 1750. </p>
+    </div>
+  </solution>
+</problem>

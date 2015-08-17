@@ -1,0 +1,18 @@
+<problem display_name="W5 Q8" markdown="&gt;&gt;Over time, dams become less efficient at generating electricity because:&lt;&lt;&#10;&#10;( ) methane release increases&#10;( ) solar power becomes cheaper&#10;( ) evapotranspiration decreases&#10;(x) siltation occurs behind the dam&#10;( ) migrating fish can't get past the dam&#10;&#10;[explanation]&#10;Siltation is the accumulation of silt that occurs when the flow of a river is slowed. In a reservoir behind a dam, silt that had been suspended in a flowing river settles to the bottom. If siltation continues, accumulating silt will render the reservoir much less efficient at generating electricity.&#10;[explanation]&#10;" max_attempts="1">
+  <p>Over time, dams become less efficient at generating electricity because:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Over time, dams become less efficient at generating electricity because:" type="MultipleChoice">
+      <choice correct="false">methane release increases</choice>
+      <choice correct="false">solar power becomes cheaper</choice>
+      <choice correct="false">evapotranspiration decreases</choice>
+      <choice correct="true">siltation occurs behind the dam</choice>
+      <choice correct="false">migrating fish can't get past the dam</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Siltation is the accumulation of silt that occurs when the flow of a river is slowed. In a reservoir behind a dam, silt that had been suspended in a flowing river settles to the bottom. If siltation continues, accumulating silt will render the reservoir much less efficient at generating electricity.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,21 @@
+<problem display_name="W1 Q4" markdown="&gt;&gt;Are the following systems open or closed?&lt;&lt;&#10;&#10;Earth with respect to energy:&#10;[[closed, (open)]]&#10;Earth with respect to matter:&#10;[[(closed), open]]&#10;A lake with respect to water:&#10;[[closed, (open)]]&#10;&#10;[explanation]&#10;The earth is an open system with respect to energy, as it gains energy from the sun, and loses it through radiation to space. The earth is closed with respect to matter, as matter does not (generally) enter or leave the earth. A lake is an open system with respect to water, as it gains water through precipitation and streams/rivers, and loses water through evaporation and streams/rivers. &#10;[explanation]&#10;" max_attempts="1">
+  <p>Are the following systems open or closed?</p>
+  <p>Earth with respect to energy:</p>
+  <optionresponse>
+    <optioninput label="Are the following systems open or closed?" options="('closed','open')" correct="open"/>
+  </optionresponse>
+  <p>Earth with respect to matter:</p>
+  <optionresponse>
+    <optioninput options="('closed','open')" correct="closed"/>
+  </optionresponse>
+  <p>A lake with respect to water:</p>
+  <optionresponse>
+    <optioninput options="('closed','open')" correct="open"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The earth is an open system with respect to energy, as it gains energy from the sun, and loses it through radiation to space. The earth is closed with respect to matter, as matter does not (generally) enter or leave the earth. A lake is an open system with respect to water, as it gains water through precipitation and streams/rivers, and loses water through evaporation and streams/rivers. </p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,26 @@
+<problem display_name="W4 Q11" markdown="Indicate whether each energy source is renewable or non-renewable.&#10; &#10;&gt;&gt;biomass &lt;&lt;&#10;[[(renewable), non-renewable]]&#10;&#10;&gt;&gt;coal&lt;&lt;&#10;[[renewable, (non-renewable)]]&#10;&#10;&gt;&gt;natural gas&lt;&lt;&#10;[[renewable, (non-renewable)]]&#10;&#10;&gt;&gt;wind&lt;&lt;&#10;[[(renewable), non-renewable]]&#10;&#10;[explanation]&#10;Coal and natural gas are fossil fuels and not renewable. Wind and biomass are renewable although biomass can be depleted if not properly managed. &#10;[explanation]" max_attempts="1" weight="3.0">
+  <p>Indicate whether each energy source is renewable or non-renewable.</p>
+  <p> </p>
+  <p>biomass </p>
+  <optionresponse>
+    <optioninput label="biomass " options="('renewable','non-renewable')" correct="renewable"/>
+  </optionresponse>
+  <p>coal</p>
+  <optionresponse>
+    <optioninput label="coal" options="('renewable','non-renewable')" correct="non-renewable"/>
+  </optionresponse>
+  <p>natural gas</p>
+  <optionresponse>
+    <optioninput label="natural gas" options="('renewable','non-renewable')" correct="non-renewable"/>
+  </optionresponse>
+  <p>wind</p>
+  <optionresponse>
+    <optioninput label="wind" options="('renewable','non-renewable')" correct="renewable"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Coal and natural gas are fossil fuels and not renewable. Wind and biomass are renewable although biomass can be depleted if not properly managed. </p>
+    </div>
+  </solution>
+</problem>

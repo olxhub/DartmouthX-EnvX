@@ -1,0 +1,17 @@
+<problem display_name="Q1" markdown="&gt;&gt;The soil forming factor that is most likely to influence erosion is: &lt;&lt;&#10;() organisms&#10;(x) topography&#10;() parent material&#10;() time&#10;&#10;[explanation]&#10;Topography is the soil forming factor that is most likely to influence erosion. For example, a steep slope would be more likely to become eroded than a shallow slope. Parent material, organisms, and time can have some influence on erosion, but generally not as much as topography. &#10;[explanation]&#10;" max_attempts="3">
+  <p>The soil forming factor that is most likely to influence erosion is: </p>
+  <multiplechoiceresponse>
+    <choicegroup label="The soil forming factor that is most likely to influence erosion is: " type="MultipleChoice">
+      <choice correct="false">organisms</choice>
+      <choice correct="true">topography</choice>
+      <choice correct="false">parent material</choice>
+      <choice correct="false">time</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Topography is the soil forming factor that is most likely to influence erosion. For example, a steep slope would be more likely to become eroded than a shallow slope. Parent material, organisms, and time can have some influence on erosion, but generally not as much as topography. </p>
+    </div>
+  </solution>
+</problem>

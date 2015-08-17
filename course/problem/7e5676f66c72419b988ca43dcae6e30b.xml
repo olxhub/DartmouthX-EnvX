@@ -1,0 +1,18 @@
+<problem display_name="W5 Q2" markdown="&gt;&gt;What is the fastest growing source of electricity in the world?&lt;&lt;&#10;( ) algae&#10;( ) natural gas&#10;( ) nuclear&#10;( ) solar&#10;(x) wind&#10;&#10;[explanation]&#10;Currently, wind is the fastest growing source of electricity in the world. &#10;[explanation]" max_attempts="1">
+  <p>What is the fastest growing source of electricity in the world?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is the fastest growing source of electricity in the world?" type="MultipleChoice">
+      <choice correct="false">algae</choice>
+      <choice correct="false">natural gas</choice>
+      <choice correct="false">nuclear</choice>
+      <choice correct="false">solar</choice>
+      <choice correct="true">wind</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Currently, wind is the fastest growing source of electricity in the world. </p>
+    </div>
+  </solution>
+</problem>

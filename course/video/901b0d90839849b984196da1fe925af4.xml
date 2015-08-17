@@ -1,0 +1,11 @@
+<video youtube="1.00:f3iojdvCzSM" url_name="901b0d90839849b984196da1fe925af4" display_name="Video: Global Change Basics" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V005200" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk6_Global_Change_Basics_Handout.pdf" html5_sources="[]" sub="f3iojdvCzSM" track="/static/Wk6_GlobalChangeBasics.pdf" youtube_id_1_0="f3iojdvCzSM">
+  <track src="/static/Wk6_GlobalChangeBasics.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk6_Global_Change_Basics_Handout.pdf"/>
+  <video_asset client_video_id="Wk6_GlobalChangeBasics_FINAL_1_20" duration="307.25">
+    <encoded_video bitrate="1299" file_size="49919899" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005200_DTH.mp4"/>
+    <encoded_video bitrate="218" file_size="8377434" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005200_MB2.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="f3iojdvCzSM"/>
+    <encoded_video bitrate="411" file_size="15813552" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005200_MB1.mp4"/>
+    <encoded_video bitrate="1085" file_size="41671236" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005200_DTH.webm"/>
+  </video_asset>
+</video>

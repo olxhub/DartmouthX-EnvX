@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;Which of the following is NOT an advantage to using waste vegetable oil as an ingredient of biodiesel fuel?&lt;&lt;&#10;&#10;() it reuses a waste product&#10;() it prevents disposal of oil into storm sewers&#10;() it uses modern carbon (carbon in play) rather than fossil carbon&#10;(x) it reduces vehicular traffic &#10;() it burns more cleanly than diesel from fossil fuel&#10;&#10;[explanation]&#10;Using waste vegetable oil does not have any influence on how much people drive. In fact if it is slightly less expensive, it might encourage slightly more driving. &#10;[explanation]" max_attempts="3">
+  <p>Which of the following is NOT an advantage to using waste vegetable oil as an ingredient of biodiesel fuel?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which of the following is NOT an advantage to using waste vegetable oil as an ingredient of biodiesel fuel?" type="MultipleChoice">
+      <choice correct="false">it reuses a waste product</choice>
+      <choice correct="false">it prevents disposal of oil into storm sewers</choice>
+      <choice correct="false">it uses modern carbon (carbon in play) rather than fossil carbon</choice>
+      <choice correct="true">it reduces vehicular traffic </choice>
+      <choice correct="false">it burns more cleanly than diesel from fossil fuel</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Using waste vegetable oil does not have any influence on how much people drive. In fact if it is slightly less expensive, it might encourage slightly more driving. </p>
+    </div>
+  </solution>
+</problem>

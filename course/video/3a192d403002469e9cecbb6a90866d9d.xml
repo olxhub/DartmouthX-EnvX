@@ -1,0 +1,11 @@
+<video youtube="1.00:GEhSHPemt0c" url_name="3a192d403002469e9cecbb6a90866d9d" display_name="Video: Coal, Oil and Natural Gas" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V004300" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk4_CoalOilNaturalGas_Handout.pdf" html5_sources="[]" sub="GEhSHPemt0c" track="/static/Wk.4_CoalOilNaturalGas.pdf" youtube_id_1_0="GEhSHPemt0c">
+  <track src="/static/Wk.4_CoalOilNaturalGas.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk4_CoalOilNaturalGas_Handout.pdf"/>
+  <video_asset client_video_id="Wk.4_CoalOilNaturalGas_FINAL_1_16" duration="341.8">
+    <encoded_video bitrate="1048" file_size="13169253" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004300_MB2.mp4"/>
+    <encoded_video bitrate="1048" file_size="0" profile="youtube" url="GEhSHPemt0c"/>
+    <encoded_video bitrate="1048" file_size="29998990" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004300_MB1.mp4"/>
+    <encoded_video bitrate="1048" file_size="43098605" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004300_DTH.webm"/>
+    <encoded_video bitrate="1048" file_size="104885208" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004300_DTH.mp4"/>
+  </video_asset>
+</video>

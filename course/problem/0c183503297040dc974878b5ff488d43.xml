@@ -1,0 +1,13 @@
+<problem display_name="W6 Q13" markdown="&gt;&gt; Environmental justice is the study of people who are disproportionally affected by pollution and global climate change. These people are more likely to be living in the ___________ world.&lt;&lt;&#10;&#10;= developing &#10;or= less developed&#10;&#10;[explanation]&#10;Environmental justice is the study of people who are disproportionally affected by pollution and global climate change. These people are more likely to be living in the developing world. &#10;[explanation]" max_attempts="1">
+  <p> Environmental justice is the study of people who are disproportionally affected by pollution and global climate change. These people are more likely to be living in the ___________ world.</p>
+  <stringresponse answer="developing " type="ci">
+    <additional_answer>less developed</additional_answer>
+    <textline label=" Environmental justice is the study of people who are disproportionally affected by pollution and global climate change. These people are more likely to be living in the ___________ world." size="20"/>
+  </stringresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Environmental justice is the study of people who are disproportionally affected by pollution and global climate change. These people are more likely to be living in the developing world. </p>
+    </div>
+  </solution>
+</problem>

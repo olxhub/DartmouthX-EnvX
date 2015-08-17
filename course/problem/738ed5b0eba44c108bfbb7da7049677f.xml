@@ -1,0 +1,21 @@
+<problem display_name="W5 Q6" markdown="&gt;&gt;Indicate if the following types of solar energy are passive or active.&lt;&lt;&#10;&#10;Large windows on the south side of a building (in the Northern Hemisphere):&#10;[[active, (passive)]]&#10;Solar photovoltaic panels on the roof of a building:&#10;[[(active), passive]]&#10;Parabolic mirror systems to heat water in a tower:&#10;[[(active), passive]]&#10;&#10;[explanation]&#10;Passive solar applications such as windows do not require active technology. Active solar applications such as PV panels and parabolic mirror systems use a variety of technologies. &#10;[explanation]&#10;" max_attempts="1" weight="1.0">
+  <p>Indicate if the following types of solar energy are passive or active.</p>
+  <p>Large windows on the south side of a building (in the Northern Hemisphere):</p>
+  <optionresponse>
+    <optioninput label="Indicate if the following types of solar energy are passive or active." options="('active','passive')" correct="passive"/>
+  </optionresponse>
+  <p>Solar photovoltaic panels on the roof of a building:</p>
+  <optionresponse>
+    <optioninput options="('active','passive')" correct="active"/>
+  </optionresponse>
+  <p>Parabolic mirror systems to heat water in a tower:</p>
+  <optionresponse>
+    <optioninput options="('active','passive')" correct="active"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Passive solar applications such as windows do not require active technology. Active solar applications such as PV panels and parabolic mirror systems use a variety of technologies. </p>
+    </div>
+  </solution>
+</problem>

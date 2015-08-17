@@ -1,0 +1,12 @@
+<course advanced_modules="[&quot;lti&quot;, &quot;split_test&quot;]" advertised_start="15 June 2015" cert_name_long="Introduction to Environmental Science" cert_name_short="DART.ENVS.01.X" course_image="DartmouthX.DART.ENVS.01.X-Thumbnail.jpg" days_early_for_beta="90.0" display_name="Introduction to Environmental Science" end="&quot;2015-07-18T13:00:00+00:00&quot;" graceperiod="1 days" lti_passports="[&quot;dropthought:A2167EF940:dropthought&quot;]" minimum_grade_credit="0.6" mobile_available="true" pdf_textbooks="[]" start="&quot;2015-06-15T15:00:00+00:00&quot;" user_partitions="[{&quot;description&quot;: &quot;The groups in this configuration can be mapped to cohort groups in the LMS.&quot;, &quot;version&quot;: 2, &quot;groups&quot;: [], &quot;scheme&quot;: &quot;cohort&quot;, &quot;id&quot;: 1494860083, &quot;name&quot;: &quot;Content Group Configuration&quot;}, {&quot;description&quot;: &quot;This group experiment provides DropThought feedback surveys to one of the groups. &quot;, &quot;version&quot;: 2, &quot;groups&quot;: [{&quot;version&quot;: 1, &quot;id&quot;: 40075951, &quot;name&quot;: &quot;Group A&quot;}, {&quot;version&quot;: 1, &quot;id&quot;: 2116254033, &quot;name&quot;: &quot;Group B&quot;}], &quot;scheme&quot;: &quot;random&quot;, &quot;id&quot;: 335005579, &quot;name&quot;: &quot;DropThought Feedback&quot;}]" video_upload_pipeline="{&quot;course_video_upload_token&quot;: &quot;c3e0264a0df111e5909d685b35c5f98f&quot;}">
+  <chapter url_name="bdc4713fc7d54ab69c028411ddda5e01"/>
+  <chapter url_name="ef661db1c9574cea870b1816ef16533c"/>
+  <chapter url_name="2f36ebaaf4784608a937a9f4c1c074d9"/>
+  <chapter url_name="15bbc2cd07504a6d8690b6bc92d41e33"/>
+  <chapter url_name="60bff69cc65f4206aa46671e96eff64f"/>
+  <chapter url_name="cf69a472ada648bf9498953ee1a0d13c"/>
+  <chapter url_name="77e80d7a420d4f56b491376899236b8d"/>
+  <chapter url_name="c74fc852782a4f37b44e0bd29799fd45"/>
+  <chapter url_name="77aca44152544420a1ce24d55d2c6b6c"/>
+  <wiki slug="DartmouthX.DART.ENVS.02X.2015_T1"/>
+</course>

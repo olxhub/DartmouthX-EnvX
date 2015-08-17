@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;_________ involves not consuming enough calories to be healthy, whereas ________ involves lacking a good balance of carbohydrates, fats, vitamins and minerals in one’s diet.&lt;&lt;&#10;() Overnutrition, malnutrition&#10;() Low nutrition, malnutrition&#10;() Malnutrition, undernutrition&#10;(x) Undernutrition, malnutrition&#10;() Undernutrition, overnutrition&#10;&#10;[explanation]&#10;Someone who is undernourished is not consuming enough calories to be healthy, while someone who is malnourished may be consuming enough calories, but is not consuming the right balance of carbohydrates, fats, vitamins and minerals. &#10;[explanation]&#10;" max_attempts="3">
+  <p>_________ involves not consuming enough calories to be healthy, whereas ________ involves lacking a good balance of carbohydrates, fats, vitamins and minerals in one’s diet.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="_________ involves not consuming enough calories to be healthy, whereas ________ involves lacking a good balance of carbohydrates, fats, vitamins and minerals in one’s diet." type="MultipleChoice">
+      <choice correct="false">Overnutrition, malnutrition</choice>
+      <choice correct="false">Low nutrition, malnutrition</choice>
+      <choice correct="false">Malnutrition, undernutrition</choice>
+      <choice correct="true">Undernutrition, malnutrition</choice>
+      <choice correct="false">Undernutrition, overnutrition</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Someone who is undernourished is not consuming enough calories to be healthy, while someone who is malnourished may be consuming enough calories, but is not consuming the right balance of carbohydrates, fats, vitamins and minerals. </p>
+    </div>
+  </solution>
+</problem>

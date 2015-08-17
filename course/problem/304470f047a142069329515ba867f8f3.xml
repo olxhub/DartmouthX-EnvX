@@ -1,0 +1,16 @@
+<problem display_name="Q2" markdown="&gt;&gt;Fill in the blank with one word: In general, an increase in affluence results in a(n) _________ in environmental degradation.&lt;&lt;&#10;= increase&#10;or= Increase&#10;or= greater&#10;or= more&#10;or= added&#10;&#10;[explanation]&#10;More affluence could both increase and decrease environmental degradation. However, in general, an increase in affluence usually results in an increase in environmental degradation. For example, affluence can promote more consumption and greater environmental degradation. Although in some cases, more affluence can allow someone to purchase more energy efficient lightbulbs.&#10;[explanation]" max_attempts="3">
+  <p>Fill in the blank with one word: In general, an increase in affluence results in a(n) _________ in environmental degradation.</p>
+  <stringresponse answer="increase" type="ci">
+    <additional_answer>Increase</additional_answer>
+    <additional_answer>greater</additional_answer>
+    <additional_answer>more</additional_answer>
+    <additional_answer>added</additional_answer>
+    <textline label="Fill in the blank with one word: In general, an increase in affluence results in a(n) _________ in environmental degradation." size="20"/>
+  </stringresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>More affluence could both increase and decrease environmental degradation. However, in general, an increase in affluence usually results in an increase in environmental degradation. For example, affluence can promote more consumption and greater environmental degradation. Although in some cases, more affluence can allow someone to purchase more energy efficient lightbulbs.</p>
+    </div>
+  </solution>
+</problem>

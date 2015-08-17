@@ -1,0 +1,10 @@
+<video youtube="1.00:5pigjIv2tQc" url_name="d02cd713ab614e48aeda2ba981de8b95" display_name="Video: A conversation with Rosi Kerr" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V004400" html5_sources="[]" sub="5pigjIv2tQc" track="/static/Wk.4_ConversationWithRosieKerr.pdf" youtube_id_1_0="5pigjIv2tQc">
+  <track src="/static/Wk.4_ConversationWithRosieKerr.pdf"/>
+  <video_asset client_video_id="Wk.4_ConversationWithRosieKerr_FINAL_1_16" duration="515.92">
+    <encoded_video bitrate="445" file_size="28700896" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004400_MB1.mp4"/>
+    <encoded_video bitrate="210" file_size="13592602" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004400_MB2.mp4"/>
+    <encoded_video bitrate="1749" file_size="112861889" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004400_DTH.mp4"/>
+    <encoded_video bitrate="1084" file_size="69916715" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004400_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="5pigjIv2tQc"/>
+  </video_asset>
+</video>

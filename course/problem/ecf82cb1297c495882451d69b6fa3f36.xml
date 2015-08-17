@@ -1,0 +1,21 @@
+<problem display_name="W2 Q15" markdown="&gt;&gt;Most population scientists agree that the human population will level off by the year 2100. What is the most common estimate for world population at that time?&lt;&lt;&#10;() 5-8 billion &#10;(x) 8-11 billion&#10;() 11-14 billion&#10;() 14-17 billion&#10;() 17-20 billion&#10;&#10;[explanation]&#10;Most population scientists believe that world population will level off between approximately 9 and 10 billion people by the year 2100. &#10;[explanation]" max_attempts="1">
+<p>Most population scientists agree that the human population will level off by the year 2100. What is the most common estimate for world population at that time?</p>
+<multiplechoiceresponse>
+  <choicegroup label="Most population scientists agree that the human population will level off by the year 2100. What is the most common estimate for world population at that time?" type="MultipleChoice">
+    <choice correct="false">5-8 billion </choice>
+    <choice correct="true">8-11 billion</choice>
+    <choice correct="false">11-14 billion</choice>
+    <choice correct="false">14-17 billion</choice>
+    <choice correct="false">17-20 billion</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Most population scientists believe that world population will level off between approximately 9 and 10 billion people by the year 2100. </p>
+
+</div>
+</solution>
+</problem>

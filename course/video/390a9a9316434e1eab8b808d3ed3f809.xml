@@ -1,0 +1,11 @@
+<video youtube="1.00:eA3PplPfRXw" url_name="390a9a9316434e1eab8b808d3ed3f809" display_name="Video: Hydro, Solar, Wind and Biomass" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V005800" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk5_HydroWindSolarBiomass_Handout.pdf" html5_sources="[]" sub="eA3PplPfRXw" track="/static/Wk5_HydroSolarWindBiomass.pdf" youtube_id_1_0="eA3PplPfRXw">
+  <track src="/static/Wk5_HydroSolarWindBiomass.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk5_HydroWindSolarBiomass_Handout.pdf"/>
+  <video_asset client_video_id="Wk5_HydroSolarWindBiomass_FINAL_1_17" duration="425.18">
+    <encoded_video bitrate="738" file_size="39238126" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005800_MB1.mp4"/>
+    <encoded_video bitrate="2546" file_size="135345730" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005800_DTH.mp4"/>
+    <encoded_video bitrate="335" file_size="17838881" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005800_MB2.mp4"/>
+    <encoded_video bitrate="1086" file_size="57744595" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005800_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="eA3PplPfRXw"/>
+  </video_asset>
+</video>

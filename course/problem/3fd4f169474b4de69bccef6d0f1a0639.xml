@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;Developed countries like Italy and Germany tend to have a(n) ______ -shaped age structure diagram.&lt;&lt;&#10;() ⬥ (diamond) &#10;(x) ▼ (upside-down triangle)&#10;() O (oval)&#10;() ▲ (pyramid)&#10;() ▢ (rectangle)&#10;&#10;[explanation]&#10;Developed countries in phase four of the demographic transition tend to have inverted-triangle shaped age diagrams, as their populations are declining (replacement level fertility is below 2). Their population is characterized by fewer young people and a greater number of older people. &#10;[explanation]&#10;" max_attempts="3">
+  <p>Developed countries like Italy and Germany tend to have a(n) ______ -shaped age structure diagram.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Developed countries like Italy and Germany tend to have a(n) ______ -shaped age structure diagram." type="MultipleChoice">
+      <choice correct="false">⬥ (diamond) </choice>
+      <choice correct="true">▼ (upside-down triangle)</choice>
+      <choice correct="false">O (oval)</choice>
+      <choice correct="false">▲ (pyramid)</choice>
+      <choice correct="false">▢ (rectangle)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Developed countries in phase four of the demographic transition tend to have inverted-triangle shaped age diagrams, as their populations are declining (replacement level fertility is below 2). Their population is characterized by fewer young people and a greater number of older people. </p>
+    </div>
+  </solution>
+</problem>

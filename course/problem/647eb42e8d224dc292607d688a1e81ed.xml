@@ -1,0 +1,31 @@
+<problem display_name="W6 Q5" markdown="null" max_attempts="1" weight="3.0">
+  <p>  Rank the following greenhouse gases from greatest to lowest global warming potential (GWP). Drag and drop from the list below. </p>
+  <customresponse>
+    <drag_and_drop_input img="/static/Week6QuizQ1.jpg" target_outline="true" one_per_target="true" no_labels="true" label_bg_color="rgb(270, 170, 170)">
+      <draggable id="1" label="Carbon Dioxide"/>
+      <draggable id="2" label="CFCs"/>
+      <draggable id="3" label="Nitrous Oxide"/>
+      <draggable id="4" label="Methane"/>
+      <draggable id="5" label="Water Vapour"/>
+      <target id="t1" x="225" y="13" w="275" h="50"/>
+      <target id="t2" x="225" y="85" w="275" h="50"/>
+      <target id="t3" x="225" y="155" w="275" h="50"/>
+      <target id="t4" x="225" y="227" w="275" h="50"/>
+      <target id="t5" x="225" y="298" w="275" h="50"/>
+    </drag_and_drop_input>
+    <answer type="loncapa/python">
+correct_answer = [{'draggables': ['1'], 'targets': ['t4'], 'rule':'exact'},
+{'draggables': ['2'], 'targets': ['t1'], 'rule':'exact'},
+{'draggables': ['3'], 'targets': ['t2'], 'rule':'exact'},
+{'draggables': ['4'], 'targets': ['t3'], 'rule':'exact'},
+{'draggables': ['5'], 'targets': ['t5'], 'rule':'exact'}]
+if draganddrop.grade(submission[0], correct_answer):
+      correct = ['correct']
+else:
+      correct = ['incorrect']
+    </answer>
+  </customresponse>
+  <solution>
+    <img src="/static/Week6QuizQ1Ans.jpg"/>
+  </solution>
+</problem>

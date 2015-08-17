@@ -1,0 +1,17 @@
+<problem display_name="Q2" markdown="&gt;&gt;Monocropping requires fertilizers because the reduction in biodiversity&lt;&lt;&#10;() salinizes the soil through evaporation&#10;() makes crops more vulnerable to diseases&#10;(x) reduces the nutrients present in the soil&#10;() causes habitat fragmentation&#10;&#10;[explanation]&#10;In reducing biodiversity, monocropping reduces certain nutrients in the soil, and therefore requires fertilizers in order to enhance crop growth.&#10;[explanation]&#10;" max_attempts="3">
+  <p>Monocropping requires fertilizers because the reduction in biodiversity</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Monocropping requires fertilizers because the reduction in biodiversity" type="MultipleChoice">
+      <choice correct="false">salinizes the soil through evaporation</choice>
+      <choice correct="false">makes crops more vulnerable to diseases</choice>
+      <choice correct="true">reduces the nutrients present in the soil</choice>
+      <choice correct="false">causes habitat fragmentation</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>In reducing biodiversity, monocropping reduces certain nutrients in the soil, and therefore requires fertilizers in order to enhance crop growth.</p>
+    </div>
+  </solution>
+</problem>

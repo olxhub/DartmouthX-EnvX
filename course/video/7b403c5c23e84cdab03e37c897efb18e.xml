@@ -1,0 +1,10 @@
+<video youtube="1.00:-gTvlQT5X5A" url_name="7b403c5c23e84cdab03e37c897efb18e" display_name="Video: Pre-course Welcome and Introduction" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V000100" html5_sources="[]" sub="-gTvlQT5X5A" track="/static/Pre-Course_Welcome_and_Introduction_.pdf" youtube_id_1_0="-gTvlQT5X5A">
+  <track src="/static/Pre-Course_Welcome_and_Introduction_.pdf"/>
+  <video_asset client_video_id="Wk0-Week_Zero-FINAL-1_9" duration="231.11">
+    <encoded_video bitrate="541" file_size="15651613" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000100_MB1.mp4"/>
+    <encoded_video bitrate="1751" file_size="50594515" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000100_DTH.mp4"/>
+    <encoded_video bitrate="260" file_size="7531185" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000100_MB2.mp4"/>
+    <encoded_video bitrate="845" file_size="24425708" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="-gTvlQT5X5A"/>
+  </video_asset>
+</video>

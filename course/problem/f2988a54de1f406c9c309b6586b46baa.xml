@@ -1,0 +1,19 @@
+<problem display_name="W4 Q9" markdown="&gt;&gt;All of the following are energy sources that are indirectly derived from the Sun EXCEPT:&lt;&lt;&#10;() coal&#10;() natural gas&#10;(x) nuclear fission&#10;() oil&#10;() wood&#10;&#10;[explanation] &#10;Nuclear power comes from fission - splitting of atoms. Fossil fuels are derived from plant and animal remains that were fossilized millions of years ago. Plants require energy from the Sun to grow and animals eat plants so both are derived from the Sun. &#10;[explanation]" max_attempts="1">
+  <p>All of the following are energy sources that are indirectly derived from the Sun EXCEPT:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="All of the following are energy sources that are indirectly derived from the Sun EXCEPT:" type="MultipleChoice">
+      <choice correct="false">coal</choice>
+      <choice correct="false">natural gas</choice>
+      <choice correct="true">nuclear fission</choice>
+      <choice correct="false">oil</choice>
+      <choice correct="false">wood</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p> </p>
+      <p>Nuclear power comes from fission - splitting of atoms. Fossil fuels are derived from plant and animal remains that were fossilized millions of years ago. Plants require energy from the Sun to grow and animals eat plants so both are derived from the Sun. </p>
+    </div>
+  </solution>
+</problem>

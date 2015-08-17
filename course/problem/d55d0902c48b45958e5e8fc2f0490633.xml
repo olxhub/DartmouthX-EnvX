@@ -1,0 +1,18 @@
+<problem display_name="W4 Q3" markdown="&gt;&gt;According to the 1st Law of Thermodynamics:&lt;&lt;&#10;() some matter contains energy&#10;(x) energy can neither be created nor destroyed&#10;() energy can be created but never destroyed&#10;() energy may change form but some energy is always destroyed in transformation&#10;() we should aim to conserve energy whenever possible&#10;&#10;[explanation]&#10;The 1st Law of Thermodynamics states that energy is neither created nor destroyed. The 2nd Law of Thermodynamics states that when energy changes form, or when it is used to produce work, some energy is always lost as heat.&#10;[explanation]&#10;" max_attempts="1">
+  <p>According to the 1st Law of Thermodynamics:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="According to the 1st Law of Thermodynamics:" type="MultipleChoice">
+      <choice correct="false">some matter contains energy</choice>
+      <choice correct="true">energy can neither be created nor destroyed</choice>
+      <choice correct="false">energy can be created but never destroyed</choice>
+      <choice correct="false">energy may change form but some energy is always destroyed in transformation</choice>
+      <choice correct="false">we should aim to conserve energy whenever possible</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The 1st Law of Thermodynamics states that energy is neither created nor destroyed. The 2nd Law of Thermodynamics states that when energy changes form, or when it is used to produce work, some energy is always lost as heat.</p>
+    </div>
+  </solution>
+</problem>

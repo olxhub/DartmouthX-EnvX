@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;What is the approximate human population of Earth today? &lt;&lt;&#10;() 5 million&#10;() 5 billion&#10;(x) 7 billion&#10;() 10 billion&#10;() 15 billion&#10;&#10;[explanation]&#10;&#10;The current population of Earth is approximately 7.2 billion people.&#10;&#10;[explanation]&#10;" max_attempts="3">
+  <p>What is the approximate human population of Earth today? </p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is the approximate human population of Earth today? " type="MultipleChoice">
+      <choice correct="false">5 million</choice>
+      <choice correct="false">5 billion</choice>
+      <choice correct="true">7 billion</choice>
+      <choice correct="false">10 billion</choice>
+      <choice correct="false">15 billion</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The current population of Earth is approximately 7.2 billion people.</p>
+    </div>
+  </solution>
+</problem>

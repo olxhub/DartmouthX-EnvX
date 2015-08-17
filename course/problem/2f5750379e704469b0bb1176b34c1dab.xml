@@ -1,0 +1,18 @@
+<problem display_name="W4 Q5" markdown="&gt;&gt;Which of the following energy sources is likely to contribute the least amount of sulfur dioxide emissions?&lt;&lt;&#10;() biomass&#10;() coal&#10;(x) nuclear&#10;() natural gas&#10;() oil&#10;&#10;[explanation]&#10;The use of nuclear fuels does not involve the release of sulfur. Burning fossil fuels can release compounds present in the material and as they combine with oxygen, can create air pollutants. Coal has the highest percentage of sulfur compared to oil (which has some) and natural gas (which has a negligible amount). Biomass burning releases a very small amount of sulfur.&#10;[explanation]&#10;" max_attempts="1">
+  <p>Which of the following energy sources is likely to contribute the least amount of sulfur dioxide emissions?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which of the following energy sources is likely to contribute the least amount of sulfur dioxide emissions?" type="MultipleChoice">
+      <choice correct="false">biomass</choice>
+      <choice correct="false">coal</choice>
+      <choice correct="true">nuclear</choice>
+      <choice correct="false">natural gas</choice>
+      <choice correct="false">oil</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The use of nuclear fuels does not involve the release of sulfur. Burning fossil fuels can release compounds present in the material and as they combine with oxygen, can create air pollutants. Coal has the highest percentage of sulfur compared to oil (which has some) and natural gas (which has a negligible amount). Biomass burning releases a very small amount of sulfur.</p>
+    </div>
+  </solution>
+</problem>

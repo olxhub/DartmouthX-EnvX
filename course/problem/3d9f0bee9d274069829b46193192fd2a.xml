@@ -1,0 +1,18 @@
+<problem display_name="W1 Q2" markdown="&gt;&gt; A group of organisms that is distinct from other organisms and can interbreed to produce viable offspring is referred to as a:&lt;&lt;&#10;() family&#10;(x) species&#10;() niche &#10;() pod&#10;() genus&#10;&#10;[explanation]&#10;A species is defined as a group of biologically similar organisms that can produce viable offspring. &#10;[explanation]&#10;" max_attempts="1" showanswer="finished">
+  <p> A group of organisms that is distinct from other organisms and can interbreed to produce viable offspring is referred to as a:</p>
+  <multiplechoiceresponse>
+    <choicegroup label=" A group of organisms that is distinct from other organisms and can interbreed to produce viable offspring is referred to as a:" type="MultipleChoice">
+      <choice correct="false">family</choice>
+      <choice correct="true">species</choice>
+      <choice correct="false">niche </choice>
+      <choice correct="false">pod</choice>
+      <choice correct="false">genus</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A species is defined as a group of biologically similar organisms that can produce viable offspring. </p>
+    </div>
+  </solution>
+</problem>

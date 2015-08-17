@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;The most appropriate definition of sustainability is:&lt;&lt;&#10;() the science of determining what factors improve a population’s median age&#10;() only eating grass fed beef and free-range chickens &#10;() the recycling of glass and plastic bottles using the lowest quantity of energy possible. &#10;() the practice of convincing corporations to advertise the small carbon footprint of their products.&#10;(x) utilizing resources today so that future generations can also use those resources.&#10;&#10;[explanation]&#10;&#10;Sustainability is defined as using resources in a way that does not jeopardize the ability of future generations to use those resources, or have a similar standard of living. &#10;&#10;[explanation]&#10;&#10;">
+  <p>The most appropriate definition of sustainability is:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The most appropriate definition of sustainability is:" type="MultipleChoice">
+      <choice correct="false">the science of determining what factors improve a population’s median age</choice>
+      <choice correct="false">only eating grass fed beef and free-range chickens </choice>
+      <choice correct="false">the recycling of glass and plastic bottles using the lowest quantity of energy possible. </choice>
+      <choice correct="false">the practice of convincing corporations to advertise the small carbon footprint of their products.</choice>
+      <choice correct="true">utilizing resources today so that future generations can also use those resources.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Sustainability is defined as using resources in a way that does not jeopardize the ability of future generations to use those resources, or have a similar standard of living. </p>
+    </div>
+  </solution>
+</problem>

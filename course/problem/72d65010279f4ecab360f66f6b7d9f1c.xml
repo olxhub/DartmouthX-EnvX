@@ -1,0 +1,25 @@
+<problem display_name="W3 Q10" markdown="For each farming practice or objective listed below, indicate whether it is associated with organic farming, commercial/conventional farming, or both. &#10;&#10;&gt;&gt;Use of mechanization&lt;&lt;&#10;[[organic, commercial/conventional,(both)]]&#10;&#10;&gt;&gt;Use of synthetic pesticides and fertilizers&lt;&lt;&#10;[[organic, (commercial/conventional),both]]&#10;&#10;&gt;&gt;Reliance on fossil fuels&lt;&lt;&#10;[[organic, commercial/conventional,(both)]]&#10;&#10;&gt;&gt;Enhances biodiversity and soil quality&lt;&lt;&#10;[[(organic), commercial/conventional,both]]&#10;&#10;&#10;[explanation]&#10;Organic and commercial/conventional farming both use mechanization and fossil fuels. Organic farming does not use synthetic pesticides and fertilizers. Organic farming does enhance biodiversity and improves soil quality. &#10;[explanation]" max_attempts="1">
+  <p>For each farming practice or objective listed below, indicate whether it is associated with organic farming, commercial/conventional farming, or both. </p>
+  <p>Use of mechanization</p>
+  <optionresponse>
+    <optioninput label="Use of mechanization" options="('organic','commercial/conventional','both')" correct="both"/>
+  </optionresponse>
+  <p>Use of synthetic pesticides and fertilizers</p>
+  <optionresponse>
+    <optioninput label="Use of synthetic pesticides and fertilizers" options="('organic','commercial/conventional','both')" correct="commercial/conventional"/>
+  </optionresponse>
+  <p>Reliance on fossil fuels</p>
+  <optionresponse>
+    <optioninput label="Reliance on fossil fuels" options="('organic','commercial/conventional','both')" correct="both"/>
+  </optionresponse>
+  <p>Enhances biodiversity and soil quality</p>
+  <optionresponse>
+    <optioninput label="Enhances biodiversity and soil quality" options="('organic','commercial/conventional','both')" correct="organic"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Organic and commercial/conventional farming both use mechanization and fossil fuels. Organic farming does not use synthetic pesticides and fertilizers. Organic farming does enhance biodiversity and improves soil quality. </p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,10 @@
+<video youtube="1.00:VuxJG-fzBHI" url_name="a4ee6bb534e344198a6753354b1deae6" display_name="Video: Transition to Week 2" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V006100" html5_sources="[]" sub="VuxJG-fzBHI" track="/static/Wk2_Transition_Week_2.pdf" youtube_id_1_0="VuxJG-fzBHI">
+  <track src="/static/Wk2_Transition_Week_2.pdf"/>
+  <video_asset client_video_id="Wk2_intro_Final_2.6" duration="244.97">
+    <encoded_video bitrate="445" file_size="13644162" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006100_MB1.mp4"/>
+    <encoded_video bitrate="1601" file_size="49033441" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006100_DTH.mp4"/>
+    <encoded_video bitrate="225" file_size="6916464" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006100_MB2.mp4"/>
+    <encoded_video bitrate="923" file_size="28288420" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="VuxJG-fzBHI"/>
+  </video_asset>
+</video>

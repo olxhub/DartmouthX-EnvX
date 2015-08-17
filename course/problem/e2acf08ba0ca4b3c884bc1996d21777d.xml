@@ -1,0 +1,18 @@
+<problem display_name="W2 Q11" markdown="&gt;&gt;The number of live births per thousand people per year is called the&lt;&lt;&#10;() total fertility rate&#10;() natural increase rate&#10;() infant mortality&#10;(x) crude birth rate&#10;() growth rate&#10;&#10;[explanation]&#10;The crude birth rate (CBR) is defined as the number of live births per 1,000 people per year. &#10;[explanation]&#10;&#10;" max_attempts="1">
+  <p>The number of live births per thousand people per year is called the</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The number of live births per thousand people per year is called the" type="MultipleChoice">
+      <choice correct="false">total fertility rate</choice>
+      <choice correct="false">natural increase rate</choice>
+      <choice correct="false">infant mortality</choice>
+      <choice correct="true">crude birth rate</choice>
+      <choice correct="false">growth rate</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The crude birth rate (CBR) is defined as the number of live births per 1,000 people per year. </p>
+    </div>
+  </solution>
+</problem>

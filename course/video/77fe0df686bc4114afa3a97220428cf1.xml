@@ -1,0 +1,11 @@
+<video youtube="1.00:mZUjbFNOdxQ" url_name="77fe0df686bc4114afa3a97220428cf1" display_name="Video: A Soil Profile" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V002300" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk3_Soil_Profile_Handout.pdf" html5_sources="[]" sub="mZUjbFNOdxQ" track="/static/Wk3.ASoilProfile.pdf" youtube_id_1_0="mZUjbFNOdxQ">
+  <track src="/static/Wk3.ASoilProfile.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk3_Soil_Profile_Handout.pdf"/>
+  <video_asset client_video_id="Wk3.ASoilProfile_FINAL_1_15" duration="379.86">
+    <encoded_video bitrate="1078" file_size="51205199" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002300_DTH.webm"/>
+    <encoded_video bitrate="422" file_size="20083078" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002300_MB2.mp4"/>
+    <encoded_video bitrate="1072" file_size="50917913" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002300_MB1.mp4"/>
+    <encoded_video bitrate="4155" file_size="197322282" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002300_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="mZUjbFNOdxQ"/>
+  </video_asset>
+</video>

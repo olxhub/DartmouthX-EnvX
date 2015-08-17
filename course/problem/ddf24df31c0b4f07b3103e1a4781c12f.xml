@@ -1,0 +1,13 @@
+<problem display_name="W2 Q1" markdown="&gt;&gt;What is the human population of the world in billions. Give you answer to the nearest tenth (0.1):&lt;&lt;&#10;= 7.2 +- 0.2&#10;&#10;&#10;[explanation]&#10;The current population of the world is aproximately 7.2 billion people.&#10;[explanation]&#10;" max_attempts="1">
+  <p>What is the human population of the world in billions. Give you answer to the nearest tenth (0.1):</p>
+  <numericalresponse answer="7.2">
+    <responseparam type="tolerance" default="0.2"/>
+    <formulaequationinput label="What is the human population of the world in billions. Give you answer to the nearest tenth (0.1):"/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The current population of the world is aproximately 7.2 billion people.</p>
+    </div>
+  </solution>
+</problem>

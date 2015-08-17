@@ -1,0 +1,19 @@
+<problem display_name="Q2" markdown=" &gt;&gt;Didymo is currently causing problems in rivers all over the world. Recent studies suggest that it may be different from silver carp and the kudzu vine in that: &lt;&lt;&#10;() Didymo has harmed native species to a much lesser extent&#10;() Didymo has harmed native species to a much greater extent&#10;() Didymo was introduced by humans&#10;(x) Didymo is not an invasive species&#10;() Didymo is a more current problem&#10;&#10;[explanation]&#10;&#10;Scientists have recently discovered fossilized forms of didymo in various countries across Europe, Asia, and North and South America, suggesting that didymo may not be an invasive species. &#10;&#10;[explanation]" max_attempts="3" showanswer="finished" weight="1.0">
+<p> Didymo is currently causing problems in rivers all over the world. Recent studies suggest that it may be different from silver carp and the kudzu vine in that: </p>
+<multiplechoiceresponse>
+  <choicegroup label="Didymo is currently causing problems in rivers all over the world. Recent studies suggest that it may be different from silver carp and the kudzu vine in that: " type="MultipleChoice">
+    <choice correct="false">Didymo has harmed native species to a much lesser extent</choice>
+    <choice correct="false">Didymo has harmed native species to a much greater extent</choice>
+    <choice correct="false">Didymo was introduced by humans</choice>
+    <choice correct="true">Didymo is not an invasive species</choice>
+    <choice correct="false">Didymo is a more current problem</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+<p>Scientists have recently discovered fossilized forms of didymo in various countries across Europe, Asia, and North and South America, suggesting that didymo may not be an invasive species. </p>
+</div>
+</solution>
+</problem>

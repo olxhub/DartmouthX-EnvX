@@ -1,0 +1,17 @@
+<problem display_name="W6 Q8" markdown="&gt;&gt;Change in a system that drives the system away from its original state is referred to as: &lt;&lt;&#10;() a negative feedback loop&#10;(x) a positive feedback loop&#10;() negative radiative forcing&#10;() positive radiative forcing&#10;&#10;[explanation]&#10;Positive feedback loops are changes in a system that drive the system away from its original state--there are many positive feedback loops associated with climate change. &#10;[explanation]" max_attempts="1">
+  <p>Change in a system that drives the system away from its original state is referred to as: </p>
+  <multiplechoiceresponse>
+    <choicegroup label="Change in a system that drives the system away from its original state is referred to as: " type="MultipleChoice">
+      <choice correct="false">a negative feedback loop</choice>
+      <choice correct="true">a positive feedback loop</choice>
+      <choice correct="false">negative radiative forcing</choice>
+      <choice correct="false">positive radiative forcing</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Positive feedback loops are changes in a system that drive the system away from its original state--there are many positive feedback loops associated with climate change. </p>
+    </div>
+  </solution>
+</problem>

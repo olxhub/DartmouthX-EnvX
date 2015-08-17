@@ -1,0 +1,13 @@
+<problem display_name="W6 Q1" markdown="&gt;&gt; Atmospheric CO2 concentrations are currently about ___ ppm (parts per million).&lt;&lt;&#10;= 400 +- 15&#10;&#10;[explanation]&#10;Atmospheric CO2 concentrations are currently about 400 ppm. &#10;[explanation]" max_attempts="1" weight="2.0">
+  <p> Atmospheric CO2 concentrations are currently about ___ ppm (parts per million).</p>
+  <numericalresponse answer="400">
+    <responseparam type="tolerance" default="15"/>
+    <formulaequationinput label=" Atmospheric CO2 concentrations are currently about ___ ppm (parts per million)."/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Atmospheric CO2 concentrations are currently about 400 ppm. </p>
+    </div>
+  </solution>
+</problem>

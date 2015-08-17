@@ -1,0 +1,18 @@
+<problem display_name="W4 Q13" markdown="&gt;&gt; __________ is the rate at which energy is supplied.&lt;&lt;&#10;&#10;( ) Efficiency&#10;( ) Conservation&#10;( ) Kinetic&#10;(x) Power&#10;( ) Thermodynamics&#10;&#10;[explanation]&#10;Power = Energy / Time and is the measure of the rate at which energy is supplied. &#10;[explanation]&#10;" max_attempts="1">
+  <p> __________ is the rate at which energy is supplied.</p>
+  <multiplechoiceresponse>
+    <choicegroup label=" __________ is the rate at which energy is supplied." type="MultipleChoice">
+      <choice correct="false">Efficiency</choice>
+      <choice correct="false">Conservation</choice>
+      <choice correct="false">Kinetic</choice>
+      <choice correct="true">Power</choice>
+      <choice correct="false">Thermodynamics</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Power = Energy / Time and is the measure of the rate at which energy is supplied. </p>
+    </div>
+  </solution>
+</problem>

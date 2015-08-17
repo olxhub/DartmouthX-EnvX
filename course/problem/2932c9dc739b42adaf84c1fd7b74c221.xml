@@ -1,0 +1,18 @@
+<problem display_name="W2 Q12" markdown="&gt;&gt;Thomas Malthus predicted that:&lt;&lt;&#10;(x) human population growth would outpace food production&#10;() advances in technology would offset population growth&#10;() resource distribution would not be a problem&#10;() agricultural productivity would decrease due to pesticide use&#10;() the impact of the Green Revolution would support increasing population size&#10;&#10;[explanation]&#10;Thomas Malthus predicted that human population growth would one day exceed food production, leading to food limitation. The idea that the human population will one day exceed carrying capacity on Earth is known as the Malthusian View.&#10;[explanation]&#10;&#10;" max_attempts="1">
+  <p>Thomas Malthus predicted that:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Thomas Malthus predicted that:" type="MultipleChoice">
+      <choice correct="true">human population growth would outpace food production</choice>
+      <choice correct="false">advances in technology would offset population growth</choice>
+      <choice correct="false">resource distribution would not be a problem</choice>
+      <choice correct="false">agricultural productivity would decrease due to pesticide use</choice>
+      <choice correct="false">the impact of the Green Revolution would support increasing population size</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Thomas Malthus predicted that human population growth would one day exceed food production, leading to food limitation. The idea that the human population will one day exceed carrying capacity on Earth is known as the Malthusian View.</p>
+    </div>
+  </solution>
+</problem>

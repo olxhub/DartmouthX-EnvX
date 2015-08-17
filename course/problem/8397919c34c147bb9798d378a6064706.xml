@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;When calculating a mean residence time, which of the following is essential?&lt;&lt;&#10;&#10;(x) steady state&#10;() existence of a positive feedback system&#10;() existence of a negative feedback system&#10;() presence of an introduced species &#10;() the presence of water&#10;&#10;[explanation]&#10;&#10;A fundamental assumption when calculating mean residence time is that the system of study is in steady state. This means that the inputs must be equal to the outputs. &#10;&#10;[explanation]" max_attempts="3">
+  <p>When calculating a mean residence time, which of the following is essential?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="When calculating a mean residence time, which of the following is essential?" type="MultipleChoice">
+      <choice correct="true">steady state</choice>
+      <choice correct="false">existence of a positive feedback system</choice>
+      <choice correct="false">existence of a negative feedback system</choice>
+      <choice correct="false">presence of an introduced species </choice>
+      <choice correct="false">the presence of water</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A fundamental assumption when calculating mean residence time is that the system of study is in steady state. This means that the inputs must be equal to the outputs. </p>
+    </div>
+  </solution>
+</problem>

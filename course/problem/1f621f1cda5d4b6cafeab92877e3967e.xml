@@ -1,0 +1,17 @@
+<problem display_name="W6 Q12" markdown="&gt;&gt; Which of the following areas are most likely to be disproportionally affected by global warming?&lt;&lt; &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the TWO characteristics that apply.&lt;/strong&gt;&#10;&#10;[] developed countries&#10;[x] developing countries&#10;[] mountainous areas&#10;[x] coastline areas&#10;&#10;[explanation]&#10;Increased temperatures and climate change are predicted to disproportionately affect developing nations and coastline areas (because of rising sea levels). &#10;[explanation]" max_attempts="1" weight="2.0">
+  <p> Which of the following areas are most likely to be disproportionally affected by global warming? <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the TWO characteristics that apply.</strong></p>
+  <choiceresponse>
+    <checkboxgroup label=" Which of the following areas are most likely to be disproportionally affected by global warming?" direction="vertical">
+      <choice correct="false">developed countries</choice>
+      <choice correct="true">developing countries</choice>
+      <choice correct="false">mountainous areas</choice>
+      <choice correct="true">coastline areas</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Increased temperatures and climate change are predicted to disproportionately affect developing nations and coastline areas (because of rising sea levels). </p>
+    </div>
+  </solution>
+</problem>

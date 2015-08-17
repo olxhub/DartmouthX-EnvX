@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;Which renewable energy is ultimately responsible for all of the other renewable energy resources? &lt;&lt;&#10;() hydroelectric&#10;(x) solar&#10;() corn ethanol &#10;() wind&#10;() wood&#10;&#10;[explanation]&#10;The sun is partly responsible for hydroelectric power (drives evaporation in the hydrologic cycle), corn ethanol and wood (solar energy in photosynthesis, supporting plant growth), and wind (caused by the differential heating of the earth’s surface).&#10;[explanation]" max_attempts="3">
+  <p>Which renewable energy is ultimately responsible for all of the other renewable energy resources? </p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which renewable energy is ultimately responsible for all of the other renewable energy resources? " type="MultipleChoice">
+      <choice correct="false">hydroelectric</choice>
+      <choice correct="true">solar</choice>
+      <choice correct="false">corn ethanol </choice>
+      <choice correct="false">wind</choice>
+      <choice correct="false">wood</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The sun is partly responsible for hydroelectric power (drives evaporation in the hydrologic cycle), corn ethanol and wood (solar energy in photosynthesis, supporting plant growth), and wind (caused by the differential heating of the earth’s surface).</p>
+    </div>
+  </solution>
+</problem>

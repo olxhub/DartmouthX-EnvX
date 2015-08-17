@@ -1,0 +1,18 @@
+<problem display_name="W5 Q11" markdown="&gt;&gt;Which of the following are benefits of solar generated electricity?&lt;&lt; &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the TWO characteristics that apply.&lt;/strong&gt;&#10;&#10;[x] it does not require a fossil fuel to operate&#10;[ ] the production of solar panels does not require much energy &#10;[x] once panels are produced, they do not generate waste byproducts&#10;[ ] panel production does not require mining or extraction of natural resources&#10;[ ] panels provide a reliable, continuous supply of electricity &#10;&#10;[explanation]&#10;While solar panels are energy-intensive to produce (they require mining for certain metals as well as fossil fuels), after production, there is little waste generated during operation. They only produce electricity when the sun is shining. &#10;[explanation]&#10;&#10;&#10;&#10;&#10;" max_attempts="1" weight="2.0">
+  <p>Which of the following are benefits of solar generated electricity? <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the TWO characteristics that apply.</strong></p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following are benefits of solar generated electricity?" direction="vertical">
+      <choice correct="true">it does not require a fossil fuel to operate</choice>
+      <choice correct="false">the production of solar panels does not require much energy </choice>
+      <choice correct="true">once panels are produced, they do not generate waste byproducts</choice>
+      <choice correct="false">panel production does not require mining or extraction of natural resources</choice>
+      <choice correct="false">panels provide a reliable, continuous supply of electricity </choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>While solar panels are energy-intensive to produce (they require mining for certain metals as well as fossil fuels), after production, there is little waste generated during operation. They only produce electricity when the sun is shining. </p>
+    </div>
+  </solution>
+</problem>

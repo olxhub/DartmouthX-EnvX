@@ -1,0 +1,18 @@
+<problem display_name="W4 Q12" markdown="&gt;&gt;What is the name of the coal-fired powerplant device that directly causes the generator to turn?&lt;&lt;&#10;&#10;( ) pulverizer &#10;( ) boiler&#10;(x) turbine&#10;( ) electrical transmission lines&#10;( ) smokestack&#10;&#10;[explanation]&#10;The turbine is driven by the kinetic energy in steam that passes over the blades, that turns the generator that generates electricity. &#10;[explanation]&#10;" max_attempts="1" weight="1.0">
+  <p>What is the name of the coal-fired powerplant device that directly causes the generator to turn?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is the name of the coal-fired powerplant device that directly causes the generator to turn?" type="MultipleChoice">
+      <choice correct="false">pulverizer </choice>
+      <choice correct="false">boiler</choice>
+      <choice correct="true">turbine</choice>
+      <choice correct="false">electrical transmission lines</choice>
+      <choice correct="false">smokestack</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The turbine is driven by the kinetic energy in steam that passes over the blades, that turns the generator that generates electricity. </p>
+    </div>
+  </solution>
+</problem>

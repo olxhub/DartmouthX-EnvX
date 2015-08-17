@@ -1,0 +1,17 @@
+<problem display_name="Q1" markdown="&gt;&gt;The estimate of the average number of children that each woman in a population will have throughout her lifetime is referred to as: &lt;&lt;&#10;() growth rate&#10;() life expectancy&#10;(x) total fertility rate&#10;() replacement level fertility&#10;&#10;[explanation]&#10;The estimate of the average number of children that each woman in a population will have throughout her lifetime is the total fertility rate. &#10;&#10;[explanation]&#10;" max_attempts="3">
+  <p>The estimate of the average number of children that each woman in a population will have throughout her lifetime is referred to as: </p>
+  <multiplechoiceresponse>
+    <choicegroup label="The estimate of the average number of children that each woman in a population will have throughout her lifetime is referred to as: " type="MultipleChoice">
+      <choice correct="false">growth rate</choice>
+      <choice correct="false">life expectancy</choice>
+      <choice correct="true">total fertility rate</choice>
+      <choice correct="false">replacement level fertility</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The estimate of the average number of children that each woman in a population will have throughout her lifetime is the total fertility rate. </p>
+    </div>
+  </solution>
+</problem>

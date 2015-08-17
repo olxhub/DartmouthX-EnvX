@@ -1,0 +1,11 @@
+<video youtube="1.00:oTkc4B4D71w" url_name="ea481744d81e46078511f76b89cac30d" display_name="Video: Global Change Effects" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V005100" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk6_Global_Change_Effects_Handout.pdf" html5_sources="[]" sub="oTkc4B4D71w" track="/static/Wk6_GlobalChangeEffects.pdf" youtube_id_1_0="oTkc4B4D71w">
+  <track src="/static/Wk6_GlobalChangeEffects.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk6_Global_Change_Effects_Handout.pdf"/>
+  <video_asset client_video_id="Wk6_GlobalChangeEffects_FINAL_1_20" duration="317.12">
+    <encoded_video bitrate="178" file_size="7086664" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005100_MB2.mp4"/>
+    <encoded_video bitrate="303" file_size="12012068" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005100_MB1.mp4"/>
+    <encoded_video bitrate="1094" file_size="43387805" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="oTkc4B4D71w"/>
+    <encoded_video bitrate="944" file_size="37421359" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005100_DTH.mp4"/>
+  </video_asset>
+</video>

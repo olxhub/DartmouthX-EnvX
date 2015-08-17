@@ -1,0 +1,11 @@
+<video youtube="1.00:-dkSkOcGAN4" url_name="f6bbc8da0a404c14ae1e0419d22ace31" display_name="Video: Agriculture and Human Nutrition" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V002400" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk3_Ag_Human_Nutrition_Handout.pdf" html5_sources="[]" sub="-dkSkOcGAN4" track="/static/Wk3.AgAndHumanNutrition.pdf" youtube_id_1_0="-dkSkOcGAN4">
+  <track src="/static/Wk3.AgAndHumanNutrition.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk3_Ag_Human_Nutrition_Handout.pdf"/>
+  <video_asset client_video_id="Wk3.AgAndHumanNutrition_FINAL_1_15" duration="264.99">
+    <encoded_video bitrate="707" file_size="23427657" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002400_MB1.mp4"/>
+    <encoded_video bitrate="707" file_size="83020000" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002400_DTH.mp4"/>
+    <encoded_video bitrate="707" file_size="10426721" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002400_MB2.mp4"/>
+    <encoded_video bitrate="707" file_size="0" profile="youtube" url="-dkSkOcGAN4"/>
+    <encoded_video bitrate="1037" file_size="34366170" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002400_DTH.webm"/>
+  </video_asset>
+</video>

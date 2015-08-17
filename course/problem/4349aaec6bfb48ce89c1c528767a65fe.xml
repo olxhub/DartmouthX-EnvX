@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;The idea that the human population could one day exceed the carrying capacity of Earth is known as the ______________.&lt;&lt;&#10;() Simon Principle&#10;() Limit Hypothesis&#10;() Steady State Theory&#10;(x) Malthusian Theory&#10;() Cornucopian Theory&#10;&#10;[explanation]&#10;&#10;Thomas Malthus was an English clergyman who made dire predictions about the ability of Earth to sustain its growing population. He believed that human population growth would outstrip agricultural production, leading to mass starvation and conflict. This is known as the Malthusian Theory.&#10;&#10;[explanation]&#10;" max_attempts="3">
+  <p>The idea that the human population could one day exceed the carrying capacity of Earth is known as the ______________.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The idea that the human population could one day exceed the carrying capacity of Earth is known as the ______________." type="MultipleChoice">
+      <choice correct="false">Simon Principle</choice>
+      <choice correct="false">Limit Hypothesis</choice>
+      <choice correct="false">Steady State Theory</choice>
+      <choice correct="true">Malthusian Theory</choice>
+      <choice correct="false">Cornucopian Theory</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Thomas Malthus was an English clergyman who made dire predictions about the ability of Earth to sustain its growing population. He believed that human population growth would outstrip agricultural production, leading to mass starvation and conflict. This is known as the Malthusian Theory.</p>
+    </div>
+  </solution>
+</problem>

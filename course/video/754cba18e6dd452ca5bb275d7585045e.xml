@@ -1,0 +1,11 @@
+<video youtube="1.00:hdflqY8nZFU" url_name="754cba18e6dd452ca5bb275d7585045e" display_name="Video: A conversation with Phil Connors" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V001100" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk2_Phil_Connors_Handout.pdf" html5_sources="[]" sub="hdflqY8nZFU" track="/static/Wk2_ConversationWithPhilConnors.pdf" youtube_id_1_0="hdflqY8nZFU">
+  <track src="/static/Wk2_ConversationWithPhilConnors.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk2_Phil_Connors_Handout.pdf"/>
+  <video_asset client_video_id="Wk2_ConversationWithPhilConnors_FINAL_1_13" duration="361.4">
+    <encoded_video bitrate="2000" file_size="90349412" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001100_DTH.mp4"/>
+    <encoded_video bitrate="1079" file_size="48748414" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001100_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="hdflqY8nZFU"/>
+    <encoded_video bitrate="262" file_size="11841739" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001100_MB2.mp4"/>
+    <encoded_video bitrate="552" file_size="24944197" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001100_MB1.mp4"/>
+  </video_asset>
+</video>

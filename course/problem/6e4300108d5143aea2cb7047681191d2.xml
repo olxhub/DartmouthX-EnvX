@@ -1,0 +1,17 @@
+<problem display_name="Q1" markdown=" &gt;&gt;In a polar feedback loop, high temperatures lead to melting sea ice, which in turn results in:&lt;&lt;&#10;() evaporation into more clouds, cooling the planet&#10;() evaporation into more clouds, warming the planet&#10;() increased albedo in water surface, cooling the planet&#10;(x) decreased water surface albedo, warming the planet&#10;&#10;[explanation]&#10;More melting of sea ice leads to an increase in sea level, leading to a lower water surface albedo (water is less reflective than ice), leading to warmer oceans and thus a warmer ocean atmosphere and ultimately a warmer planet.&#10;[explanation]" max_attempts="3">
+  <p> In a polar feedback loop, high temperatures lead to melting sea ice, which in turn results in:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In a polar feedback loop, high temperatures lead to melting sea ice, which in turn results in:" type="MultipleChoice">
+      <choice correct="false">evaporation into more clouds, cooling the planet</choice>
+      <choice correct="false">evaporation into more clouds, warming the planet</choice>
+      <choice correct="false">increased albedo in water surface, cooling the planet</choice>
+      <choice correct="true">decreased water surface albedo, warming the planet</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>More melting of sea ice leads to an increase in sea level, leading to a lower water surface albedo (water is less reflective than ice), leading to warmer oceans and thus a warmer ocean atmosphere and ultimately a warmer planet.</p>
+    </div>
+  </solution>
+</problem>

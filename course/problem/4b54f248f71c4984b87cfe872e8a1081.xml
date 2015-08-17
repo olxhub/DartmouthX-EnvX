@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;In comparison to commercial agriculture, organic agriculture does all of the following except&lt;&lt;&#10;() avoid using synthetic fertilizers&#10;(x) eliminate erosion&#10;() enhance biodiversity&#10;() increase soil biological activity&#10;() retain organic matter in the soil&#10;&#10;[explanation]&#10;Organic agriculture generally enhances ecosystem services however, it still involves plowing the soil, thereby allowing some erosion to occur.&#10;[explanation]" max_attempts="3">
+  <p>In comparison to commercial agriculture, organic agriculture does all of the following except</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In comparison to commercial agriculture, organic agriculture does all of the following except" type="MultipleChoice">
+      <choice correct="false">avoid using synthetic fertilizers</choice>
+      <choice correct="true">eliminate erosion</choice>
+      <choice correct="false">enhance biodiversity</choice>
+      <choice correct="false">increase soil biological activity</choice>
+      <choice correct="false">retain organic matter in the soil</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Organic agriculture generally enhances ecosystem services however, it still involves plowing the soil, thereby allowing some erosion to occur.</p>
+    </div>
+  </solution>
+</problem>

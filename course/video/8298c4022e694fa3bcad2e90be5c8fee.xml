@@ -1,0 +1,11 @@
+<video youtube="1.00:kevKBVO5l-o" url_name="8298c4022e694fa3bcad2e90be5c8fee" display_name="Video: Nitrogen Cycle" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V000400" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk1_Nitrogen_Cycle_Handout.pdf" html5_sources="[]" sub="kevKBVO5l-o" track="/static/Wk1-The_Nitrogen_Cycle.pdf" youtube_id_1_0="kevKBVO5l-o">
+  <track src="/static/Wk1-The_Nitrogen_Cycle.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk1_Nitrogen_Cycle_Handout.pdf"/>
+  <video_asset client_video_id="Wk1-The_Nitrogen_Cycle_FINAL-1_7" duration="153.67">
+    <encoded_video bitrate="589" file_size="11325236" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000400_MB1.mp4"/>
+    <encoded_video bitrate="1887" file_size="36261659" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000400_DTH.mp4"/>
+    <encoded_video bitrate="272" file_size="5234836" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000400_MB2.mp4"/>
+    <encoded_video bitrate="824" file_size="15846500" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000400_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="kevKBVO5l-o"/>
+  </video_asset>
+</video>

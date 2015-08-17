@@ -1,0 +1,12 @@
+<problem display_name="W2 Q10" markdown="&gt;&gt;A person living in a _______ country will tend to have a greater environmental impact. &lt;&lt;&#10;[[(developed), developing]]&#10;&#10;[explanation]&#10;&#10;Resource use per person is greater in developed countries and lower in developing countries. &#10;&#10;[explanation]&#10;&#10;" max_attempts="1">
+  <p>A person living in a _______ country will tend to have a greater environmental impact. </p>
+  <optionresponse>
+    <optioninput label="A person living in a _______ country will tend to have a greater environmental impact. " options="('developed','developing')" correct="developed"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Resource use per person is greater in developed countries and lower in developing countries. </p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,17 @@
+<problem display_name="Q2" markdown="&gt;&gt;100 Joules of coal enter a power plant and 35 Joules of electricity are generated. This relationship most directly demonstrates that:&lt;&lt;&#10;&#10;() energy is created in the conversion &#10;(x) energy loses the ability to do work when it changes form&#10;() energy is destroyed in conversion&#10;() coal is a higher density energy source than electricity&#10;     &#10;[explanation]&#10;The 1st Law of Thermodynamics states that energy is neither created nor destroyed. However, the 2nd Law of Thermodynamics states that when energy changes form, or when it is used to produce work, some energy is always lost as heat. &#10;[explanation]&#10;&#10;" max_attempts="3">
+  <p>100 Joules of coal enter a power plant and 35 Joules of electricity are generated. This relationship most directly demonstrates that:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="100 Joules of coal enter a power plant and 35 Joules of electricity are generated. This relationship most directly demonstrates that:" type="MultipleChoice">
+      <choice correct="false">energy is created in the conversion </choice>
+      <choice correct="true">energy loses the ability to do work when it changes form</choice>
+      <choice correct="false">energy is destroyed in conversion</choice>
+      <choice correct="false">coal is a higher density energy source than electricity</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The 1st Law of Thermodynamics states that energy is neither created nor destroyed. However, the 2nd Law of Thermodynamics states that when energy changes form, or when it is used to produce work, some energy is always lost as heat. </p>
+    </div>
+  </solution>
+</problem>

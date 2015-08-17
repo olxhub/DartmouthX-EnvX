@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;Nitrogen is important to living organisms because it:&lt;&lt;&#10;&#10;( ) can help clean up the environment through photosynthesis &#10;( ) can be used as a substitute for petroleum fuels&#10;(x) is used to form amino acids, the building blocks for proteins&#10;( ) is less than 10% of the atmosphere&#10;( ) contributes to the decomposition of organisms &#10;&#10;[explanation]&#10;&#10;Nitrogen is an essential component of amino acids--the building blocks of proteins--and of nucleotides, which make up DNA. Therefore, it is needed by all living things. &#10;&#10;[explanation]&#10;" max_attempts="3">
+  <p>Nitrogen is important to living organisms because it:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Nitrogen is important to living organisms because it:" type="MultipleChoice">
+      <choice correct="false">can help clean up the environment through photosynthesis </choice>
+      <choice correct="false">can be used as a substitute for petroleum fuels</choice>
+      <choice correct="true">is used to form amino acids, the building blocks for proteins</choice>
+      <choice correct="false">is less than 10% of the atmosphere</choice>
+      <choice correct="false">contributes to the decomposition of organisms </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Nitrogen is an essential component of amino acids--the building blocks of proteins--and of nucleotides, which make up DNA. Therefore, it is needed by all living things. </p>
+    </div>
+  </solution>
+</problem>

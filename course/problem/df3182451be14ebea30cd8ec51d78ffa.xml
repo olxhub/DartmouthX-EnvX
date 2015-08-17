@@ -1,0 +1,17 @@
+<problem display_name="Q2" markdown="&gt;&gt;PV Cells make use of solar energy by:&lt;&lt;&#10;() converting solar energy into useable heat&#10;() heating water in the cells to heat the home&#10;() heating water in the cells to create steam for a turbine&#10;(x) converting solar energy directly into electricity&#10;&#10;[explanation]&#10;PV, also called photovoltaic cells, capture solar energy and convert it directly into electricity. &#10;[explanation]&#10;" max_attempts="3">
+  <p>PV Cells make use of solar energy by:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="PV Cells make use of solar energy by:" type="MultipleChoice">
+      <choice correct="false">converting solar energy into useable heat</choice>
+      <choice correct="false">heating water in the cells to heat the home</choice>
+      <choice correct="false">heating water in the cells to create steam for a turbine</choice>
+      <choice correct="true">converting solar energy directly into electricity</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>PV, also called photovoltaic cells, capture solar energy and convert it directly into electricity. </p>
+    </div>
+  </solution>
+</problem>

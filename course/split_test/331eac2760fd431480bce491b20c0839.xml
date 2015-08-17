@@ -1,0 +1,4 @@
+<split_test group_id_to_child="{&quot;2116254033&quot;: &quot;i4x://DartmouthX/DART.ENVS.02X/vertical/f80f7324adac4999bcc04233f31ac665&quot;, &quot;40075951&quot;: &quot;i4x://DartmouthX/DART.ENVS.02X/vertical/cd297782f3bb4e9f8d5b0cc41a5a2ecb&quot;}" user_partition_id="335005579" display_name="Dropthought">
+  <vertical url_name="cd297782f3bb4e9f8d5b0cc41a5a2ecb"/>
+  <vertical url_name="f80f7324adac4999bcc04233f31ac665"/>
+</split_test>

@@ -1,0 +1,17 @@
+<problem display_name="Q2" markdown="&gt;&gt;Which of the following renewable energy sources is potentially depletable:&lt;&lt;&#10;() hydroelectric &#10;() solar&#10;(x) corn ethanol &#10;() wind&#10;&#10;[explanation]&#10;Biofuels such as corn ethanol and wood are potentially depletable because if managed improperly, they may not grow at a rate that replaces the amount harvested.&#10;[explanation]" max_attempts="3">
+  <p>Which of the following renewable energy sources is potentially depletable:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which of the following renewable energy sources is potentially depletable:" type="MultipleChoice">
+      <choice correct="false">hydroelectric </choice>
+      <choice correct="false">solar</choice>
+      <choice correct="true">corn ethanol </choice>
+      <choice correct="false">wind</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Biofuels such as corn ethanol and wood are potentially depletable because if managed improperly, they may not grow at a rate that replaces the amount harvested.</p>
+    </div>
+  </solution>
+</problem>

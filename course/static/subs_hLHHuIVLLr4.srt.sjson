@@ -1,0 +1,32 @@
+{
+  "start": [
+    0, 
+    500, 
+    3670, 
+    7190, 
+    12040, 
+    15730, 
+    19280, 
+    24090
+  ], 
+  "end": [
+    500, 
+    3670, 
+    7190, 
+    12040, 
+    15730, 
+    19280, 
+    24090, 
+    28370
+  ], 
+  "text": [
+    "", 
+    "Coal-fired plants transform coal into electricity", 
+    "by pulverizing it and burning it in a furnace.", 
+    "The burning coal heats water in a boiler and turns it to steam.", 
+    "The steam, under tremendous pressure and at high temperature,", 
+    "provides the force to turn the turbine blades.", 
+    "The turbine spins an electromagnet inside copper coils in the generator.", 
+    "And that produces the flow of electrons called electricity."
+  ]
+}

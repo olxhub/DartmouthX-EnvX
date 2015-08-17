@@ -1,0 +1,17 @@
+<problem display_name="Q2" markdown="&gt;&gt;A soil's cation exchange capacity (CEC) is most dependent on which of the following?  &lt;&lt;&#10;() sand&#10;() silt&#10;(x) clay&#10;() rocks&#10;&#10;[explanation]&#10;The cation exchange capacity (CEC) is most influenced by the presence of clay because clay has a negative surface charge that attracts and holds ions. &#10;[explanation]&#10;" max_attempts="3">
+  <p>A soil's cation exchange capacity (CEC) is most dependent on which of the following?  </p>
+  <multiplechoiceresponse>
+    <choicegroup label="A soil's cation exchange capacity (CEC) is most dependent on which of the following?  " type="MultipleChoice">
+      <choice correct="false">sand</choice>
+      <choice correct="false">silt</choice>
+      <choice correct="true">clay</choice>
+      <choice correct="false">rocks</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The cation exchange capacity (CEC) is most influenced by the presence of clay because clay has a negative surface charge that attracts and holds ions. </p>
+    </div>
+  </solution>
+</problem>

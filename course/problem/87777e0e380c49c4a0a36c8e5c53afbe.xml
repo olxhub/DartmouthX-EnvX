@@ -1,0 +1,17 @@
+<problem display_name="Q2" markdown="&gt;&gt;In the demographic transition theory, a subsistence (pre-industrialized) economy is characterized by:&lt;&lt;&#10;(x) a high birth rate and a high death rate&#10;() a high birth rate and a low death rate&#10;() a low birth rate and a low death rate&#10;() a low birth rate and a higher death rate&#10;&#10;[explanation]&#10;A subsistence economy, according to the demographic transition theory, is characterized by both a high birth rate and a high death rate. For example, in Europe before the Industrial Revolution, birth rates were high because more children meant more workers on the farm. Additionally, families needed to have more children as many did not survive to adulthood. Death rates were high because of disease and a lack of hygiene. &#10;&#10;[explanation]" max_attempts="3">
+  <p>In the demographic transition theory, a subsistence (pre-industrialized) economy is characterized by:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In the demographic transition theory, a subsistence (pre-industrialized) economy is characterized by:" type="MultipleChoice">
+      <choice correct="true">a high birth rate and a high death rate</choice>
+      <choice correct="false">a high birth rate and a low death rate</choice>
+      <choice correct="false">a low birth rate and a low death rate</choice>
+      <choice correct="false">a low birth rate and a higher death rate</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A subsistence economy, according to the demographic transition theory, is characterized by both a high birth rate and a high death rate. For example, in Europe before the Industrial Revolution, birth rates were high because more children meant more workers on the farm. Additionally, families needed to have more children as many did not survive to adulthood. Death rates were high because of disease and a lack of hygiene. </p>
+    </div>
+  </solution>
+</problem>

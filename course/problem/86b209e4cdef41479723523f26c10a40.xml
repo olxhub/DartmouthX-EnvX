@@ -1,0 +1,17 @@
+<problem display_name="Q2" markdown="Cogeneration plants like the Dartmouth powerplant convert __________ energy in the chemical bonds of oil into __________ energy in the steam. &#10;&#10;( ) kinetic, potential&#10;(x) potential, kinetic&#10;( ) kinetic, kinetic&#10;( ) potential, potential&#10;&#10;&#10;[explanation]&#10;The potential chemical energy in fuel oil is converted to kinetic energy, which in this case is the motion of the molecules in steam. &#10;[explanation]&#10;" max_attempts="3">
+  <p>Cogeneration plants like the Dartmouth powerplant convert __________ energy in the chemical bonds of oil into __________ energy in the steam. </p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">kinetic, potential</choice>
+      <choice correct="true">potential, kinetic</choice>
+      <choice correct="false">kinetic, kinetic</choice>
+      <choice correct="false">potential, potential</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The potential chemical energy in fuel oil is converted to kinetic energy, which in this case is the motion of the molecules in steam. </p>
+    </div>
+  </solution>
+</problem>

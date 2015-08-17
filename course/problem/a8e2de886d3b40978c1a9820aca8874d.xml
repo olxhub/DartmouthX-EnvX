@@ -1,0 +1,14 @@
+<problem display_name="W4 Q14" markdown="In a steam-electric power plant, 100 units of fuel are put into a boiler, which converts the fuel to 80 units of steam. The steam is then put through a turbine, which transfers 40 units to a generator. The generator is then able to generate 36 units of electricity. &#10;&#10;&gt;&gt;What is the overall efficiency of this system? Round your answer to the nearest whole number. Do not include the % sign in your answer.&lt;&lt;&#10;&#10;= 36&#10;&#10;[explanation]&#10;The energy efficiency of system = &#10;((energy output in the desired form) / (energy input)) x 100 = 36/100 x 100 = 36%&#10;[explanation]&#10;&#10;&#10;" max_attempts="1" weight="2.0">
+  <p>In a steam-electric power plant, 100 units of fuel are put into a boiler, which converts the fuel to 80 units of steam. The steam is then put through a turbine, which transfers 40 units to a generator. The generator is then able to generate 36 units of electricity. </p>
+  <p>What is the overall efficiency of this system? Round your answer to the nearest whole number. Do not include the % sign in your answer.</p>
+  <numericalresponse answer="36">
+    <formulaequationinput label="What is the overall efficiency of this system? Round your answer to the nearest whole number. Do not include the % sign in your answer."/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The energy efficiency of system = </p>
+      <p>((energy output in the desired form) / (energy input)) x 100 = 36/100 x 100 = 36%</p>
+    </div>
+  </solution>
+</problem>

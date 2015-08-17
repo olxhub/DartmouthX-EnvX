@@ -1,0 +1,17 @@
+<problem display_name="Q1" markdown="&gt;&gt;All of the following statements about a reservoir behind a hydroelectric dam are true, but which is potentially problematic?&lt;&lt;&#10;() the reservoir can be used for recreation (swimming, boating)&#10;() the reservoir holds potential energy&#10;() the reservoir may be used for flood control&#10;(x) the reservoir may submerge existing vegetation &#10;&#10;[explanation]&#10;Reservoirs may submerge existing vegetation, both destroying habitat for organisms as well as leading to methane release from anaerobically decaying vegetation. &#10;[explanation]&#10;" max_attempts="3">
+  <p>All of the following statements about a reservoir behind a hydroelectric dam are true, but which is potentially problematic?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="All of the following statements about a reservoir behind a hydroelectric dam are true, but which is potentially problematic?" type="MultipleChoice">
+      <choice correct="false">the reservoir can be used for recreation (swimming, boating)</choice>
+      <choice correct="false">the reservoir holds potential energy</choice>
+      <choice correct="false">the reservoir may be used for flood control</choice>
+      <choice correct="true">the reservoir may submerge existing vegetation </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Reservoirs may submerge existing vegetation, both destroying habitat for organisms as well as leading to methane release from anaerobically decaying vegetation. </p>
+    </div>
+  </solution>
+</problem>

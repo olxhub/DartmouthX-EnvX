@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;In addition to increased temperatures, higher CO2 atmospheric concentrations also leads DIRECTLY to _________________ .&lt;&lt;&#10;() accelerated rainforest destruction&#10;() fewer hurricanes&#10;() decreased plant productivity&#10;(x) ocean acidification&#10;() increased ice cap albedo&#10;&#10;[explanation]&#10;Increased atmospheric CO2 concentrations will directly lead to CO2 dissolving into the ocean, causing ocean acidification (and thus harming coral reefs). &#10;[explanation]&#10;&#10;" max_attempts="3">
+  <p>In addition to increased temperatures, higher CO2 atmospheric concentrations also leads DIRECTLY to _________________ .</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In addition to increased temperatures, higher CO2 atmospheric concentrations also leads DIRECTLY to _________________ ." type="MultipleChoice">
+      <choice correct="false">accelerated rainforest destruction</choice>
+      <choice correct="false">fewer hurricanes</choice>
+      <choice correct="false">decreased plant productivity</choice>
+      <choice correct="true">ocean acidification</choice>
+      <choice correct="false">increased ice cap albedo</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Increased atmospheric CO2 concentrations will directly lead to CO2 dissolving into the ocean, causing ocean acidification (and thus harming coral reefs). </p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,20 @@
+<problem display_name="W4 Q10" markdown="&gt;&gt;Examine the table below and indicate which means of transporation is most energy efficient.&lt;&lt;&#10; ( ) airplane&#10; ( ) passenger car&#10; (x) train&#10; ( ) bus&#10;&#10;&lt;strong&gt; MJ = megajoule.  &lt;/strong&gt;&#10;&lt;strong&gt; Passenger-kilometer is one person traveling one kilometer.&lt;/strong&gt;&#10;&#10;  &lt;img src=&quot;/static/Transportation_table.png&quot;/&gt;&#10;  &#10;&#10;&#10;  &#10;  &#10;[explanation]&#10;The most efficient mode of transportation is that one that uses the lowest quantity of energy (MJ) per distance traveled (km). &#10;[explanation]" max_attempts="1" weight="1.0">
+  <p>Examine the table below and indicate which means of transporation is most energy efficient.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Examine the table below and indicate which means of transporation is most energy efficient." type="MultipleChoice">
+      <choice correct="false">airplane</choice>
+      <choice correct="false">passenger car</choice>
+      <choice correct="true">train</choice>
+      <choice correct="false">bus</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <strong> MJ = megajoule.  </strong>
+  <strong> Passenger-kilometer is one person traveling one kilometer.</strong>
+  <img src="/static/Transportation_table.png"/>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The most efficient mode of transportation is that one that uses the lowest quantity of energy (MJ) per distance traveled (km). </p>
+    </div>
+  </solution>
+</problem>

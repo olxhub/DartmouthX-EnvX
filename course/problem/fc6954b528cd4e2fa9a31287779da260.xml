@@ -1,0 +1,18 @@
+<problem display_name="W3 Q12" markdown="&gt;&gt;The goal of sustainable agriculture is&lt;&lt;&#10;() to be able to sustain the maximum amount of crops&#10;() to use a massive amount of fossil fuel&#10;() to increase efficiency by planting GMOs&#10;() to transition humans back to being hunter-gatherers&#10;(x) to be able to farm a piece of land indefinitely&#10;&#10;[explanation]&#10;The goal of sustainable agriculture is to promote farming practices that will allow a farmer to farm the land indefinitely. &#10;[explanation]&#10;&#10;&#10;" max_attempts="1">
+  <p>The goal of sustainable agriculture is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The goal of sustainable agriculture is" type="MultipleChoice">
+      <choice correct="false">to be able to sustain the maximum amount of crops</choice>
+      <choice correct="false">to use a massive amount of fossil fuel</choice>
+      <choice correct="false">to increase efficiency by planting GMOs</choice>
+      <choice correct="false">to transition humans back to being hunter-gatherers</choice>
+      <choice correct="true">to be able to farm a piece of land indefinitely</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The goal of sustainable agriculture is to promote farming practices that will allow a farmer to farm the land indefinitely. </p>
+    </div>
+  </solution>
+</problem>

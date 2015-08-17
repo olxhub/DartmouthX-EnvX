@@ -1,0 +1,18 @@
+<problem display_name="W3 Q7" markdown="&gt;&gt;The practice of_________ can lead to both methane release and salinization.&lt;&lt;&#10;() fertilizing&#10;(x) irrigation&#10;() monocropping&#10;() plowing&#10;() soil removal&#10;&#10;[explanation]&#10;Irrigation can lead to both methane release (by waterlogging soils, leading to anaerobic respiration) and salinization (the small amounts of salt in the irrigation water become concentrated in the soil after the water evaporates).&#10;[explanation]&#10;&#10;" max_attempts="1">
+  <p>The practice of_________ can lead to both methane release and salinization.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The practice of_________ can lead to both methane release and salinization." type="MultipleChoice">
+      <choice correct="false">fertilizing</choice>
+      <choice correct="true">irrigation</choice>
+      <choice correct="false">monocropping</choice>
+      <choice correct="false">plowing</choice>
+      <choice correct="false">soil removal</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Irrigation can lead to both methane release (by waterlogging soils, leading to anaerobic respiration) and salinization (the small amounts of salt in the irrigation water become concentrated in the soil after the water evaporates).</p>
+    </div>
+  </solution>
+</problem>

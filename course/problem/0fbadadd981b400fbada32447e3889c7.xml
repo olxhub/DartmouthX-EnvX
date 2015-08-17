@@ -1,0 +1,17 @@
+<problem display_name="Q2" markdown="&gt;&gt;When infrared radiation emitted from earth is reflected back to the earth by gases in the atmosphere, this is referred to as:&lt;&lt;&#10;(x) the greenhouse effect&#10;() natural climate change&#10;() anthropogenic climate change&#10;() season climate variation &#10;&#10;[explanation]&#10;The greenhouse effect refers to the phenomenon in which infrared radiation emitted from earth is reflected back to the earth by gases in the atmosphere (known as greenhouse gases). &#10;[explanation]" max_attempts="3">
+  <p>When infrared radiation emitted from earth is reflected back to the earth by gases in the atmosphere, this is referred to as:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="When infrared radiation emitted from earth is reflected back to the earth by gases in the atmosphere, this is referred to as:" type="MultipleChoice">
+      <choice correct="true">the greenhouse effect</choice>
+      <choice correct="false">natural climate change</choice>
+      <choice correct="false">anthropogenic climate change</choice>
+      <choice correct="false">season climate variation </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The greenhouse effect refers to the phenomenon in which infrared radiation emitted from earth is reflected back to the earth by gases in the atmosphere (known as greenhouse gases). </p>
+    </div>
+  </solution>
+</problem>

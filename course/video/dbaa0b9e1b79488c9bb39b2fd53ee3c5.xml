@@ -1,0 +1,11 @@
+<video youtube="1.00:-cBbvdMpTgE" url_name="dbaa0b9e1b79488c9bb39b2fd53ee3c5" display_name="Video: Global Population Dynamics" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V002500" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk2_Population_Dynamics_Handout.pdf" html5_sources="[]" sub="-cBbvdMpTgE" track="/static/Wk2_GlobalPopulationDynamics.pdf" youtube_id_1_0="-cBbvdMpTgE">
+  <track src="/static/Wk2_GlobalPopulationDynamics.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk2_Population_Dynamics_Handout.pdf"/>
+  <video_asset client_video_id="Wk2_GlobalPopulationDynamics_FINAL_1_19" duration="109.16">
+    <encoded_video bitrate="395" file_size="5395872" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002500_MB2.mp4"/>
+    <encoded_video bitrate="875" file_size="11943005" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002500_MB1.mp4"/>
+    <encoded_video bitrate="2910" file_size="39716091" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002500_DTH.mp4"/>
+    <encoded_video bitrate="980" file_size="13381236" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002500_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="-cBbvdMpTgE"/>
+  </video_asset>
+</video>

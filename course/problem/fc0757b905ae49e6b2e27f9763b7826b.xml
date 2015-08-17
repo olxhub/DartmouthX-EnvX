@@ -1,0 +1,19 @@
+<problem display_name="W1 Q10" markdown="&gt;&gt;In the last century, the primary reasons for increases in carbon dioxide in the atmosphere include:&lt;&lt; &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the TWO that apply.&lt;/strong&gt;&#10;&#10;[x] combustion of fossil fuel&#10;[ ] increased plant respiration&#10;[x] net destruction of vegetation&#10;[ ] climate change&#10;[ ] production of solar panels&#10;&#10;[explanation]&#10;&#10;The burning or combustion of fossil fuels (fossilized carbon), which has increased greatly over the last century, releases carbon dioxide into the atmosphere. The net destruction of vegetation has also played a role, as the vegetation is no longer there to absorb carbon dioxide through photosynthesis.&#10;&#10;[explanation]" max_attempts="1" showanswer="finished">
+<p>In the last century, the primary reasons for increases in carbon dioxide in the atmosphere include: <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the TWO that apply.</strong></p>
+<choiceresponse>
+  <checkboxgroup label="In the last century, the primary reasons for increases in carbon dioxide in the atmosphere include:" direction="vertical">
+    <choice correct="true">combustion of fossil fuel</choice>
+    <choice correct="false">increased plant respiration</choice>
+    <choice correct="true">net destruction of vegetation</choice>
+    <choice correct="false">climate change</choice>
+    <choice correct="false">production of solar panels</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+<p>The burning or combustion of fossil fuels (fossilized carbon), which has increased greatly over the last century, releases carbon dioxide into the atmosphere. The net destruction of vegetation has also played a role, as the vegetation is no longer there to absorb carbon dioxide through photosynthesis.</p>
+</div>
+</solution>
+</problem>

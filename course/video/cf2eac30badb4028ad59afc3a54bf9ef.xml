@@ -1,0 +1,11 @@
+<video youtube="1.00:3ZVCoddaSzs" url_name="cf2eac30badb4028ad59afc3a54bf9ef" display_name="Video: Rock Snot" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V000300" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk1_Rocksnot_Handout.pdf" html5_sources="[]" sub="3ZVCoddaSzs" track="/static/Wk1-Rocksnot.pdf" youtube_id_1_0="3ZVCoddaSzs">
+  <track src="/static/Wk1-Rocksnot.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk1_Rocksnot_Handout.pdf"/>
+  <video_asset client_video_id="Wk1-Rocksnot-FINAL-1_9" duration="310.45">
+    <encoded_video bitrate="458" file_size="17802181" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000300_MB2.mp4"/>
+    <encoded_video bitrate="1313" file_size="50986487" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000300_MB1.mp4"/>
+    <encoded_video bitrate="4999" file_size="194022958" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000300_DTH.mp4"/>
+    <encoded_video bitrate="1111" file_size="43149364" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000300_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="3ZVCoddaSzs"/>
+  </video_asset>
+</video>

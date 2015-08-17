@@ -1,0 +1,18 @@
+<problem display_name="W4 Q6" markdown="&gt;&gt;Sustainability Director Rosi Kerr described Dartmouth’s organizational strategy to lower greenhouse gas emissions. This is called a ____________ .&lt;&lt;&#10;&#10;( ) sustainability initiative&#10;( ) conservation roadmap&#10;( ) renewable energy plan&#10;(x) climate action plan&#10;( ) portfolio diversification plan&#10;     &#10;[explanation]&#10;A climate action plan is an organizational strategy to lower greenhouse gas emissions. This can include lower energy use, switching fuels, conservation and increasing efficiency of buildings and machines. &#10;[explanation]&#10;" max_attempts="1" weight="1.0">
+  <p>Sustainability Director Rosi Kerr described Dartmouth’s organizational strategy to lower greenhouse gas emissions. This is called a ____________ .</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Sustainability Director Rosi Kerr described Dartmouth’s organizational strategy to lower greenhouse gas emissions. This is called a ____________ ." type="MultipleChoice">
+      <choice correct="false">sustainability initiative</choice>
+      <choice correct="false">conservation roadmap</choice>
+      <choice correct="false">renewable energy plan</choice>
+      <choice correct="true">climate action plan</choice>
+      <choice correct="false">portfolio diversification plan</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A climate action plan is an organizational strategy to lower greenhouse gas emissions. This can include lower energy use, switching fuels, conservation and increasing efficiency of buildings and machines. </p>
+    </div>
+  </solution>
+</problem>

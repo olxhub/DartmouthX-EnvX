@@ -1,0 +1,13 @@
+<problem display_name="W1 Q7" markdown="Lyme Lake has a volume of 100,000 litres of water and is fed by a river that delivers approximately 10,000 litres of water per day. The lake is drained by another river that removes 10,000 litres of water per day. &#10;&#10;&gt;&gt;What is the mean residence time (MRT), in days, of a molecule of water in Lyme Lake?&lt;&lt;&#10;= 10&#10;&#10;[explanation]&#10;The mean residence time (MRT) is the average time a typical molecule remains in a system. In order to determine the MRT use the equation: volume of pool / flux in or flux out. Therefore, in this problem if the volume is 100,000 litres and the flux is 10,000 litres/day, then the MRT = 100,000/10,000 = 10 days.&#10;[explanation]" max_attempts="1">
+  <p>Lyme Lake has a volume of 100,000 litres of water and is fed by a river that delivers approximately 10,000 litres of water per day. The lake is drained by another river that removes 10,000 litres of water per day. </p>
+  <p>What is the mean residence time (MRT), in days, of a molecule of water in Lyme Lake?</p>
+  <numericalresponse answer="10">
+    <formulaequationinput label="What is the mean residence time (MRT), in days, of a molecule of water in Lyme Lake?"/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The mean residence time (MRT) is the average time a typical molecule remains in a system. In order to determine the MRT use the equation: volume of pool / flux in or flux out. Therefore, in this problem if the volume is 100,000 litres and the flux is 10,000 litres/day, then the MRT = 100,000/10,000 = 10 days.</p>
+    </div>
+  </solution>
+</problem>

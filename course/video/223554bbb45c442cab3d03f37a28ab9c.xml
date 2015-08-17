@@ -1,0 +1,11 @@
+<video youtube="1.00:vhDs0aBnc2I" url_name="223554bbb45c442cab3d03f37a28ab9c" display_name="Video: Food and Soils Review" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V001400" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk3_Review_Handout.pdf" html5_sources="[]" sub="vhDs0aBnc2I" track="/static/Wk3.FoodAndSoilsReview.pdf" youtube_id_1_0="vhDs0aBnc2I">
+  <track src="/static/Wk3.FoodAndSoilsReview.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk3_Review_Handout.pdf"/>
+  <video_asset client_video_id="Wk3.Review_FINAL_1_15" duration="158.78">
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="vhDs0aBnc2I"/>
+    <encoded_video bitrate="400" file_size="7949600" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001400_MB1.mp4"/>
+    <encoded_video bitrate="216" file_size="4287894" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001400_MB2.mp4"/>
+    <encoded_video bitrate="1269" file_size="25191563" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001400_DTH.mp4"/>
+    <encoded_video bitrate="1016" file_size="20182477" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001400_DTH.webm"/>
+  </video_asset>
+</video>

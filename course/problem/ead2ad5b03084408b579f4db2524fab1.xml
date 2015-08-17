@@ -1,0 +1,12 @@
+<problem display_name="W1 Q11" markdown="&gt;&gt;What is the most abundant gas in our atmosphere?&lt;&lt;&#10;[[argon, carbon dioxide, hydrogen, (nitrogen), oxygen]]&#10;&#10;[explanation]&#10;At 78%, nitrogen is the most abundant element in the atmosphere. The second most abundant gas is oxygen which comprises 21% of the atmosphere.&#10;[explanation]" max_attempts="1" showanswer="finished">
+  <p>What is the most abundant gas in our atmosphere?</p>
+  <optionresponse>
+    <optioninput label="What is the most abundant gas in our atmosphere?" options="('argon','carbon dioxide','hydrogen','nitrogen','oxygen')" correct="nitrogen"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>At 78%, nitrogen is the most abundant element in the atmosphere. The second most abundant gas is oxygen which comprises 21% of the atmosphere.</p>
+    </div>
+  </solution>
+</problem>

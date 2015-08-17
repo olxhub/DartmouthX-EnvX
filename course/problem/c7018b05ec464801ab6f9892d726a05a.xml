@@ -1,0 +1,18 @@
+<problem display_name="W2 Q5" markdown="&gt;&gt;The carrying capacity of a population is determined by its&lt;&lt;&#10;() birth rate&#10;() death rate&#10;(x) limiting resources&#10;() infant mortality&#10;() replacement level fertility&#10;&#10;[explanation]&#10;The carrying capacity (K) of a population is defined as the number of organisms a given habitat can hold indefinitely. It is determined by its limiting resources such as food, water and space. &#10;[explanation]&#10;&#10;" max_attempts="1">
+  <p>The carrying capacity of a population is determined by its</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The carrying capacity of a population is determined by its" type="MultipleChoice">
+      <choice correct="false">birth rate</choice>
+      <choice correct="false">death rate</choice>
+      <choice correct="true">limiting resources</choice>
+      <choice correct="false">infant mortality</choice>
+      <choice correct="false">replacement level fertility</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The carrying capacity (K) of a population is defined as the number of organisms a given habitat can hold indefinitely. It is determined by its limiting resources such as food, water and space. </p>
+    </div>
+  </solution>
+</problem>

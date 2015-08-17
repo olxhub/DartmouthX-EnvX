@@ -1,0 +1,20 @@
+<problem display_name="W2 Q14" markdown="&gt;&gt;What are the principal factors of a human population that determine its environmental impact? &lt;&lt;&lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the THREE characteristics that apply.&lt;/strong&gt;&#10;[x] population size&#10;[] adaptation&#10;[] total fertility rate&#10;[x] affluence&#10;[x] technology&#10;[] power&#10;&#10;[explanation]&#10;The IPAT formula describes the impact of human societies on the environment. The formula is as follows:&#10;Impact = Population x Affluence x Technology&#10;[explanation]&#10;&#10;" max_attempts="1" weight="2.0">
+  <p>What are the principal factors of a human population that determine its environmental impact? <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the THREE characteristics that apply.</strong></p>
+  <choiceresponse>
+    <checkboxgroup label="What are the principal factors of a human population that determine its environmental impact? &lt;" direction="vertical">
+      <choice correct="true">population size</choice>
+      <choice correct="false">adaptation</choice>
+      <choice correct="false">total fertility rate</choice>
+      <choice correct="true">affluence</choice>
+      <choice correct="true">technology</choice>
+      <choice correct="false">power</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The IPAT formula describes the impact of human societies on the environment. The formula is as follows:</p>
+      <p>Impact = Population x Affluence x Technology</p>
+    </div>
+  </solution>
+</problem>

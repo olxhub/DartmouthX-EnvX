@@ -1,0 +1,18 @@
+<problem display_name="W5 Q4" markdown="&gt;&gt;Which of the following are DISADVANTAGES of wind energy?&lt;&lt; &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the TWO characteristics that apply.&lt;/strong&gt;&#10;[x] may cause harm to migrating bird populations&#10;[ ] will result in the destruction of large areas of agricultural land&#10;[x] can create noise disturbances from the turning turbine&#10;[ ] subject to high fuel costs (relative to other forms of renewables)&#10;[ ] can potentially generate electricity at night as well as during the day&#10;&#10;&#10;[explanation]&#10;Wind turbines do harm some birds and generate some noise. They do not destroy agricultural land nor are they subject to fuel costs (there is no fuel). One advantage to wind turbines is that they generate electricity anytime it is windy, day or night. &#10;[explanation]&#10;&#10;" max_attempts="1" weight="2.0">
+  <p>Which of the following are DISADVANTAGES of wind energy? <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the TWO characteristics that apply.</strong></p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following are DISADVANTAGES of wind energy?" direction="vertical">
+      <choice correct="true">may cause harm to migrating bird populations</choice>
+      <choice correct="false">will result in the destruction of large areas of agricultural land</choice>
+      <choice correct="true">can create noise disturbances from the turning turbine</choice>
+      <choice correct="false">subject to high fuel costs (relative to other forms of renewables)</choice>
+      <choice correct="false">can potentially generate electricity at night as well as during the day</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Wind turbines do harm some birds and generate some noise. They do not destroy agricultural land nor are they subject to fuel costs (there is no fuel). One advantage to wind turbines is that they generate electricity anytime it is windy, day or night. </p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,11 @@
+<video youtube="1.00:olPff6XDSIE" url_name="c11aa9a4dd2849de9ab700d625260420" display_name="Video: A conversation with Mike Wood" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V006000" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk5_Mike_Wood_Handout.pdf" html5_sources="[]" sub="olPff6XDSIE" track="/static/Wk5_ConversationWithMikeWood.pdf" youtube_id_1_0="olPff6XDSIE">
+  <track src="/static/Wk5_ConversationWithMikeWood.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk5_Mike_Wood_Handout.pdf"/>
+  <video_asset client_video_id="Wk5_ConversationWithMikeWood_FINAL_1_17" duration="160.45">
+    <encoded_video bitrate="916" file_size="18382004" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006000_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="olPff6XDSIE"/>
+    <encoded_video bitrate="371" file_size="7449017" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006000_MB2.mp4"/>
+    <encoded_video bitrate="3385" file_size="67916169" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006000_DTH.mp4"/>
+    <encoded_video bitrate="1084" file_size="21761097" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006000_DTH.webm"/>
+  </video_asset>
+</video>

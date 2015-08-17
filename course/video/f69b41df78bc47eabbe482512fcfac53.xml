@@ -1,0 +1,11 @@
+<video youtube="1.00:9zka52jl6wc" url_name="f69b41df78bc47eabbe482512fcfac53" display_name="Video: Hydrologic Cycle" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V000800" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk1_Hydrologic_Cycle_Handout.pdf" html5_sources="[]" sub="9zka52jl6wc" track="/static/Wk1-The_Hydrologic_Cycle.pdf" youtube_id_1_0="9zka52jl6wc">
+  <track src="/static/Wk1-The_Hydrologic_Cycle.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk1_Hydrologic_Cycle_Handout.pdf"/>
+  <video_asset client_video_id="Wk1-The_Hydrologic_Cycle-FINAL-1_9" duration="146.73">
+    <encoded_video bitrate="651" file_size="11951339" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000800_MB1.mp4"/>
+    <encoded_video bitrate="2229" file_size="40892092" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000800_DTH.mp4"/>
+    <encoded_video bitrate="285" file_size="5238852" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000800_MB2.mp4"/>
+    <encoded_video bitrate="874" file_size="16032008" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000800_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="9zka52jl6wc"/>
+  </video_asset>
+</video>

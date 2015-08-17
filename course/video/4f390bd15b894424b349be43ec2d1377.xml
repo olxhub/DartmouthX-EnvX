@@ -1,0 +1,11 @@
+<video youtube="1.00:wJPhBy90lwU" url_name="4f390bd15b894424b349be43ec2d1377" display_name="Video: Population Numbers" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V002600" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk2_Population_Numbers_Handout.pdf" html5_sources="[]" sub="wJPhBy90lwU" track="/static/Wk2_PopulationNumbers.pdf" youtube_id_1_0="wJPhBy90lwU">
+  <track src="/static/Wk2_PopulationNumbers.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk2_Population_Numbers_Handout.pdf"/>
+  <video_asset client_video_id="Wk2_PopulationNumbers_FINAL_1_19" duration="272.58">
+    <encoded_video bitrate="205" file_size="6987058" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002600_MB2.mp4"/>
+    <encoded_video bitrate="1362" file_size="46427525" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002600_DTH.mp4"/>
+    <encoded_video bitrate="380" file_size="12969662" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002600_MB1.mp4"/>
+    <encoded_video bitrate="623" file_size="21244558" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002600_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="wJPhBy90lwU"/>
+  </video_asset>
+</video>

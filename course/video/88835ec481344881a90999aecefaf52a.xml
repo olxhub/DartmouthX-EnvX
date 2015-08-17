@@ -1,0 +1,11 @@
+<video youtube="1.00:fug5uU0nAP4" url_name="88835ec481344881a90999aecefaf52a" display_name="Video: Energy Concepts" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V004500" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk4_Energy_Concepts_Handout.pdf" html5_sources="[]" sub="fug5uU0nAP4" track="/static/Wk.4_EnergyConcepts.pdf" youtube_id_1_0="fug5uU0nAP4">
+  <track src="/static/Wk.4_EnergyConcepts.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk4_Energy_Concepts_Handout.pdf"/>
+  <video_asset client_video_id="Wk.4_EnergyConcepts_FINAL_1_16" duration="356.4">
+    <encoded_video bitrate="264" file_size="11798252" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004500_MB2.mp4"/>
+    <encoded_video bitrate="544" file_size="24238084" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004500_MB1.mp4"/>
+    <encoded_video bitrate="1868" file_size="83246253" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004500_DTH.mp4"/>
+    <encoded_video bitrate="1090" file_size="48600481" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004500_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="fug5uU0nAP4"/>
+  </video_asset>
+</video>

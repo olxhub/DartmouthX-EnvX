@@ -1,0 +1,10 @@
+<video youtube="1.00:MR1GeFQGqX8" url_name="716d8c64b60f473b85f9df8d2dacabb8" display_name="Video: Transition to Week 4" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V006400" html5_sources="[]" sub="MR1GeFQGqX8" track="/static/Wk4_Transition_Week_4.pdf" youtube_id_1_0="MR1GeFQGqX8">
+  <track src="/static/Wk4_Transition_Week_4.pdf"/>
+  <video_asset client_video_id="Wk4-intro_2.19" duration="380.13">
+    <encoded_video bitrate="1135" file_size="53950562" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006400_DTH.mp4"/>
+    <encoded_video bitrate="205" file_size="9774089" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006400_MB2.mp4"/>
+    <encoded_video bitrate="1084" file_size="51509734" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006400_DTH.webm"/>
+    <encoded_video bitrate="464" file_size="22072913" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006400_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="MR1GeFQGqX8"/>
+  </video_asset>
+</video>

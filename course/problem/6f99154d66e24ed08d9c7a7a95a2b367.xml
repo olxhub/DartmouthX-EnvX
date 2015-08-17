@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;What percent of water on earth is freshwater?&lt;&lt;&#10;() less than 1%&#10;(x) 1–5%&#10;() 5–10%&#10;() 20-30%&#10;() 50-60%&#10;&#10;[explanation]&#10;Only 2.8% of water on Earth is fresh water, while 97.2% of water is found in the oceans.&#10;[explanation]&#10;" max_attempts="3">
+  <p>What percent of water on earth is freshwater?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What percent of water on earth is freshwater?" type="MultipleChoice">
+      <choice correct="false">less than 1%</choice>
+      <choice correct="true">1–5%</choice>
+      <choice correct="false">5–10%</choice>
+      <choice correct="false">20-30%</choice>
+      <choice correct="false">50-60%</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Only 2.8% of water on Earth is fresh water, while 97.2% of water is found in the oceans.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;Spodosols commonly have a large horizon of decomposing organic material called the: &lt;&lt;&#10;(x) O horizon&#10;() A horizon&#10;() E horizon&#10;() B horizon&#10;() C horizon&#10;&#10;[explanation]&#10;The O horizon is the horizon made from decomposing organic material. O horizons are often particularly thick in spodosols. &#10;[explanation]&#10;" max_attempts="3">
+  <p>Spodosols commonly have a large horizon of decomposing organic material called the: </p>
+  <multiplechoiceresponse>
+    <choicegroup label="Spodosols commonly have a large horizon of decomposing organic material called the: " type="MultipleChoice">
+      <choice correct="true">O horizon</choice>
+      <choice correct="false">A horizon</choice>
+      <choice correct="false">E horizon</choice>
+      <choice correct="false">B horizon</choice>
+      <choice correct="false">C horizon</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The O horizon is the horizon made from decomposing organic material. O horizons are often particularly thick in spodosols. </p>
+    </div>
+  </solution>
+</problem>

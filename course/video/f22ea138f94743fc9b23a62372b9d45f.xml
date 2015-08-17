@@ -1,0 +1,11 @@
+<video youtube="1.00:sFghdXFl-2o" url_name="f22ea138f94743fc9b23a62372b9d45f" display_name="Video: Global Change and Course Review" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V005300" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk6_Global_Change_Course_Review_Handout.pdf" html5_sources="[]" sub="sFghdXFl-2o" track="/static/Wk6_GlobalChangeAndCourseReview.pdf" youtube_id_1_0="sFghdXFl-2o">
+  <track src="/static/Wk6_GlobalChangeAndCourseReview.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk6_Global_Change_Course_Review_Handout.pdf"/>
+  <video_asset client_video_id="Wk6_GlobalChangeAndCourseReview_FINAL_1_20" duration="258.3">
+    <encoded_video bitrate="1916" file_size="61874326" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005300_DTH.mp4"/>
+    <encoded_video bitrate="287" file_size="9292109" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005300_MB2.mp4"/>
+    <encoded_video bitrate="1092" file_size="35283238" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005300_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="sFghdXFl-2o"/>
+    <encoded_video bitrate="583" file_size="18836539" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005300_MB1.mp4"/>
+  </video_asset>
+</video>

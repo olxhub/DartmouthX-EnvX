@@ -1,0 +1,18 @@
+<problem display_name="W5 Q7" markdown="&gt;&gt;From an environmental science perspective, it is essential to first consider _________________ when choosing among energy sources.&lt;&lt;&#10;&#10;( ) renewable and nonrenewable choices&#10;( ) effectiveness and inputs&#10;(x) conservation and efficiency&#10;( ) history and economics&#10;( ) emissions and byproducts&#10;&#10;[explanation]&#10;When choosing energy sources, it is essential to consider conservation and efficiency first!&#10;[explanation]&#10;" max_attempts="1">
+  <p>From an environmental science perspective, it is essential to first consider _________________ when choosing among energy sources.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="From an environmental science perspective, it is essential to first consider _________________ when choosing among energy sources." type="MultipleChoice">
+      <choice correct="false">renewable and nonrenewable choices</choice>
+      <choice correct="false">effectiveness and inputs</choice>
+      <choice correct="true">conservation and efficiency</choice>
+      <choice correct="false">history and economics</choice>
+      <choice correct="false">emissions and byproducts</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>When choosing energy sources, it is essential to consider conservation and efficiency first!</p>
+    </div>
+  </solution>
+</problem>

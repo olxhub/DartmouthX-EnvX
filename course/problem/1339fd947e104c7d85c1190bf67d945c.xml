@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;All of the following are considered environmental science EXCEPT:&lt;&lt;&#10;() assessing the rate of mercury cycling in a lake&#10;() measuring the impact of acid rain on coniferous forests &#10;(x) discussing the ethics of energy use in developing countries&#10;() determining the total carbon output from a natural gas plant&#10;() evaluating net primary productivity of an ecosystem&#10;&#10;[explanation]&#10;&#10;Environmental studies is an interdisciplinary field including natural sciences, social sciences and the ethics and philosophy of the interactions of people with the environment. Environmental science is a subset of environmental studies that draws on fundamental principles of science to assess how people interact with the environment. &#10;&#10;[explanation]">
+  <p>All of the following are considered environmental science EXCEPT:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="All of the following are considered environmental science EXCEPT:" type="MultipleChoice">
+      <choice correct="false">assessing the rate of mercury cycling in a lake</choice>
+      <choice correct="false">measuring the impact of acid rain on coniferous forests </choice>
+      <choice correct="true">discussing the ethics of energy use in developing countries</choice>
+      <choice correct="false">determining the total carbon output from a natural gas plant</choice>
+      <choice correct="false">evaluating net primary productivity of an ecosystem</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Environmental studies is an interdisciplinary field including natural sciences, social sciences and the ethics and philosophy of the interactions of people with the environment. Environmental science is a subset of environmental studies that draws on fundamental principles of science to assess how people interact with the environment. </p>
+    </div>
+  </solution>
+</problem>

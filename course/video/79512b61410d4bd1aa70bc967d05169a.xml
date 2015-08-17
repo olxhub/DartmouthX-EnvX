@@ -1,0 +1,11 @@
+<video youtube="1.00:6Irr6zkv-hM" url_name="79512b61410d4bd1aa70bc967d05169a" display_name="Video: Synthesizing Global Change and Environmental Science" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V004900" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk6_Synthesizing_GC_EnvSci_Handout.pdf" html5_sources="[]" sub="6Irr6zkv-hM" track="/static/Wk6_SynthGlobalChangeAndEnvs.pdf" youtube_id_1_0="6Irr6zkv-hM">
+  <track src="/static/Wk6_SynthGlobalChangeAndEnvs.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk6_Synthesizing_GC_EnvSci_Handout.pdf"/>
+  <video_asset client_video_id="Wk6_SynthGlobalChangeAndEnvs_FINAL_1_20" duration="303.39">
+    <encoded_video bitrate="663" file_size="25154006" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004900_MB1.mp4"/>
+    <encoded_video bitrate="2382" file_size="90360323" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004900_DTH.mp4"/>
+    <encoded_video bitrate="308" file_size="11718562" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004900_MB2.mp4"/>
+    <encoded_video bitrate="1091" file_size="41401544" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004900_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="6Irr6zkv-hM"/>
+  </video_asset>
+</video>

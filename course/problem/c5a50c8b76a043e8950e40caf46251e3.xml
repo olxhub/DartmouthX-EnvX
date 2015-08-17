@@ -1,0 +1,18 @@
+<problem display_name="W3 Q8" markdown="&gt;&gt;All of the following are true about synthetic (commercial) fertilizer EXCEPT:&lt;&lt;&#10;() it is designed for easy application to crops&#10;() it is susceptible to runoff&#10;() it can target the specific needs of the crop&#10;(x) it adds organic matter to the soil&#10;() it is highly concentrated&#10;&#10;[explanation]&#10;Synthetic fertilizer is manufactured from chemical compounds, and therefore does not add organic matter to the soil.&#10;[explanation]&#10;&#10;&#10;&#10;" max_attempts="1">
+  <p>All of the following are true about synthetic (commercial) fertilizer EXCEPT:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="All of the following are true about synthetic (commercial) fertilizer EXCEPT:" type="MultipleChoice">
+      <choice correct="false">it is designed for easy application to crops</choice>
+      <choice correct="false">it is susceptible to runoff</choice>
+      <choice correct="false">it can target the specific needs of the crop</choice>
+      <choice correct="true">it adds organic matter to the soil</choice>
+      <choice correct="false">it is highly concentrated</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Synthetic fertilizer is manufactured from chemical compounds, and therefore does not add organic matter to the soil.</p>
+    </div>
+  </solution>
+</problem>

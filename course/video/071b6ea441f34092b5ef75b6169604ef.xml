@@ -1,0 +1,11 @@
+<video youtube="1.00:g-x_WP-KiaQ" url_name="071b6ea441f34092b5ef75b6169604ef" display_name="Video: Non-Renewable Energy Review" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V004600" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk4_Non-renewable_Review_Handout.pdf" html5_sources="[]" sub="g-x_WP-KiaQ" track="/static/Wk.4_NonRenewableEnergyReview.pdf" youtube_id_1_0="g-x_WP-KiaQ">
+  <track src="/static/Wk.4_NonRenewableEnergyReview.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk4_Non-renewable_Review_Handout.pdf"/>
+  <video_asset client_video_id="Wk.4_NonRenewableEnergyReview_FINAL_1_16" duration="150.45">
+    <encoded_video bitrate="2640" file_size="49678270" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004600_DTH.mp4"/>
+    <encoded_video bitrate="2640" file_size="5676288" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004600_MB2.mp4"/>
+    <encoded_video bitrate="2640" file_size="12816726" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004600_MB1.mp4"/>
+    <encoded_video bitrate="2640" file_size="0" profile="youtube" url="g-x_WP-KiaQ"/>
+    <encoded_video bitrate="1058" file_size="19911022" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004600_DTH.webm"/>
+  </video_asset>
+</video>

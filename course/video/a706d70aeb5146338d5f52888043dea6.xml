@@ -1,0 +1,11 @@
+<video youtube="1.00:KmJ_lcKiGRw" url_name="a706d70aeb5146338d5f52888043dea6" display_name="Video: The World Today" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V001600" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk2_The_World_Today.pdf" html5_sources="[]" sub="KmJ_lcKiGRw" track="/static/Wk2_TheWorldToday.pdf" youtube_id_1_0="KmJ_lcKiGRw">
+  <track src="/static/Wk2_TheWorldToday.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk2_The_World_Today.pdf"/>
+  <video_asset client_video_id="Wk2_TheWorldToday_FINAL_1_13" duration="164.86">
+    <encoded_video bitrate="2140" file_size="22292943" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001600_DTH.webm"/>
+    <encoded_video bitrate="2140" file_size="5949078" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001600_MB2.mp4"/>
+    <encoded_video bitrate="2140" file_size="44115609" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001600_DTH.mp4"/>
+    <encoded_video bitrate="2140" file_size="0" profile="youtube" url="KmJ_lcKiGRw"/>
+    <encoded_video bitrate="2140" file_size="12517395" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001600_MB1.mp4"/>
+  </video_asset>
+</video>

@@ -1,0 +1,21 @@
+<problem display_name="W5 Q9" markdown="&gt;&gt;The benefits of straw as a building material include which of the following?&lt;&lt; &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the THREE characteristics that apply.&lt;/strong&gt;&#10;&#10;[x] straw is a potentially renewable resource&#10;[ ] straw produces extra transportation emissions&#10;[x] when the straw was growing, it sequestered carbon&#10;[ ] straw does not require any net carbon dioxide emissions to produce&#10;[x] straw does not require as much energy to produce as manufactured fossil-fuel based insulation&#10;&#10;&#10;[explanation]&#10;Straw is a crop so it is potentially renewable and it contains carbon, so if left inside a house it won’t release that carbon. Relative to manufactured fossil-fuel based insulation products straw does not require a great deal of energy to produce. &#10;[explanation]" max_attempts="1" weight="2.0">
+<p>The benefits of straw as a building material include which of the following? <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the THREE characteristics that apply.</strong></p>
+<choiceresponse>
+  <checkboxgroup label="The benefits of straw as a building material include which of the following?" direction="vertical">
+    <choice correct="true">straw is a potentially renewable resource</choice>
+    <choice correct="false">straw produces extra transportation emissions</choice>
+    <choice correct="true">when the straw was growing, it sequestered carbon</choice>
+    <choice correct="false">straw does not require any net carbon dioxide emissions to produce</choice>
+    <choice correct="true">straw does not require as much energy to produce as manufactured fossil-fuel based insulation</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Straw is a crop so it is potentially renewable and it contains carbon, so if left inside a house it won’t release that carbon. Relative to manufactured fossil-fuel based insulation products straw does not require a great deal of energy to produce. </p>
+
+</div>
+</solution>
+</problem>

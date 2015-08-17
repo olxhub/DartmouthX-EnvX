@@ -1,0 +1,18 @@
+<problem display_name="W3 Q5" markdown="&gt;&gt;If a farmer wants to improve soil quality, what techniques could she use? &lt;&lt;&lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the THREE characteristics that apply.&lt;/strong&gt;&#10;[x] agroforestry &#10;[x] contour plowing&#10;[] monocropping &#10;[x] crop rotation&#10;[] apply pesticides &#10;&#10;[explanation]&#10;Agroforestry, contour plowing and crop rotation all result in an improvement to soil quality. &#10;[explanation]" max_attempts="1">
+  <p>If a farmer wants to improve soil quality, what techniques could she use? <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the THREE characteristics that apply.</strong></p>
+  <choiceresponse>
+    <checkboxgroup label="If a farmer wants to improve soil quality, what techniques could she use? &lt;" direction="vertical">
+      <choice correct="true">agroforestry </choice>
+      <choice correct="true">contour plowing</choice>
+      <choice correct="false">monocropping </choice>
+      <choice correct="true">crop rotation</choice>
+      <choice correct="false">apply pesticides </choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Agroforestry, contour plowing and crop rotation all result in an improvement to soil quality. </p>
+    </div>
+  </solution>
+</problem>

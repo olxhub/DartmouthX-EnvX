@@ -1,0 +1,18 @@
+<problem display_name="W4 Q4" markdown="&gt;&gt;A car engine transforms the chemical energy of gasoline into the kinetic energy of moving pistons which allows the car to move forward. The quantity of kinetic energy in the moving car will always be:&lt;&lt;&#10;     ( ) greater than the quantity of chemical energy because entropy is decreasing&#10;     ( ) greater than the quantity of chemical energy because entropy is increasing&#10;     ( ) less than the quantity of chemical energy because entropy is decreasing&#10;     (x) less than the quantity of chemical energy because entropy is increasing&#10;     ( ) equal to the quantity of chemical energy because energy is never created or destroyed.&#10;     &#10;[explanation]&#10;Whenever energy is converted from one form to another, there is always less available energy for the desired task and entropy always increases. &#10;[explanation]&#10;&#10;" max_attempts="1">
+  <p>A car engine transforms the chemical energy of gasoline into the kinetic energy of moving pistons which allows the car to move forward. The quantity of kinetic energy in the moving car will always be:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="A car engine transforms the chemical energy of gasoline into the kinetic energy of moving pistons which allows the car to move forward. The quantity of kinetic energy in the moving car will always be:" type="MultipleChoice">
+      <choice correct="false">greater than the quantity of chemical energy because entropy is decreasing</choice>
+      <choice correct="false">greater than the quantity of chemical energy because entropy is increasing</choice>
+      <choice correct="false">less than the quantity of chemical energy because entropy is decreasing</choice>
+      <choice correct="true">less than the quantity of chemical energy because entropy is increasing</choice>
+      <choice correct="false">equal to the quantity of chemical energy because energy is never created or destroyed.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Whenever energy is converted from one form to another, there is always less available energy for the desired task and entropy always increases. </p>
+    </div>
+  </solution>
+</problem>

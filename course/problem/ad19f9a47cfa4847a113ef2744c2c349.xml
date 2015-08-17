@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;Glucose, which is made up of carbon, hydrogen and oxygen, would be considered a(n) _____ . &lt;&lt; &#10;() element&#10;(x) molecule&#10;() neutron&#10;() proton&#10;() atom&#10;&#10;[explanation]&#10;&#10;Glucose is a molecule because it contains more than one atom. (Glucose is also a chemical compound because it contains more than two elements).&#10;&#10;[explanation] ">
+  <p>Glucose, which is made up of carbon, hydrogen and oxygen, would be considered a(n) _____ .  </p>
+  <multiplechoiceresponse>
+    <choicegroup label="Glucose, which is made up of carbon, hydrogen and oxygen, would be considered a(n) _____ . " type="MultipleChoice">
+      <choice correct="false">element</choice>
+      <choice correct="true">molecule</choice>
+      <choice correct="false">neutron</choice>
+      <choice correct="false">proton</choice>
+      <choice correct="false">atom</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Glucose is a molecule because it contains more than one atom. (Glucose is also a chemical compound because it contains more than two elements).</p>
+    </div>
+  </solution>
+</problem>

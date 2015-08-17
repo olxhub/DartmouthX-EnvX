@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;Planting peas and corn together in the same field during the same season is an example of&lt;&lt;&#10;() agroforestry&#10;() interbreeding&#10;() crop rotation&#10;() maximum sustainable yield&#10;(x) intercropping&#10;&#10;[explanation]&#10;Planting peas and corn together is an example of intercropping: the peas fix nitrogen, which is required in greater quantities by corn. &#10;[explanation]" max_attempts="3">
+  <p>Planting peas and corn together in the same field during the same season is an example of</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Planting peas and corn together in the same field during the same season is an example of" type="MultipleChoice">
+      <choice correct="false">agroforestry</choice>
+      <choice correct="false">interbreeding</choice>
+      <choice correct="false">crop rotation</choice>
+      <choice correct="false">maximum sustainable yield</choice>
+      <choice correct="true">intercropping</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Planting peas and corn together is an example of intercropping: the peas fix nitrogen, which is required in greater quantities by corn. </p>
+    </div>
+  </solution>
+</problem>

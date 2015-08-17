@@ -1,0 +1,21 @@
+<problem display_name="W3 Q11" markdown="Select whether each element is an acid or a base, as it relates to base saturation in soils:&#10;&#10;&gt;&gt;aluminum&lt;&lt;&#10;[[(acid), base]]&#10;&#10;&gt;&gt;calcium&lt;&lt;&#10;[[acid, (base)]]&#10;&#10;&gt;&gt;magnesium&lt;&lt;&#10;[[acid,(base)]]&#10;&#10;&#10;[explanation]&#10;The soil forming bases are calcium, magnesium, potassium and sodium. The soil acids are hydrogen and aluminum. &#10;[explanation]" max_attempts="1">
+  <p>Select whether each element is an acid or a base, as it relates to base saturation in soils:</p>
+  <p>aluminum</p>
+  <optionresponse>
+    <optioninput label="aluminum" options="('acid','base')" correct="acid"/>
+  </optionresponse>
+  <p>calcium</p>
+  <optionresponse>
+    <optioninput label="calcium" options="('acid','base')" correct="base"/>
+  </optionresponse>
+  <p>magnesium</p>
+  <optionresponse>
+    <optioninput label="magnesium" options="('acid','base')" correct="base"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The soil forming bases are calcium, magnesium, potassium and sodium. The soil acids are hydrogen and aluminum. </p>
+    </div>
+  </solution>
+</problem>

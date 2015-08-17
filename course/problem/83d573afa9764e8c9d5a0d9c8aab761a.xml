@@ -1,0 +1,18 @@
+<problem display_name="W4 Q8" markdown="&gt;&gt; A stretched rubber band is an example of _______ energy. &lt;&lt;&#10;() chemical&#10;() gravitational&#10;() hydroelectric&#10;() kinetic&#10;(x) potential&#10;&#10;[explanation]&#10;Potential energy is energy that is stored but has not yet been released.&#10;[explanation]&#10;&#10;&#10;" max_attempts="1">
+  <p> A stretched rubber band is an example of _______ energy. </p>
+  <multiplechoiceresponse>
+    <choicegroup label=" A stretched rubber band is an example of _______ energy. " type="MultipleChoice">
+      <choice correct="false">chemical</choice>
+      <choice correct="false">gravitational</choice>
+      <choice correct="false">hydroelectric</choice>
+      <choice correct="false">kinetic</choice>
+      <choice correct="true">potential</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Potential energy is energy that is stored but has not yet been released.</p>
+    </div>
+  </solution>
+</problem>

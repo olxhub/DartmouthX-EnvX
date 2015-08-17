@@ -1,0 +1,11 @@
+<video youtube="1.00:c7atjIvE-hk" url_name="3c5d382280664095be2ddd27fc5105aa" display_name="Video: Modern Agriculture Effects - Part 1" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V002000" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk3_Modern_Ag_Effects_1_Handout.pdf" html5_sources="[]" sub="c7atjIvE-hk" track="/static/Wk3.ModernAgEffects1.pdf" youtube_id_1_0="c7atjIvE-hk">
+  <track src="/static/Wk3.ModernAgEffects1.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk3_Modern_Ag_Effects_1_Handout.pdf"/>
+  <video_asset client_video_id="Wk3.ModernAgEffects1_FINAL_1_15" duration="378.39">
+    <encoded_video bitrate="843" file_size="39905100" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002000_MB1.mp4"/>
+    <encoded_video bitrate="2948" file_size="139484195" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002000_DTH.mp4"/>
+    <encoded_video bitrate="1084" file_size="51282929" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002000_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="c7atjIvE-hk"/>
+    <encoded_video bitrate="366" file_size="17318913" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002000_MB2.mp4"/>
+  </video_asset>
+</video>

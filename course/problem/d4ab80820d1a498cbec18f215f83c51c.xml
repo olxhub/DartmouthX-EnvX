@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;What is a negawatt?&lt;&lt;&#10;&#10;() a very small number of watts&#10;() a very large number of watts&#10;() as much carbon is sequestered as is released by an energy efficient building &#10;() the idea that all energy choices have consequences&#10;(x) the idea that saved energy is equal to generating new electricity &#10;&#10;[explanation]&#10;A negawatt is a term coined by Amory Lovins stating that when there is a need for more electricity in an electrical network system, reductions in energy use have the same effect as generating new electricity.&#10;[explanation]" max_attempts="3">
+  <p>What is a negawatt?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is a negawatt?" type="MultipleChoice">
+      <choice correct="false">a very small number of watts</choice>
+      <choice correct="false">a very large number of watts</choice>
+      <choice correct="false">as much carbon is sequestered as is released by an energy efficient building </choice>
+      <choice correct="false">the idea that all energy choices have consequences</choice>
+      <choice correct="true">the idea that saved energy is equal to generating new electricity </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A negawatt is a term coined by Amory Lovins stating that when there is a need for more electricity in an electrical network system, reductions in energy use have the same effect as generating new electricity.</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;Environmental scientists refer to biodiversity on three levels or scales. These are:&lt;&lt;&#10;() Sub-species, genus, family&#10;() Community, niche, species&#10;() Animals, plants, bacteria&#10;() Evenness, richness, and size &#10;(x) Genetic, species, and ecosystem&#10;&#10;[explanation]&#10;&#10;The three scales of biodiversity are genetic, species, and ecosystem. &#10;&#10;[explanation]" max_attempts="3" showanswer="answered" weight="1.0">
+  <p>Environmental scientists refer to biodiversity on three levels or scales. These are:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Environmental scientists refer to biodiversity on three levels or scales. These are:" type="MultipleChoice">
+      <choice correct="false">Sub-species, genus, family</choice>
+      <choice correct="false">Community, niche, species</choice>
+      <choice correct="false">Animals, plants, bacteria</choice>
+      <choice correct="false">Evenness, richness, and size </choice>
+      <choice correct="true">Genetic, species, and ecosystem</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The three scales of biodiversity are genetic, species, and ecosystem. </p>
+    </div>
+  </solution>
+</problem>

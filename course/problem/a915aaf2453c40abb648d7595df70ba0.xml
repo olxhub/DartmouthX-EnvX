@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;The average American diet requires an energy subsidy of ___ calories for every calorie consumed.&lt;&lt;&#10;() 2&#10;() 5&#10;(x) 10&#10;() 13&#10;() 17&#10;&#10;[explanation]&#10;The average American diet requires an energy subsidy of 10 calories for every calorie consumed.&#10;[explanation]&#10;&#10;" max_attempts="3">
+  <p>The average American diet requires an energy subsidy of ___ calories for every calorie consumed.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The average American diet requires an energy subsidy of ___ calories for every calorie consumed." type="MultipleChoice">
+      <choice correct="false">2</choice>
+      <choice correct="false">5</choice>
+      <choice correct="true">10</choice>
+      <choice correct="false">13</choice>
+      <choice correct="false">17</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The average American diet requires an energy subsidy of 10 calories for every calorie consumed.</p>
+    </div>
+  </solution>
+</problem>

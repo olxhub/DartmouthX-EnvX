@@ -1,0 +1,17 @@
+<problem display_name="W5 Q3" markdown="&gt;&gt;Which of the following are advantages of a PV solar tracker? &lt;&lt; &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the TWO characteristics that apply.&lt;/strong&gt;&#10;[x] it can “follow” the sun like a sunflower&#10;[ ] it can generate wind energy&#10;[x] it is more efficient than a comparable roof-mounted solar system&#10;[ ] it can generate electricity at night&#10;&#10;[explanation]&#10;PV solar trackers, which move during the day to follow the sun, result in more electricity production thereby increasing the efficiency of the system. &#10;[explanation]" max_attempts="1" weight="2.0">
+  <p>Which of the following are advantages of a PV solar tracker?  <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the TWO characteristics that apply.</strong></p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following are advantages of a PV solar tracker? " direction="vertical">
+      <choice correct="true">it can “follow” the sun like a sunflower</choice>
+      <choice correct="false">it can generate wind energy</choice>
+      <choice correct="true">it is more efficient than a comparable roof-mounted solar system</choice>
+      <choice correct="false">it can generate electricity at night</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>PV solar trackers, which move during the day to follow the sun, result in more electricity production thereby increasing the efficiency of the system. </p>
+    </div>
+  </solution>
+</problem>

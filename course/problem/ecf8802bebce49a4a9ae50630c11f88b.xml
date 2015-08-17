@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;What is the greenhouse gas with the highest global warming potential?&lt;&lt;&#10;() Carbon dioxide&#10;(x) CFCs&#10;() Nitrous oxide&#10;() Methane&#10;() Water vapour&#10;&#10;[explanation]&#10;CFCs, or chlorofluorocarbons, are made by humans for use in refrigerators and air conditioners. Their global warming potential varies widely, from 1500 to over 10,000. &#10;[explanation]&#10;&#10;&#10;" max_attempts="3">
+  <p>What is the greenhouse gas with the highest global warming potential?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is the greenhouse gas with the highest global warming potential?" type="MultipleChoice">
+      <choice correct="false">Carbon dioxide</choice>
+      <choice correct="true">CFCs</choice>
+      <choice correct="false">Nitrous oxide</choice>
+      <choice correct="false">Methane</choice>
+      <choice correct="false">Water vapour</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>CFCs, or chlorofluorocarbons, are made by humans for use in refrigerators and air conditioners. Their global warming potential varies widely, from 1500 to over 10,000. </p>
+    </div>
+  </solution>
+</problem>

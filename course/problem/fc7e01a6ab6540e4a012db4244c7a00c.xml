@@ -1,0 +1,18 @@
+<problem display_name="W5 Q1" markdown="&gt;&gt;Which of the following is a renewable, but potentially depletable, energy source? &lt;&lt;&#10;() wind&#10;() solar&#10;(x) biomass&#10;() hydroelectric&#10;() coal&#10;&#10;[explanation]&#10;Biomass (such as wood or corn) is a renewable resource, but could be depleted if the harvest exceeds new growth. &#10;[explanation]" max_attempts="1">
+  <p>Which of the following is a renewable, but potentially depletable, energy source? </p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which of the following is a renewable, but potentially depletable, energy source? " type="MultipleChoice">
+      <choice correct="false">wind</choice>
+      <choice correct="false">solar</choice>
+      <choice correct="true">biomass</choice>
+      <choice correct="false">hydroelectric</choice>
+      <choice correct="false">coal</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Biomass (such as wood or corn) is a renewable resource, but could be depleted if the harvest exceeds new growth. </p>
+    </div>
+  </solution>
+</problem>

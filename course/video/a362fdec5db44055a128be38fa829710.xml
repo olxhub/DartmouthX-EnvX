@@ -1,0 +1,11 @@
+<video youtube="1.00:RUiMsL63iBw" url_name="a362fdec5db44055a128be38fa829710" display_name="Video: Human Population Review" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V001800" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk2_Review_Handout.pdf" html5_sources="[]" sub="RUiMsL63iBw" track="/static/Wk2_Review.pdf" youtube_id_1_0="RUiMsL63iBw">
+  <track src="/static/Wk2_Review.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk2_Review_Handout.pdf"/>
+  <video_asset client_video_id="Wk2_Review_FINAL_1_13" duration="141.13">
+    <encoded_video bitrate="1956" file_size="34526122" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001800_DTH.mp4"/>
+    <encoded_video bitrate="1956" file_size="9257661" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001800_MB1.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="RUiMsL63iBw"/>
+    <encoded_video bitrate="1956" file_size="4556125" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001800_MB2.mp4"/>
+    <encoded_video bitrate="1075" file_size="18974174" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001800_DTH.webm"/>
+  </video_asset>
+</video>

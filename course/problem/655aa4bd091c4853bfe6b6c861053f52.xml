@@ -1,0 +1,30 @@
+<problem display_name="W4 Q2" markdown="null" max_attempts="1" weight="3.0">
+  Using the drag-and-drop diagram below, place the non-renewable fuels in order from most to least carbon dioxide emitted. Assume an equivalent amount of energy is obtained from each fuel.
+   <customresponse><drag_and_drop_input img="/static/CO2_boxes.jpeg" one_per_target="true" target_outline="false"><draggable id="1" label="Natural Gas"/><draggable id="2" label="Oil"/><draggable id="3" label="Coal"/><draggable id="4" label="Nuclear"/><target id="t1" x="205" y="70" w="265" h="47"/><target id="t2" x="205" y="145" w="265" h="47"/><target id="t3" x="205" y="220" w="265" h="47"/><target id="t4" x="205" y="295" w="265" h="47"/></drag_and_drop_input><answer type="loncapa/python">
+
+correct_answer = [
+	{'draggables': ['1'],
+    'targets': ['t3'],
+    'rule':'exact'
+},
+	{'draggables': ['2'],
+    'targets': ['t2'],
+    'rule':'exact'
+},
+	{'draggables': ['3'],
+    'targets': ['t1'],
+    'rule':'exact'
+},
+	{'draggables': ['4'],
+    'targets': ['t4'],
+    'rule':'exact'
+}]
+
+if draganddrop.grade(submission[0], correct_answer):
+    correct = ['correct']
+else:
+    correct = ['incorrect']
+        </answer></customresponse>
+    <solution><img src="/static/C02_boxes_solution.jpeg"/></solution>
+  
+</problem>

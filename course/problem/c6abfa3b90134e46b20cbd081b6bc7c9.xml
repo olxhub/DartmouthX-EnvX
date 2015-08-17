@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;Didymo (Rock Snot) can be found in streams:&lt;&lt;&#10;(x) on the bottom of the stream bed&#10;() suspended in the flow of the stream&#10;() in industrial areas &#10;() suspended in grass along the banks&#10;() floating in clumps on the surface&#10;&#10;[explanation]&#10;&#10;Didymo (Rock Snot) grows on the bottom of both flowing and still bodies of water. It is characterized by the development of thick mat-like growths (blooms) on rocks in the stream bed.&#10;&#10;[explanation]" max_attempts="3" weight="1.0">
+  <p>Didymo (Rock Snot) can be found in streams:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Didymo (Rock Snot) can be found in streams:" type="MultipleChoice">
+      <choice correct="true">on the bottom of the stream bed</choice>
+      <choice correct="false">suspended in the flow of the stream</choice>
+      <choice correct="false">in industrial areas </choice>
+      <choice correct="false">suspended in grass along the banks</choice>
+      <choice correct="false">floating in clumps on the surface</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Didymo (Rock Snot) grows on the bottom of both flowing and still bodies of water. It is characterized by the development of thick mat-like growths (blooms) on rocks in the stream bed.</p>
+    </div>
+  </solution>
+</problem>

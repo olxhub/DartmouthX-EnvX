@@ -1,0 +1,21 @@
+<problem display_name="W5 Q12" markdown="&gt;&gt;Which of the following statements about non-depletable renewable energy systems are true?&lt;&lt; &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the THREE characteristics that apply.&lt;/strong&gt;&#10;&#10;[x] may require maintenance and repair&#10;[x] may have high upfront installation costs&#10;[ ] may experiece volatile fuel costs due to fluctuations in energy prices&#10;[x] do not produce waste products during operation &#10;[ ] do not use turbines to generate electricity&#10;&#10;[explanation]&#10;Renewable energy systems require installation and involve maintenance and repair. They do not produce waste products during operation. Some renewable energy systems such as hydro and wind do use turbines. &#10;[explanation]" max_attempts="1" weight="2.0">
+<p>Which of the following statements about non-depletable renewable energy systems are true? <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the THREE characteristics that apply.</strong></p>
+<choiceresponse>
+  <checkboxgroup label="Which of the following statements about non-depletable renewable energy systems are true?" direction="vertical">
+    <choice correct="true">may require maintenance and repair</choice>
+    <choice correct="true">may have high upfront installation costs</choice>
+    <choice correct="false">may experiece volatile fuel costs due to fluctuations in energy prices</choice>
+    <choice correct="true">do not produce waste products during operation </choice>
+    <choice correct="false">do not use turbines to generate electricity</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>Renewable energy systems require installation and involve maintenance and repair. They do not produce waste products during operation. Some renewable energy systems such as hydro and wind do use turbines. </p>
+
+</div>
+</solution>
+</problem>

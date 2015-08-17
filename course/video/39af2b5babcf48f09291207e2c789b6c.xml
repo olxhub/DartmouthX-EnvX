@@ -1,0 +1,11 @@
+<video youtube="1.00:57hYEeABnww" url_name="39af2b5babcf48f09291207e2c789b6c" display_name="Video: Renewable Energy Resources" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V005600" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk5_Renewable_Energy_Resources_Handout.pdf" html5_sources="[]" sub="57hYEeABnww" track="/static/Wk5_RenewableEnergyResources.pdf" youtube_id_1_0="57hYEeABnww">
+  <track src="/static/Wk5_RenewableEnergyResources.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk5_Renewable_Energy_Resources_Handout.pdf"/>
+  <video_asset client_video_id="Wk5_RenewableEnergyResources_FINAL_1_17" duration="224.05">
+    <encoded_video bitrate="584" file_size="16382398" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005600_MB1.mp4"/>
+    <encoded_video bitrate="1923" file_size="53864898" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005600_DTH.mp4"/>
+    <encoded_video bitrate="286" file_size="8026500" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005600_MB2.mp4"/>
+    <encoded_video bitrate="1036" file_size="29040353" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005600_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="57hYEeABnww"/>
+  </video_asset>
+</video>

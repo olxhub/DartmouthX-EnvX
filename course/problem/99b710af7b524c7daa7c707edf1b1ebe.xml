@@ -1,0 +1,17 @@
+<problem display_name="W2 Q7" markdown="&gt;&gt;In a developing country, the growth rate of the population of a small village is 7%. How many years would it take for the population of this village to double? Give your answer as a whole number without units.&lt;&lt;&#10;&#10;= 10&#10;&#10;[explanation]&#10;&#10;The equation for calculating doubling time is as follows:&#10;&#10;Doubling time = 70/growth rate = 70/7 = 10 years&#10;&#10;[explanation]&#10;&#10;&#10;" max_attempts="1" weight="2.0">
+<p>In a developing country, the growth rate of the population of a small village is 7%. How many years would it take for the population of this village to double? Give your answer as a whole number without units.</p>
+
+<numericalresponse answer="10">
+  <formulaequationinput label="In a developing country, the growth rate of the population of a small village is 7%. How many years would it take for the population of this village to double? Give your answer as a whole number without units."/>
+</numericalresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+<p>The equation for calculating doubling time is as follows:</p>
+
+<p>Doubling time = 70/growth rate = 70/7 = 10 years</p>
+</div>
+</solution>
+
+</problem>

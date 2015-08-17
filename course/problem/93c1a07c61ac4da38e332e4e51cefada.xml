@@ -1,0 +1,17 @@
+<problem display_name="W2 Q4" markdown="&gt;&gt;The total fertility rate (TFR) of countries with a vertical (column) age-structure diagram is around:&lt;&lt;&#10;() 1.5&#10;(x) 2.1&#10;() 3.4&#10;() 5.0&#10;&#10;[explanation]&#10;A vertical (column) age structure diagram indicates that a population is stable--that is, it is neither increasing nor decreasing. Therefore, the total fertility rate of that population must be at the replacement level fertility, which is approximately 2.1.&#10;[explanation]&#10;&#10;&#10;&#10;" max_attempts="1">
+  <p>The total fertility rate (TFR) of countries with a vertical (column) age-structure diagram is around:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The total fertility rate (TFR) of countries with a vertical (column) age-structure diagram is around:" type="MultipleChoice">
+      <choice correct="false">1.5</choice>
+      <choice correct="true">2.1</choice>
+      <choice correct="false">3.4</choice>
+      <choice correct="false">5.0</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A vertical (column) age structure diagram indicates that a population is stable--that is, it is neither increasing nor decreasing. Therefore, the total fertility rate of that population must be at the replacement level fertility, which is approximately 2.1.</p>
+    </div>
+  </solution>
+</problem>

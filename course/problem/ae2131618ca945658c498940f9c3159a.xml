@@ -1,0 +1,7 @@
+<problem display_name="Week 2 Prompted Discussion Self-assessment" markdown="You must complete this question to receive a point for the Prompted Discussion. &#10;&#10;&gt;&gt;If you posted to the discussion and responded to at least one other post, choose “yes” below. If not, select “no” or return to the Prompted Discussion above to complete this assignment. &lt;&lt;&#10;&#10;[[(yes), no]]&#10;">
+  <p>You must complete this question to receive a point for the Prompted Discussion. </p>
+  <p>If you posted to the discussion and responded to at least one other post, choose “yes” below. If not, select “no” or return to the Prompted Discussion above to complete this assignment. </p>
+  <optionresponse>
+    <optioninput label="If you posted to the discussion and responded to at least one other post, choose “yes” below. If not, select “no” or return to the Prompted Discussion above to complete this assignment. " options="('yes','no')" correct="yes"/>
+  </optionresponse>
+</problem>

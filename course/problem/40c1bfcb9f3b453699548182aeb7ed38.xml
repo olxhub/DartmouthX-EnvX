@@ -1,0 +1,19 @@
+<problem display_name="W3 Q3" markdown="&gt;&gt;All of the following are soil-forming factors EXCEPT _________.&lt;&lt;&#10;() climate&#10;(x) nutrients&#10;() organisms&#10;() topography&#10;() time&#10;() parent material&#10;&#10;[explanation]&#10;The five soil forming factors are climate, organisms, topography, time and parent material. Nutrients are not a soil forming factor. &#10;[explanation]" max_attempts="1">
+  <p>All of the following are soil-forming factors EXCEPT _________.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="All of the following are soil-forming factors EXCEPT _________." type="MultipleChoice">
+      <choice correct="false">climate</choice>
+      <choice correct="true">nutrients</choice>
+      <choice correct="false">organisms</choice>
+      <choice correct="false">topography</choice>
+      <choice correct="false">time</choice>
+      <choice correct="false">parent material</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The five soil forming factors are climate, organisms, topography, time and parent material. Nutrients are not a soil forming factor. </p>
+    </div>
+  </solution>
+</problem>

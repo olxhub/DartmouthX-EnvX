@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;Leached nutrients such as iron oxides and aluminum oxides accumulate in which soil horizon? &lt;&lt;&#10;() O horizon&#10;() A horizon&#10;() E horizon&#10;(x) B horizon&#10;() C horizon&#10;&#10;[explanation]&#10;Nutrients leach through the E (eluviated) horizon to the B horizon, which is often a reddish color as a result of the presence of iron and aluminum oxides. &#10;[explanation]" max_attempts="3">
+  <p>Leached nutrients such as iron oxides and aluminum oxides accumulate in which soil horizon? </p>
+  <multiplechoiceresponse>
+    <choicegroup label="Leached nutrients such as iron oxides and aluminum oxides accumulate in which soil horizon? " type="MultipleChoice">
+      <choice correct="false">O horizon</choice>
+      <choice correct="false">A horizon</choice>
+      <choice correct="false">E horizon</choice>
+      <choice correct="true">B horizon</choice>
+      <choice correct="false">C horizon</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Nutrients leach through the E (eluviated) horizon to the B horizon, which is often a reddish color as a result of the presence of iron and aluminum oxides. </p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;In the last hundred years, with the increased use of fossil fuel energy in agriculture &lt;&lt;&#10;() the amount of livestock decreased dramatically&#10;(x) fewer humans were needed on the farm&#10;() less fertilizers and pesticides were needed&#10;() overall environmental degradation from agriculture decreased&#10;() there were more animals used for plowing and other tasks&#10;&#10;[explanation]&#10;With fossil fuels providing more and more energy for agricultural practices, fewer humans were needed on the farm. &#10;[explanation]" max_attempts="3">
+  <p>In the last hundred years, with the increased use of fossil fuel energy in agriculture </p>
+  <multiplechoiceresponse>
+    <choicegroup label="In the last hundred years, with the increased use of fossil fuel energy in agriculture " type="MultipleChoice">
+      <choice correct="false">the amount of livestock decreased dramatically</choice>
+      <choice correct="true">fewer humans were needed on the farm</choice>
+      <choice correct="false">less fertilizers and pesticides were needed</choice>
+      <choice correct="false">overall environmental degradation from agriculture decreased</choice>
+      <choice correct="false">there were more animals used for plowing and other tasks</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>With fossil fuels providing more and more energy for agricultural practices, fewer humans were needed on the farm. </p>
+    </div>
+  </solution>
+</problem>

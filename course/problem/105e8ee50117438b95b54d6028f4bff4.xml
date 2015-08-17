@@ -1,0 +1,28 @@
+<problem display_name="Q2" markdown="null" max_attempts="3">
+  <p>  Rank the following fuels and energy strategies from best to worst. Assume that the primary goal is reducing carbon dioxide emissions to the atmosphere that result from electricity generation.  </p>
+  <customresponse>
+    <drag_and_drop_input img="/static/FossilFuelQ2Resized.jpg" target_outline="true" one_per_target="true" no_labels="true" label_bg_color="rgb(270, 170, 170)">
+      <draggable id="1" label="Natural_Gas"/>
+      <draggable id="2" label="Coal"/>
+      <draggable id="3" label="Oil"/>
+      <draggable id="4" label="Conservation"/>
+      <target id="t1" x="220" y="0" w="300" h="50"/>
+      <target id="t2" x="220" y="80" w="300" h="50"/>
+      <target id="t3" x="220" y="162" w="300" h="50"/>
+      <target id="t4" x="220" y="245" w="300" h="50"/>
+    </drag_and_drop_input>
+    <answer type="loncapa/python">
+correct_answer = [{'draggables': ['1'], 'targets': ['t2'], 'rule':'exact'},
+{'draggables': ['2'], 'targets': ['t4'], 'rule':'exact'},
+{'draggables': ['3'], 'targets': ['t3'], 'rule': 'exact'},
+{'draggables': ['4'], 'targets': ['t1'], 'rule':'exact'}]
+if draganddrop.grade(submission[0], correct_answer):
+      correct = ['correct']
+else:
+      correct = ['incorrect']
+    </answer>
+  </customresponse>
+  <solution>
+    <img src="/static/FossilFuelQ2Ans.jpg"/>
+  </solution>
+</problem>

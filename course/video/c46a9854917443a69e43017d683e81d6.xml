@@ -1,0 +1,11 @@
+<video youtube="1.00:wKU2IDdvrCE" url_name="c46a9854917443a69e43017d683e81d6" display_name="Video: Matter and Energy" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V000200" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk1_Matter_and_Energy_Handout.pdf" html5_sources="[]" sub="wKU2IDdvrCE" track="/static/Wk1-Matter_and_Energy.pdf" youtube_id_1_0="wKU2IDdvrCE">
+  <track src="/static/Wk1-Matter_and_Energy.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk1_Matter_and_Energy_Handout.pdf"/>
+  <video_asset client_video_id="Wk1-Matter_and_Energy-FINAL-1_9" duration="324.34">
+    <encoded_video bitrate="274" file_size="11121609" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000200_MB2.mp4"/>
+    <encoded_video bitrate="1877" file_size="76104931" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000200_DTH.mp4"/>
+    <encoded_video bitrate="582" file_size="23631810" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000200_MB1.mp4"/>
+    <encoded_video bitrate="969" file_size="39297829" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000200_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="wKU2IDdvrCE"/>
+  </video_asset>
+</video>

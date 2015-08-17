@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;The SI unit used to refer to a quantity of energy is:&lt;&lt;&#10;() Heat&#10;() Speed &#10;(x) Joules &#10;() Newtons&#10;() Power &#10;&#10;[explanation]&#10;&#10;A joule is the basic SI unit of energy, which can be measured as the quantity  of energy a one watt light bulb uses in one second. &#10;&#10;[explanation]&#10;">
+  <p>The SI unit used to refer to a quantity of energy is:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The SI unit used to refer to a quantity of energy is:" type="MultipleChoice">
+      <choice correct="false">Heat</choice>
+      <choice correct="false">Speed </choice>
+      <choice correct="true">Joules </choice>
+      <choice correct="false">Newtons</choice>
+      <choice correct="false">Power </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A joule is the basic SI unit of energy, which can be measured as the quantity  of energy a one watt light bulb uses in one second. </p>
+    </div>
+  </solution>
+</problem>

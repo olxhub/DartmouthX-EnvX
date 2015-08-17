@@ -1,0 +1,10 @@
+<video youtube="1.00:hLHHuIVLLr4" url_name="e474f872819b4ccf95d52ed9d84d764c" display_name="Video: Coal-Fired Powerplant" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V006300" html5_sources="[]" sub="hLHHuIVLLr4" track="/static/Wk4_Coal-fired_Power_Plant.pdf" youtube_id_1_0="hLHHuIVLLr4">
+  <track src="/static/Wk4_Coal-fired_Power_Plant.pdf"/>
+  <video_asset client_video_id="Wk4_Coal-Fired Power Plant Animation" duration="28.14">
+    <encoded_video bitrate="238" file_size="839618" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006300_MB2.mp4"/>
+    <encoded_video bitrate="474" file_size="1670480" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006300_MB1.mp4"/>
+    <encoded_video bitrate="1035" file_size="3646235" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006300_DTH.mp4"/>
+    <encoded_video bitrate="414" file_size="1458864" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V006300_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="hLHHuIVLLr4"/>
+  </video_asset>
+</video>

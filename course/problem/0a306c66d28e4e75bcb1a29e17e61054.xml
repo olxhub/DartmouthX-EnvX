@@ -1,0 +1,17 @@
+<problem display_name="Q1" markdown="&gt;&gt;Identify all that pertain to the 2nd Law of Thermodynamics: when energy is transformed _______ .&lt;&lt; Choose the TWO characteristics that apply.&#10;&#10;[x] there is a decrease in the quality of that energy &#10;&#10;[] the total quantity of energy in the system remains constant &#10;&#10;[x] there is an increase in the randomness of the system&#10;&#10;[] over time a system will spontaneously become more ordered&#10;&#10;&#10;[explanation]&#10;&#10;The 2nd Law of Thermodynamics states that when energy is transformed its ability to do work decreases and randomness increases (entropy). “The total quantity of energy in the system remains constant” is true, but is stated in the 1st Law of Thermodynamics. “Over time a system will spontaneously become more ordered” is the opposite of the 2nd Law of Thermodynamics and untrue. &#10;&#10;[explanation]&#10;&#10;" max_attempts="3">
+  <p>Identify all that pertain to the 2nd Law of Thermodynamics: when energy is transformed _______ . Choose the TWO characteristics that apply.</p>
+  <choiceresponse>
+    <checkboxgroup label="Identify all that pertain to the 2nd Law of Thermodynamics: when energy is transformed _______ ." direction="vertical">
+      <choice correct="true">there is a decrease in the quality of that energy </choice>
+      <choice correct="false">the total quantity of energy in the system remains constant </choice>
+      <choice correct="true">there is an increase in the randomness of the system</choice>
+      <choice correct="false">over time a system will spontaneously become more ordered</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The 2nd Law of Thermodynamics states that when energy is transformed its ability to do work decreases and randomness increases (entropy). “The total quantity of energy in the system remains constant” is true, but is stated in the 1st Law of Thermodynamics. “Over time a system will spontaneously become more ordered” is the opposite of the 2nd Law of Thermodynamics and untrue. </p>
+    </div>
+  </solution>
+</problem>

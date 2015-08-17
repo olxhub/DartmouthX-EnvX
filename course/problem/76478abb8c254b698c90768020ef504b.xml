@@ -1,0 +1,16 @@
+<problem display_name="W6 Q4" markdown="&gt;&gt;A surface is measured to have a high albedo.  __________________________ are most commonly associated with high albedo.&lt;&lt;&#10;&#10;[[(Snow covered surfaces), Forest covered surfaces, Oceans]]&#10;&#10;&gt;&gt; __________________________ is associated with high albedo. &lt;&lt;&#10;&#10;[[High heat absorption, (High reflectivity), High biodiversity]]&#10;&#10;[explanation]&#10;Albedo is a measure of the fraction of light reflected from a surface. Snow covered surfaces have a high albedo. Examples include glaciers or sea ice. Forests and oceans generally have low albedos. A higher albedo indicates that the surface is more reflective. &#10;[explanation]" max_attempts="1">
+  <p>A surface is measured to have a high albedo.  __________________________ are most commonly associated with high albedo.</p>
+  <optionresponse>
+    <optioninput label="A surface is measured to have a high albedo.  __________________________ are most commonly associated with high albedo." options="('Snow covered surfaces','Forest covered surfaces','Oceans')" correct="Snow covered surfaces"/>
+  </optionresponse>
+  <p> __________________________ is associated with high albedo. </p>
+  <optionresponse>
+    <optioninput label=" __________________________ is associated with high albedo. " options="('High heat absorption','High reflectivity','High biodiversity')" correct="High reflectivity"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Albedo is a measure of the fraction of light reflected from a surface. Snow covered surfaces have a high albedo. Examples include glaciers or sea ice. Forests and oceans generally have low albedos. A higher albedo indicates that the surface is more reflective. </p>
+    </div>
+  </solution>
+</problem>

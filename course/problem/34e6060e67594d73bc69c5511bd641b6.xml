@@ -1,0 +1,22 @@
+<problem display_name="W6 Q2" markdown="&gt;&gt;What is the name of the category of gases that trap infrared radiation in the atmosphere?&lt;&lt;&#10;&#10;=greenhouse&#10;or= greenhouse gas&#10;or= green house&#10;or= green house gas&#10;or= greenhouse gases&#10;or= green house gases&#10;or= a greenhouse gas&#10;or= heat-trapping gas&#10;or= heat trapping gas&#10;or= heat-trapping gases&#10;or= heat trapping gases&#10;&#10;[explanation]&#10;Greenhouse gas, sometimes referred to as heat-trapping gas, is the term given to gases that trap infrared radiation in the atmosphere (causing positive radiative forcing).  &#10;[explanation]&#10;&#10;&#10;" max_attempts="1">
+  <p>What is the name of the category of gases that trap infrared radiation in the atmosphere?</p>
+  <stringresponse answer="greenhouse" type="ci">
+    <additional_answer>greenhouse gas</additional_answer>
+    <additional_answer>green house</additional_answer>
+    <additional_answer>green house gas</additional_answer>
+    <additional_answer>greenhouse gases</additional_answer>
+    <additional_answer>green house gases</additional_answer>
+    <additional_answer>a greenhouse gas</additional_answer>
+    <additional_answer>heat-trapping gas</additional_answer>
+    <additional_answer>heat trapping gas</additional_answer>
+    <additional_answer>heat-trapping gases</additional_answer>
+    <additional_answer>heat trapping gases</additional_answer>
+    <textline label="What is the name of the category of gases that trap infrared radiation in the atmosphere?" size="20"/>
+  </stringresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Greenhouse gas, sometimes referred to as heat-trapping gas, is the term given to gases that trap infrared radiation in the atmosphere (causing positive radiative forcing).  </p>
+    </div>
+  </solution>
+</problem>

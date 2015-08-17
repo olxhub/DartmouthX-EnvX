@@ -1,0 +1,132 @@
+{
+    "course/course": {
+        "advanced_modules": [
+            "lti", 
+            "split_test"
+        ], 
+        "advertised_start": "15 June 2015", 
+        "cert_name_long": "Introduction to Environmental Science", 
+        "cert_name_short": "DART.ENVS.01.X", 
+        "course_image": "DartmouthX.DART.ENVS.01.X-Thumbnail.jpg", 
+        "days_early_for_beta": 90.0, 
+        "discussion_blackouts": [
+            [
+                "2015-07-17", 
+                "2099-01-01"
+            ]
+        ], 
+        "discussion_topics": {
+            "General": {
+                "id": "i4x-DartmouthX-ENVS2x-course-WI2015"
+            }
+        }, 
+        "display_name": "Introduction to Environmental Science", 
+        "end": "2015-07-18T13:00:00Z", 
+        "graceperiod": "1 days", 
+        "lti_passports": [
+            "dropthought:A2167EF940:dropthought"
+        ], 
+        "minimum_grade_credit": 0.6, 
+        "mobile_available": true, 
+        "pdf_textbooks": [], 
+        "start": "2015-06-15T15:00:00Z", 
+        "tabs": [
+            {
+                "name": "Courseware", 
+                "type": "courseware"
+            }, 
+            {
+                "name": "Course Info", 
+                "type": "course_info"
+            }, 
+            {
+                "name": "Syllabus", 
+                "type": "static_tab", 
+                "url_slug": "9cf38db2c7d042b3b80fc2ebc7c6cedd"
+            }, 
+            {
+                "name": "Glossary", 
+                "type": "static_tab", 
+                "url_slug": "ca438d0977fa4e0e8ed434fda2cf39af"
+            }, 
+            {
+                "name": "Discussion", 
+                "type": "discussion"
+            }, 
+            {
+                "name": "Additional Readings", 
+                "type": "static_tab", 
+                "url_slug": "9906c1b43de6471aa0d0baaa9677ef0c"
+            }, 
+            {
+                "is_hidden": true, 
+                "name": "Wiki", 
+                "type": "wiki"
+            }, 
+            {
+                "name": "ENVX Community", 
+                "type": "static_tab", 
+                "url_slug": "3c534e9e256d4609bda252631fb78851"
+            }, 
+            {
+                "name": "Progress", 
+                "type": "progress"
+            }, 
+            {
+                "name": "Getting Help", 
+                "type": "static_tab", 
+                "url_slug": "c52d47925eca462dbac57a1f1fbb2a53"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "textbooks"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "pdf_textbooks"
+            }, 
+            {
+                "name": "Textbooks", 
+                "type": "html_textbooks"
+            }
+        ], 
+        "user_partitions": [
+            {
+                "description": "The groups in this configuration can be mapped to cohort groups in the LMS.", 
+                "groups": [], 
+                "id": 1494860083, 
+                "name": "Content Group Configuration", 
+                "scheme": "cohort", 
+                "version": 2
+            }, 
+            {
+                "description": "This group experiment provides DropThought feedback surveys to one of the groups. ", 
+                "groups": [
+                    {
+                        "id": 40075951, 
+                        "name": "Group A", 
+                        "version": 1
+                    }, 
+                    {
+                        "id": 2116254033, 
+                        "name": "Group B", 
+                        "version": 1
+                    }
+                ], 
+                "id": 335005579, 
+                "name": "DropThought Feedback", 
+                "scheme": "random", 
+                "version": 2
+            }
+        ], 
+        "video_upload_pipeline": {
+            "course_video_upload_token": "c3e0264a0df111e5909d685b35c5f98f"
+        }, 
+        "xml_attributes": {
+            "filename": [
+                "course/2015_T1.xml", 
+                "course/2015_T1.xml"
+            ]
+        }
+    }
+}

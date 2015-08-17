@@ -1,0 +1,23 @@
+<problem display_name="W1 Q3" markdown="&gt;&gt;Select the term that best fits the definition.&lt;&lt;&#10;&#10;The amount of matter contained in an object:&#10;[[volume, weight, (mass)]]&#10;A substance composed of one or more atoms that cannot be broken down into smaller simpler components:&#10;[[compound, (element), proton]]&#10;The ability to do work or transfer heat:&#10;[[(energy), power, force]]&#10;&#10;[explanation]&#10;Mass is the amount of matter contained in an object. &#10;An element cannot be broken down into smaller simpler components.&#10;Energy is the ability to do work or transfer heat.&#10;[explanation]&#10;&#10;" max_attempts="1" showanswer="finished">
+  <p>Select the term that best fits the definition.</p>
+  <p>The amount of matter contained in an object:</p>
+  <optionresponse>
+    <optioninput label="Select the term that best fits the definition." options="('volume','weight','mass')" correct="mass"/>
+  </optionresponse>
+  <p>A substance composed of one or more atoms that cannot be broken down into smaller simpler components:</p>
+  <optionresponse>
+    <optioninput options="('compound','element','proton')" correct="element"/>
+  </optionresponse>
+  <p>The ability to do work or transfer heat:</p>
+  <optionresponse>
+    <optioninput options="('energy','power','force')" correct="energy"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Mass is the amount of matter contained in an object. </p>
+      <p>An element cannot be broken down into smaller simpler components.</p>
+      <p>Energy is the ability to do work or transfer heat.</p>
+    </div>
+  </solution>
+</problem>

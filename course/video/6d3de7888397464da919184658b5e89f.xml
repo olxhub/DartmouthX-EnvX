@@ -1,0 +1,11 @@
+<video youtube="1.00:rkrZra9nbmk" url_name="6d3de7888397464da919184658b5e89f" display_name="Video: A conversation with Sarah Alexander" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V005900" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk5_Sarah_Alexander_Handout.pdf" html5_sources="[]" sub="rkrZra9nbmk" track="/static/Wk5_ConversationWithSarahAlexander.pdf" youtube_id_1_0="rkrZra9nbmk">
+  <track src="/static/Wk5_ConversationWithSarahAlexander.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk5_Sarah_Alexander_Handout.pdf"/>
+  <video_asset client_video_id="Wk5_ConversationWithSarahAlexander_FINAL_1_17" duration="408.02">
+    <encoded_video bitrate="278" file_size="14219815" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005900_MB2.mp4"/>
+    <encoded_video bitrate="2319" file_size="118306100" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005900_DTH.mp4"/>
+    <encoded_video bitrate="624" file_size="31863444" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005900_MB1.mp4"/>
+    <encoded_video bitrate="1078" file_size="54989485" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005900_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="rkrZra9nbmk"/>
+  </video_asset>
+</video>

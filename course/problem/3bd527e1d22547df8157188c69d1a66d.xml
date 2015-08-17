@@ -1,0 +1,18 @@
+<problem display_name="W3 Q4" markdown="&gt;&gt;The Green Revolution is characterized by all of the following EXCEPT:&lt;&lt;&#10;&#10;() increased fertilizer use&#10;() increased water use&#10;() increased total food output&#10;(x) decreased plant productivity &#10;() advances in plant breeding&#10;&#10;[explanation]&#10;The Green Revolution is characterized by increased fertilization, increased pesticide use, enhanced plant breeding, all of which increased plant productivity. &#10;[explanation]" max_attempts="1">
+  <p>The Green Revolution is characterized by all of the following EXCEPT:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The Green Revolution is characterized by all of the following EXCEPT:" type="MultipleChoice">
+      <choice correct="false">increased fertilizer use</choice>
+      <choice correct="false">increased water use</choice>
+      <choice correct="false">increased total food output</choice>
+      <choice correct="true">decreased plant productivity </choice>
+      <choice correct="false">advances in plant breeding</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The Green Revolution is characterized by increased fertilization, increased pesticide use, enhanced plant breeding, all of which increased plant productivity. </p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,11 @@
+<video youtube="1.00:ELppXcYAM10" url_name="cb56216caf8c49c38f3cc7fabc5e4a90" display_name="Video: The Dartmouth Powerplant " download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V004700" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk4_Dartmouth_Powerplant_Handout.pdf" html5_sources="[]" sub="ELppXcYAM10" track="/static/Wk.4_TheDartmouthPowerplant.pdf" youtube_id_1_0="ELppXcYAM10">
+  <track src="/static/Wk.4_TheDartmouthPowerplant.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk4_Dartmouth_Powerplant_Handout.pdf"/>
+  <video_asset client_video_id="Wk.4_TheDartmouthPowerplant_FINAL_1_16" duration="208.29">
+    <encoded_video bitrate="2882" file_size="23328657" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004700_MB1.mp4"/>
+    <encoded_video bitrate="2882" file_size="10383843" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004700_MB2.mp4"/>
+    <encoded_video bitrate="2882" file_size="75067133" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004700_DTH.mp4"/>
+    <encoded_video bitrate="2882" file_size="0" profile="youtube" url="ELppXcYAM10"/>
+    <encoded_video bitrate="1066" file_size="27760274" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V004700_DTH.webm"/>
+  </video_asset>
+</video>

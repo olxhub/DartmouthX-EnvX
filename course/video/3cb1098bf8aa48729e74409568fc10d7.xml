@@ -1,0 +1,11 @@
+<video youtube="1.00:aTwG2Okcu1g" url_name="3cb1098bf8aa48729e74409568fc10d7" display_name="Video: A Conversation with Danielle Allen" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V002200" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk3_D_Allen_Handout.pdf" html5_sources="[]" sub="aTwG2Okcu1g" track="/static/Wk3.FarmInterview.pdf" youtube_id_1_0="aTwG2Okcu1g">
+  <track src="/static/Wk3.FarmInterview.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk3_D_Allen_Handout.pdf"/>
+  <video_asset client_video_id="Wk3.FarmInterview_FINAL_1_15" duration="327.01">
+    <encoded_video bitrate="1066" file_size="159994879" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002200_DTH.mp4"/>
+    <encoded_video bitrate="1066" file_size="44132237" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002200_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="aTwG2Okcu1g"/>
+    <encoded_video bitrate="1066" file_size="43399308" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002200_MB1.mp4"/>
+    <encoded_video bitrate="1066" file_size="17492209" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V002200_MB2.mp4"/>
+  </video_asset>
+</video>

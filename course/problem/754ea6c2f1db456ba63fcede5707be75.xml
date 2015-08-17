@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown=" &gt;&gt;What is the mean residence time (MRT) in minutes for a molecule of water in a bucket with a pool of 300 liters and a flux of 15 liters per minute into and out of the bucket?&lt;&lt;&#10;() 10 minutes&#10;(x) 20 minutes&#10;() 50 minutes&#10;() 60 minutes&#10;() 90 minutes &#10;&#10;&#10;[explanation]&#10;The mean residence time (MRT) is the average time a typical molecule remains in a system. In order to determine the MRT use the equation: volume of pool / flux. If the volume of the pool is 300 liters and the flux is 15 liters per minute, 300 / 15 = 20 minutes.&#10;[explanation]&#10;" max_attempts="3">
+  <p> What is the mean residence time (MRT) in minutes for a molecule of water in a bucket with a pool of 300 liters and a flux of 15 liters per minute into and out of the bucket?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is the mean residence time (MRT) in minutes for a molecule of water in a bucket with a pool of 300 liters and a flux of 15 liters per minute into and out of the bucket?" type="MultipleChoice">
+      <choice correct="false">10 minutes</choice>
+      <choice correct="true">20 minutes</choice>
+      <choice correct="false">50 minutes</choice>
+      <choice correct="false">60 minutes</choice>
+      <choice correct="false">90 minutes </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The mean residence time (MRT) is the average time a typical molecule remains in a system. In order to determine the MRT use the equation: volume of pool / flux. If the volume of the pool is 300 liters and the flux is 15 liters per minute, 300 / 15 = 20 minutes.</p>
+    </div>
+  </solution>
+</problem>

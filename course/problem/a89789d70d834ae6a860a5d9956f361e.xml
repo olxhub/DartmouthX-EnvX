@@ -1,0 +1,15 @@
+<problem display_name="W2 Q6" markdown="&gt;&gt;A village has a population of 500. In one year, 40 people die, and 50 babies are born. In addition, 40 people move to the village. What is the percent growth rate of the village for this year? Give your answer as a whole number and do not include the % sign.&lt;&lt;&#10;&#10;= 10 +- 0.5&#10;&#10;[explanation]&#10;Growth rate is calculated through the following equation:&#10;&#10;Growth equals (Births + Immigration - Deaths - Emigration)/Total Population&#10;Therefore, the growth rate of this village equals (50 + 40 - 40 - 0 (no emigration))/500 which equals 0.10, or 10%&#10;[explanation]&#10;" max_attempts="1" weight="2.0">
+  <p>A village has a population of 500. In one year, 40 people die, and 50 babies are born. In addition, 40 people move to the village. What is the percent growth rate of the village for this year? Give your answer as a whole number and do not include the % sign.</p>
+  <numericalresponse answer="10">
+    <responseparam type="tolerance" default="0.5"/>
+    <formulaequationinput label="A village has a population of 500. In one year, 40 people die, and 50 babies are born. In addition, 40 people move to the village. What is the percent growth rate of the village for this year? Give your answer as a whole number and do not include the % sign."/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Growth rate is calculated through the following equation:</p>
+      <p>Growth equals (Births + Immigration - Deaths - Emigration)/Total Population</p>
+      <p>Therefore, the growth rate of this village equals (50 + 40 - 40 - 0 (no emigration))/500 which equals 0.10, or 10%</p>
+    </div>
+  </solution>
+</problem>

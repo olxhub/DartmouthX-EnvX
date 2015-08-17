@@ -1,0 +1,17 @@
+<problem display_name="W4 Q7" markdown="&gt;&gt;All of the following describe an increase in entropy EXCEPT:&lt;&lt;&#10;(x) a cup of water placed in the freezer turns into ice&#10;() transmission of electricity over power lines results in loss of energy as heat and sound&#10;() a pot of hot coffee left alone will gradually cool down&#10;() a room tends to become disorganized over time&#10;&#10;[explanation]&#10;Energy is required to convert liquid water to solid ice. Ice melting would be an example of increasing entropy.&#10;[explanation]&#10;" max_attempts="1">
+  <p>All of the following describe an increase in entropy EXCEPT:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="All of the following describe an increase in entropy EXCEPT:" type="MultipleChoice">
+      <choice correct="true">a cup of water placed in the freezer turns into ice</choice>
+      <choice correct="false">transmission of electricity over power lines results in loss of energy as heat and sound</choice>
+      <choice correct="false">a pot of hot coffee left alone will gradually cool down</choice>
+      <choice correct="false">a room tends to become disorganized over time</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Energy is required to convert liquid water to solid ice. Ice melting would be an example of increasing entropy.</p>
+    </div>
+  </solution>
+</problem>

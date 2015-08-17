@@ -1,0 +1,12 @@
+<problem display_name="W1 Q8" markdown="&gt;&gt;Pine Lake, a nearby lake with a similar area and volume, has a mean residence time of 50 days. A water soluble pollutant (it disolves in water) is spilled into both Pine Lake and Lyme Lake (referred to in Q7). Which lake would likely flush the pollutant more quickly, and thus recover more rapidly?&lt;&lt;&#10;[[(Lyme Lake),Pine Lake,Lyme and Pine lakes flush at the same rate, not enough information given]]&#10;[explanation]&#10;The Lyme Lake MRT is 10 days, which is shorter than the Pine Lake MRT. Therefore, the pollutant would spend less time in Lyme Lake (it would be flushed faster). &#10;&#10;[explanation]" max_attempts="1">
+  <p>Pine Lake, a nearby lake with a similar area and volume, has a mean residence time of 50 days. A water soluble pollutant (it disolves in water) is spilled into both Pine Lake and Lyme Lake (referred to in Q7). Which lake would likely flush the pollutant more quickly, and thus recover more rapidly?</p>
+  <optionresponse>
+    <optioninput label="Pine Lake, a nearby lake with a similar area and volume, has a mean residence time of 50 days. A water soluble pollutant (it disolves in water) is spilled into both Pine Lake and Lyme Lake (referred to in Q7). Which lake would likely flush the pollutant more quickly, and thus recover more rapidly?" options="('Lyme Lake','Pine Lake','Lyme and Pine lakes flush at the same rate','not enough information given')" correct="Lyme Lake"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The Lyme Lake MRT is 10 days, which is shorter than the Pine Lake MRT. Therefore, the pollutant would spend less time in Lyme Lake (it would be flushed faster). </p>
+    </div>
+  </solution>
+</problem>

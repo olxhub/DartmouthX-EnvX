@@ -1,0 +1,21 @@
+<problem display_name="W1 Q6" markdown="&gt;&gt;Which of the following are true about steady state?&lt;&lt; &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the TWO that are true.&lt;/strong&gt;&#10;&#10;[x] input minus output equals zero&#10;[ ] an open system always exists&#10;[x] equilibrium exists&#10;[ ] the system must be closed&#10;[ ] feedbacks are a dominant factor&#10;&#10;[explanation]&#10;In a steady state, the inputs of a system equal the outputs, and therefore the system is in equilibrium. Steady state can occur in both open and closed systems.&#10;[explanation]" max_attempts="1">
+<p>Which of the following are true about steady state? <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the TWO that are true.</strong></p>
+<choiceresponse>
+  <checkboxgroup label="Which of the following are true about steady state?" direction="vertical">
+    <choice correct="true">input minus output equals zero</choice>
+    <choice correct="false">an open system always exists</choice>
+    <choice correct="true">equilibrium exists</choice>
+    <choice correct="false">the system must be closed</choice>
+    <choice correct="false">feedbacks are a dominant factor</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>In a steady state, the inputs of a system equal the outputs, and therefore the system is in equilibrium. Steady state can occur in both open and closed systems.</p>
+
+</div>
+</solution>
+</problem>

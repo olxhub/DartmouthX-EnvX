@@ -1,0 +1,19 @@
+<problem display_name="W2 Q13" markdown="&gt;&gt;Which characteristics are common in societies that are in the last stage of demographic transition?&lt;&lt;  &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the TWO characteristics that apply.&lt;/strong&gt;&#10;&#10;&#10;[] high CDR&#10;[] high unemployment&#10;[] short doubling time&#10;[x] aging population&#10;[] overpopulation&#10;[x]replacement level fertility less than 2.1&#10;&#10;[explanation]&#10;Societies in the last stage of demographic transition have shrinking populations (negative growth), and thus have a replacement level fertility less than 2.1 and an aging population. &#10;[explanation]&#10;&#10;" max_attempts="1" weight="2.0">
+  <p>Which characteristics are common in societies that are in the last stage of demographic transition?  <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the TWO characteristics that apply.</strong></p>
+  <choiceresponse>
+    <checkboxgroup label="Which characteristics are common in societies that are in the last stage of demographic transition?" direction="vertical">
+      <choice correct="false">high CDR</choice>
+      <choice correct="false">high unemployment</choice>
+      <choice correct="false">short doubling time</choice>
+      <choice correct="true">aging population</choice>
+      <choice correct="false">overpopulation</choice>
+      <choice correct="true">replacement level fertility less than 2.1</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Societies in the last stage of demographic transition have shrinking populations (negative growth), and thus have a replacement level fertility less than 2.1 and an aging population. </p>
+    </div>
+  </solution>
+</problem>

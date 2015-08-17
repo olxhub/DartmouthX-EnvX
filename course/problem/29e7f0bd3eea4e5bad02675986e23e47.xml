@@ -1,0 +1,17 @@
+<problem display_name="W6 Q10" markdown="&gt;&gt;Which of the following is NOT a cause of sea level rise?&lt;&lt;&#10;(x) melting sea ice (ice floating in the ocean)&#10;() melting continental glaciers (ice on land)&#10;() melting alpine glaciers (ice at high elevations on land)&#10;() warmer sea water expanding&#10;&#10;[explanation]&#10;Sea level rise is caused by thermal expansion (warmer water takes up greater volume) and the melting of land ice. As sea ice is already in the ocean, its melting does not contribute to sea level rise. &#10;[explanation]" max_attempts="1">
+  <p>Which of the following is NOT a cause of sea level rise?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which of the following is NOT a cause of sea level rise?" type="MultipleChoice">
+      <choice correct="true">melting sea ice (ice floating in the ocean)</choice>
+      <choice correct="false">melting continental glaciers (ice on land)</choice>
+      <choice correct="false">melting alpine glaciers (ice at high elevations on land)</choice>
+      <choice correct="false">warmer sea water expanding</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Sea level rise is caused by thermal expansion (warmer water takes up greater volume) and the melting of land ice. As sea ice is already in the ocean, its melting does not contribute to sea level rise. </p>
+    </div>
+  </solution>
+</problem>

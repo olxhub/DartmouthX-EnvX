@@ -1,0 +1,13 @@
+<problem display_name="W2 Q2" markdown="&gt;&gt;What percent of the human population lives in the developing world? Express your answer in whole numbers. Do not add the % sign.&lt;&lt;&#10;&#10;= 83 +- 3&#10;&#10;[explanation]&#10;There are currently 6 billion people in the developing world is 6 billion / 7.2 billion = 83%  &#10;[explanation]&#10;" max_attempts="1">
+  <p>What percent of the human population lives in the developing world? Express your answer in whole numbers. Do not add the % sign.</p>
+  <numericalresponse answer="83">
+    <responseparam type="tolerance" default="3"/>
+    <formulaequationinput label="What percent of the human population lives in the developing world? Express your answer in whole numbers. Do not add the % sign."/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>There are currently 6 billion people in the developing world is 6 billion / 7.2 billion = 83%  </p>
+    </div>
+  </solution>
+</problem>

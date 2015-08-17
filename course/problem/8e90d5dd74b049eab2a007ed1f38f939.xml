@@ -1,0 +1,17 @@
+<problem display_name="Q1" markdown="&gt;&gt;Which of the following are variables in the IPAT equation? Check all that apply.&lt;&lt;&#10;[x] Population&#10;[] Pollution&#10;[x] Technology&#10;[x] Affluence&#10;&#10;[explanation]&#10;The IPAT equation is as follows: (Environmental) Impact= Population x Affluence x Technology. Pollution, while certainly an aspect of environmental impact, is not a variable in itself. &#10;[explanation]" max_attempts="3">
+  <p>Which of the following are variables in the IPAT equation? Check all that apply.</p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following are variables in the IPAT equation? Check all that apply." direction="vertical">
+      <choice correct="true">Population</choice>
+      <choice correct="false">Pollution</choice>
+      <choice correct="true">Technology</choice>
+      <choice correct="true">Affluence</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The IPAT equation is as follows: (Environmental) Impact= Population x Affluence x Technology. Pollution, while certainly an aspect of environmental impact, is not a variable in itself. </p>
+    </div>
+  </solution>
+</problem>

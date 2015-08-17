@@ -1,0 +1,13 @@
+<problem display_name="W2 Q8" markdown="&gt;&gt;In 1980, Ireland’s crude birth rate (CBR) was 21 and its crude death rate (CDR) was 11. Assuming no immigration or emigration, what was Ireland’s population growth rate for that year? Give your answer as a whole number and do not include the % sign.&lt;&lt;&#10;&#10;= 1&#10;&#10;[explanation]&#10;&#10;As the CBR and CDR are the number of births or deaths per 1000 individuals in a population per year, the growth rate = (CBR-CDR)/10 (we divide by 10 in order to turn the number into a percent). &#10;Therefore, in 1980, Ireland’s growth rate was (21-11)/10 = 1 percent growth&#10;&#10;[explanation]&#10;" max_attempts="1" weight="2.0">
+  <p>In 1980, Ireland’s crude birth rate (CBR) was 21 and its crude death rate (CDR) was 11. Assuming no immigration or emigration, what was Ireland’s population growth rate for that year? Give your answer as a whole number and do not include the % sign.</p>
+  <numericalresponse answer="1">
+    <formulaequationinput label="In 1980, Ireland’s crude birth rate (CBR) was 21 and its crude death rate (CDR) was 11. Assuming no immigration or emigration, what was Ireland’s population growth rate for that year? Give your answer as a whole number and do not include the % sign."/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>As the CBR and CDR are the number of births or deaths per 1000 individuals in a population per year, the growth rate = (CBR-CDR)/10 (we divide by 10 in order to turn the number into a percent). </p>
+      <p>Therefore, in 1980, Ireland’s growth rate was (21-11)/10 = 1 percent growth</p>
+    </div>
+  </solution>
+</problem>

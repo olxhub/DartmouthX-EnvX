@@ -1,0 +1,18 @@
+<problem display_name="W1 Q1" markdown="&gt;&gt;The increase in abundance of Didymo (Rock Snot) is most harmful to:&lt;&lt;&#10;() swimmers who might consume rock snot &#10;() streamflow&#10;(x) stream biodiversity&#10;() marine organisms &#10;() canoes and kayaks&#10;&#10;[explanation]&#10;Didymo populations form along stream beds, where they can out compete the species that live there, thereby reducing biodiversity. &#10;[explanation]" max_attempts="1">
+  <p>The increase in abundance of Didymo (Rock Snot) is most harmful to:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The increase in abundance of Didymo (Rock Snot) is most harmful to:" type="MultipleChoice">
+      <choice correct="false">swimmers who might consume rock snot </choice>
+      <choice correct="false">streamflow</choice>
+      <choice correct="true">stream biodiversity</choice>
+      <choice correct="false">marine organisms </choice>
+      <choice correct="false">canoes and kayaks</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Didymo populations form along stream beds, where they can out compete the species that live there, thereby reducing biodiversity. </p>
+    </div>
+  </solution>
+</problem>

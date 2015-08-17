@@ -1,0 +1,11 @@
+<video youtube="1.00:fOpTrkTBxx4" url_name="34a52cf658f34991b71b785ecc743750" display_name="Video: Week 1 Review" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V000900" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk1_Week_1_Review_Handout.pdf" html5_sources="[]" sub="fOpTrkTBxx4" track="/static/Wk1-Week_1_Review.pdf" youtube_id_1_0="fOpTrkTBxx4">
+  <track src="/static/Wk1-Week_1_Review.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk1_Week_1_Review_Handout.pdf"/>
+  <video_asset client_video_id="Wk1-Week_1_Review-FINAL-1_9" duration="110.9">
+    <encoded_video bitrate="190" file_size="2645915" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000900_MB2.mp4"/>
+    <encoded_video bitrate="1094" file_size="15178344" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000900_DTH.webm"/>
+    <encoded_video bitrate="333" file_size="4626770" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000900_MB1.mp4"/>
+    <encoded_video bitrate="1062" file_size="14728978" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V000900_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="fOpTrkTBxx4"/>
+  </video_asset>
+</video>

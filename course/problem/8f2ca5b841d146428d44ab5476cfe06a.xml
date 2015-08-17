@@ -1,0 +1,18 @@
+<problem display_name="W5 Q5" markdown="&gt;&gt;Which of the following are true about hydroelectric dams?&lt;&lt; &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the THREE characteristics that apply.&lt;/strong&gt;&#10;[x] they contribute to evapotranspiration around the dam&#10;[x] hydroelectric dams provide recreation from water impounded behind the dam&#10;[ ] they have almost no impact on the regional environment&#10;[ ] they promote natural ecosystems&#10;[x] they use a non-depletable resource to generate electricity &#10;&#10;[explanation]&#10;Hydroelectric dams lead to increased evapotranspiration and they use a non-depletable resource (water). They do create recreational opportunities in the impounded water area. They do not promote natural ecosystems and they do have an impact on the regional environment.&#10;[explanation]&#10;&#10;" max_attempts="1" weight="2.0">
+  <p>Which of the following are true about hydroelectric dams? <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the THREE characteristics that apply.</strong></p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following are true about hydroelectric dams?" direction="vertical">
+      <choice correct="true">they contribute to evapotranspiration around the dam</choice>
+      <choice correct="true">hydroelectric dams provide recreation from water impounded behind the dam</choice>
+      <choice correct="false">they have almost no impact on the regional environment</choice>
+      <choice correct="false">they promote natural ecosystems</choice>
+      <choice correct="true">they use a non-depletable resource to generate electricity </choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Hydroelectric dams lead to increased evapotranspiration and they use a non-depletable resource (water). They do create recreational opportunities in the impounded water area. They do not promote natural ecosystems and they do have an impact on the regional environment.</p>
+    </div>
+  </solution>
+</problem>

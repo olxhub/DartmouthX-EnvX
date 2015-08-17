@@ -1,0 +1,18 @@
+<problem display_name="W2 Q9" markdown="&gt;&gt;What is the most likely behavior for a population with a pyramid age-structure diagram?&lt;&lt;&#10;() no growth&#10;() growth for one generation and then stabilize&#10;(x) increase rapidly &#10;() increase slowly at a constant rate&#10;() increase rapidly, then decrease&#10;&#10;[explanation]&#10;&#10;A population with a pyramid age-structure diagram will continue to grow rapidly because there are many young people who will live to a reproductive age and contribute to additional population growth. &#10;&#10;[explanation]&#10;&#10;" max_attempts="1">
+  <p>What is the most likely behavior for a population with a pyramid age-structure diagram?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is the most likely behavior for a population with a pyramid age-structure diagram?" type="MultipleChoice">
+      <choice correct="false">no growth</choice>
+      <choice correct="false">growth for one generation and then stabilize</choice>
+      <choice correct="true">increase rapidly </choice>
+      <choice correct="false">increase slowly at a constant rate</choice>
+      <choice correct="false">increase rapidly, then decrease</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A population with a pyramid age-structure diagram will continue to grow rapidly because there are many young people who will live to a reproductive age and contribute to additional population growth. </p>
+    </div>
+  </solution>
+</problem>

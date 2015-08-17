@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;Which of the following are true about carbon dioxide (C02) emissions by humans?&lt;&lt; &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the TWO statements that are correct.&lt;/strong&gt;&#10;[] most CO2 is produced from anaerobic decomposition&#10;[] the current CO2 concentration is ~100 ppm&#10;[x] the net destruction of vegetation is a significant source &#10;[x] the combustion of fossil fuels is a significant source &#10;[] CO2 is not technically a greenhouse gas&#10;&#10;[explanation]&#10;Combustion of fossil fuels and net destruction of vegetation are the two largest sources of human derived carbon dioxide. The current CO2 concentration is ~400 ppm. &#10;[explanation]&#10;" max_attempts="3">
+  <p>Which of the following are true about carbon dioxide (C02) emissions by humans? <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the TWO statements that are correct.</strong></p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following are true about carbon dioxide (C02) emissions by humans?" direction="vertical">
+      <choice correct="false">most CO2 is produced from anaerobic decomposition</choice>
+      <choice correct="false">the current CO2 concentration is ~100 ppm</choice>
+      <choice correct="true">the net destruction of vegetation is a significant source </choice>
+      <choice correct="true">the combustion of fossil fuels is a significant source </choice>
+      <choice correct="false">CO2 is not technically a greenhouse gas</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Combustion of fossil fuels and net destruction of vegetation are the two largest sources of human derived carbon dioxide. The current CO2 concentration is ~400 ppm. </p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,19 @@
+<problem display_name="W1 Q5" markdown="&gt;&gt;Where does there tend to be greater species diversity?&lt;&lt; &lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;Choose the THREE that apply.&lt;/strong&gt; &#10;&#10;[x] in wetter climates&#10;[ ] at higher latitudes&#10;[ ] in smaller geographic areas, such as islands&#10;[x] at lower elevation&#10;[x] closer to the equator&#10;&#10;[explanation]&#10;&#10;There tends to be a greater number of species (increased diversity) at lower elevations and in wetter climates, as well in ecosystems closer to the equator. There tends to be fewer species in small geographic areas and at higher latitudes.&#10;&#10;[explanation]" max_attempts="1">
+<p>Where does there tend to be greater species diversity? <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">Choose the THREE that apply.</strong> </p>
+<choiceresponse>
+  <checkboxgroup label="Where does there tend to be greater species diversity?" direction="vertical">
+    <choice correct="true">in wetter climates</choice>
+    <choice correct="false">at higher latitudes</choice>
+    <choice correct="false">in smaller geographic areas, such as islands</choice>
+    <choice correct="true">at lower elevation</choice>
+    <choice correct="true">closer to the equator</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+<p>There tends to be a greater number of species (increased diversity) at lower elevations and in wetter climates, as well in ecosystems closer to the equator. There tends to be fewer species in small geographic areas and at higher latitudes.</p>
+</div>
+</solution>
+</problem>

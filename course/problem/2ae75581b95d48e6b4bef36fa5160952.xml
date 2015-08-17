@@ -1,0 +1,18 @@
+<problem display_name="W3 Q2" markdown="&gt;&gt;The least weathered soil horizon, comprised of materials similar to the underlying parent material, is known as the ___ horizon. &lt;&lt;&#10;() A&#10;() B&#10;(x) C&#10;() E&#10;() O&#10;&#10;[explanation]&#10;The C horizon is comprised of materials similar to the parent material, and is the least weathered horizon. &#10;[explanation]" max_attempts="1">
+  <p>The least weathered soil horizon, comprised of materials similar to the underlying parent material, is known as the ___ horizon. </p>
+  <multiplechoiceresponse>
+    <choicegroup label="The least weathered soil horizon, comprised of materials similar to the underlying parent material, is known as the ___ horizon. " type="MultipleChoice">
+      <choice correct="false">A</choice>
+      <choice correct="false">B</choice>
+      <choice correct="true">C</choice>
+      <choice correct="false">E</choice>
+      <choice correct="false">O</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The C horizon is comprised of materials similar to the parent material, and is the least weathered horizon. </p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,11 @@
+<video youtube="1.00:ZERnQZr1nog" url_name="c95c40fa8084441da1ef4ccd3476aa65" display_name="Video: Review of Renewable Energy" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V005700" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk5_Review_Renewable_Energy_Handout.pdf" html5_sources="[]" sub="ZERnQZr1nog" track="/static/Wk5_ReviewRenewableEnergy.pdf" youtube_id_1_0="ZERnQZr1nog">
+  <track src="/static/Wk5_ReviewRenewableEnergy.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk5_Review_Renewable_Energy_Handout.pdf"/>
+  <video_asset client_video_id="Wk5_MakingEnergyDecisions_FINAL_1_17" duration="92.9">
+    <encoded_video bitrate="674" file_size="7831245" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005700_MB1.mp4"/>
+    <encoded_video bitrate="1074" file_size="12470691" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005700_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="ZERnQZr1nog"/>
+    <encoded_video bitrate="318" file_size="3694664" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005700_MB2.mp4"/>
+    <encoded_video bitrate="2354" file_size="27347439" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005700_DTH.mp4"/>
+  </video_asset>
+</video>

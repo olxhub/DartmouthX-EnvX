@@ -1,0 +1,23 @@
+<problem display_name="W1 Q9" markdown="&gt;&gt;Are the following events part of a negative or positive feedback loop?&lt;&lt;&#10;&#10;As an ice sheet melts, a darker surface is exposed to the sun. This leads to decreased reflectivity and increased heat absorption:&#10;[[(positive), negative]]&#10;As night approaches, the temperature inside a house begins to decrease. A thermostat turns on the heater in the house:&#10;[[positive, (negative)]]&#10;As atmospheric temperature increases, ocean temperature warms, and the rate of evaporation accelerates. This process produces clouds that block sunlight from reaching the earth:&#10;[[positive, (negative)]]&#10;&#10;[explanation]&#10;The melting of an ice sheet, which exposes a darker surface leading to increased heat absorption, would be a positive feedback loop, as the system is moving further from its original state, and the increased heat absorption would make the ice sheet melt faster. &#10;The thermostat turning on the heater in a cooling house would be an example of a negative feedback loop, as the house is moving towards its original temperature (state). &#10;An increase in temperature leads to cloud formation, which blocks sunlight, and moves the system towards its original state. Therefore, it is a negative feedback system.&#10;[explanation]" max_attempts="1">
+  <p>Are the following events part of a negative or positive feedback loop?</p>
+  <p>As an ice sheet melts, a darker surface is exposed to the sun. This leads to decreased reflectivity and increased heat absorption:</p>
+  <optionresponse>
+    <optioninput label="Are the following events part of a negative or positive feedback loop?" options="('positive','negative')" correct="positive"/>
+  </optionresponse>
+  <p>As night approaches, the temperature inside a house begins to decrease. A thermostat turns on the heater in the house:</p>
+  <optionresponse>
+    <optioninput options="('positive','negative')" correct="negative"/>
+  </optionresponse>
+  <p>As atmospheric temperature increases, ocean temperature warms, and the rate of evaporation accelerates. This process produces clouds that block sunlight from reaching the earth:</p>
+  <optionresponse>
+    <optioninput options="('positive','negative')" correct="negative"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The melting of an ice sheet, which exposes a darker surface leading to increased heat absorption, would be a positive feedback loop, as the system is moving further from its original state, and the increased heat absorption would make the ice sheet melt faster. </p>
+      <p>The thermostat turning on the heater in a cooling house would be an example of a negative feedback loop, as the house is moving towards its original temperature (state). </p>
+      <p>An increase in temperature leads to cloud formation, which blocks sunlight, and moves the system towards its original state. Therefore, it is a negative feedback system.</p>
+    </div>
+  </solution>
+</problem>

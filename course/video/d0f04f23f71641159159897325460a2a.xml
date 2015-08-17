@@ -1,0 +1,11 @@
+<video youtube="1.00:fxwWJpfQUoI" url_name="d0f04f23f71641159159897325460a2a" display_name="Video: How and Why Populations Change" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V001500" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk2_How_and_Why_Populaitons_Change_Handout.pdf" html5_sources="[]" sub="fxwWJpfQUoI" track="/static/Wk2_HowWhyPopChange.pdf" youtube_id_1_0="fxwWJpfQUoI">
+  <track src="/static/Wk2_HowWhyPopChange.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk2_How_and_Why_Populaitons_Change_Handout.pdf"/>
+  <video_asset client_video_id="Wk2_HowWhyPopChange_FINAL_1_16" duration="321.04">
+    <encoded_video bitrate="891" file_size="43684348" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001500_DTH.mp4"/>
+    <encoded_video bitrate="891" file_size="35762712" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001500_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="fxwWJpfQUoI"/>
+    <encoded_video bitrate="891" file_size="7383720" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001500_MB2.mp4"/>
+    <encoded_video bitrate="891" file_size="12656639" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V001500_MB1.mp4"/>
+  </video_asset>
+</video>

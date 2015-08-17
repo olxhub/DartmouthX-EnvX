@@ -1,0 +1,11 @@
+<video youtube="1.00:0P1CiKHX65E" url_name="b7bff73380e84f7bb7d023bccbd5ae03" display_name="Video: A Conversation with Franny and Aaron" download_track="true" download_video="true" edx_video_id="DRTENVS1T314-V005500" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk5_Franny_Aaron_Handout.pdf" html5_sources="[]" sub="0P1CiKHX65E" track="/static/Wk5_StrawbaleConversation.pdf" youtube_id_1_0="0P1CiKHX65E">
+  <track src="/static/Wk5_StrawbaleConversation.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk5_Franny_Aaron_Handout.pdf"/>
+  <video_asset client_video_id="Wk5_StrawbaleConversation_FINAL_1_17" duration="282.94">
+    <encoded_video bitrate="641" file_size="22701378" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005500_MB1.mp4"/>
+    <encoded_video bitrate="2555" file_size="90396490" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005500_DTH.mp4"/>
+    <encoded_video bitrate="279" file_size="9880958" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005500_MB2.mp4"/>
+    <encoded_video bitrate="1072" file_size="37934203" profile="desktop_webm" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS1/DRTENVS1T314-V005500_DTH.webm"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="0P1CiKHX65E"/>
+  </video_asset>
+</video>

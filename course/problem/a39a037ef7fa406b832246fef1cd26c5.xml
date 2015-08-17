@@ -1,0 +1,18 @@
+<problem display_name="W4 Q1" markdown="&gt;&gt; The basic SI unit (International System of Units) for energy is the ______________. &lt;&lt;&#10;() electron&#10;(x) joule&#10;() kilowatt&#10;() mole&#10;() photon&#10;&#10;[explanation]&#10;A joule is the energy used when a 1 watt lightbulb is turned on for 1 second and is the SI unit for energy.&#10;[explanation]" max_attempts="1">
+  <p> The basic SI unit (International System of Units) for energy is the ______________. </p>
+  <multiplechoiceresponse>
+    <choicegroup label=" The basic SI unit (International System of Units) for energy is the ______________. " type="MultipleChoice">
+      <choice correct="false">electron</choice>
+      <choice correct="true">joule</choice>
+      <choice correct="false">kilowatt</choice>
+      <choice correct="false">mole</choice>
+      <choice correct="false">photon</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>A joule is the energy used when a 1 watt lightbulb is turned on for 1 second and is the SI unit for energy.</p>
+    </div>
+  </solution>
+</problem>

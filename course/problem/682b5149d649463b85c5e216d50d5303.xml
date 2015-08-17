@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;Which of the following are forms of unused energy at the Dartmouth Powerplant? Check the TWO that apply.&lt;&lt;&#10;[] heat to buildings &#10;[x] noise &#10;[] nuclear waste&#10;[] electricity&#10;[x] waste heat&#10;&#10;[explanation]&#10;Noise and waste heat are unused outputs from the powerplant. Nuclear waste is the byproduct of the fuel for a nuclear reactor powerplant. &#10;[explanation]" max_attempts="3">
+  <p>Which of the following are forms of unused energy at the Dartmouth Powerplant? Check the TWO that apply.</p>
+  <choiceresponse>
+    <checkboxgroup label="Which of the following are forms of unused energy at the Dartmouth Powerplant? Check the TWO that apply." direction="vertical">
+      <choice correct="false">heat to buildings </choice>
+      <choice correct="true">noise </choice>
+      <choice correct="false">nuclear waste</choice>
+      <choice correct="false">electricity</choice>
+      <choice correct="true">waste heat</choice>
+    </checkboxgroup>
+  </choiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Noise and waste heat are unused outputs from the powerplant. Nuclear waste is the byproduct of the fuel for a nuclear reactor powerplant. </p>
+    </div>
+  </solution>
+</problem>

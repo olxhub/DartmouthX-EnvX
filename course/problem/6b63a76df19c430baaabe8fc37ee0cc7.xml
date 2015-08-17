@@ -1,0 +1,18 @@
+<problem display_name="W4 Q15" markdown="&gt;&gt;What is the best environmental science response to a request for more electricity generation capacity?&lt;&lt;&#10;&#10;() build a new coal powerplant&#10;() build a new oil powerplant&#10;() build a new natural gas powerplant&#10;() increase size and capacity of an existing natural gas powerplant&#10;(x) increase conservation and efficiency of existing infrastructure &#10;&#10;[explanation]&#10;From an environmental science perspective increasing conservation and efficiency are always the best and first response to demands for more energy. [explanation]" max_attempts="1" weight="1.0">
+  <p>What is the best environmental science response to a request for more electricity generation capacity?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="What is the best environmental science response to a request for more electricity generation capacity?" type="MultipleChoice">
+      <choice correct="false">build a new coal powerplant</choice>
+      <choice correct="false">build a new oil powerplant</choice>
+      <choice correct="false">build a new natural gas powerplant</choice>
+      <choice correct="false">increase size and capacity of an existing natural gas powerplant</choice>
+      <choice correct="true">increase conservation and efficiency of existing infrastructure </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>From an environmental science perspective increasing conservation and efficiency are always the best and first response to demands for more energy. </p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,20 @@
+<problem display_name="W1 Q12" markdown="&gt;&gt;Humans affect the nitrogen cycle by ________________.&lt;&lt; &gt;&gt;Check all that apply.&lt;&lt;&#10;&#10;[x] creating wetlands for rice farming  &#10;[x] combustion of coal&#10;[x] combustion of methane (natural gas)&#10;[x] adding fertilizers to agricultural land&#10;&#10;[explanation]&#10;&#10;Humans impact the nitrogen cycle as a result of all of these activities.&#10;&#10;Creating wetlands promotes denitrification which releases nitrous oxide. Any combustion in the atmosphere (such as of coal or natural gas) results in the formation of nitrogen oxide. Adding fertilizers, which typically contain nitrogen, to agricultural land, which results in runoff which can make its way to nearby bodies of water. &#10;&#10;[explanation]" max_attempts="1">
+<p>Humans affect the nitrogen cycle by ________________. Check all that apply.</p>
+<choiceresponse>
+  <checkboxgroup label="Humans affect the nitrogen cycle by ________________.&lt;&lt; &gt;&gt;Check all that apply." direction="vertical">
+    <choice correct="true">creating wetlands for rice farming  </choice>
+    <choice correct="true">combustion of coal</choice>
+    <choice correct="true">combustion of methane (natural gas)</choice>
+    <choice correct="true">adding fertilizers to agricultural land</choice>
+  </checkboxgroup>
+</choiceresponse>
+
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+<p>Humans impact the nitrogen cycle as a result of all of these activities.</p>
+
+<p>Creating wetlands promotes denitrification which releases nitrous oxide. Any combustion in the atmosphere (such as of coal or natural gas) results in the formation of nitrogen oxide. Adding fertilizers, which typically contain nitrogen, to agricultural land, which results in runoff which can make its way to nearby bodies of water. </p>
+</div>
+</solution>
+</problem>

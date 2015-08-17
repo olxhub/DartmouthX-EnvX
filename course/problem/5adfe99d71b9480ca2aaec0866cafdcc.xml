@@ -1,0 +1,22 @@
+<problem display_name="W3 Q6" markdown="Order the following foods from greatest to least in terms of their energy subsidy:&#10;&#10;&lt;strong style=&quot;line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;&quot;&gt;beef, tomatoes, chicken&lt;/strong&gt;&#10;&#10;&gt;&gt;Greatest energy subsidy&lt;&lt;&#10;&#10;[[(beef), tomatoes, chicken]]&#10;&#10;&gt;&gt;Second greatest energy subsidy&lt;&lt;&#10;[[beef, tomatoes, (chicken)]]&#10;&#10;&gt;&gt;Smallest energy subsidy&lt;&lt;&#10;[[beef, (tomatoes), chicken]]&#10;&#10;[explanation]&#10;Beef has the greatest energy subsidy because cattle require more land, water and food resources than chicken. Chicken requires less land and food than beef, but more than vegetable crops. Of the three food items, tomatoes require the least in terms of inputs. &#10;[explanation]&#10;&#10;&#10;" max_attempts="1">
+  <p>Order the following foods from greatest to least in terms of their energy subsidy:</p>
+  <strong style="line-height: 1.4em; color: #3c3c3c; font-family: 'Open Sans', Verdana, Geneva, sans-serif, sans-serif;">beef, tomatoes, chicken</strong>
+  <p>Greatest energy subsidy</p>
+  <optionresponse>
+    <optioninput label="Greatest energy subsidy" options="('beef','tomatoes','chicken')" correct="beef"/>
+  </optionresponse>
+  <p>Second greatest energy subsidy</p>
+  <optionresponse>
+    <optioninput label="Second greatest energy subsidy" options="('beef','tomatoes','chicken')" correct="chicken"/>
+  </optionresponse>
+  <p>Smallest energy subsidy</p>
+  <optionresponse>
+    <optioninput label="Smallest energy subsidy" options="('beef','tomatoes','chicken')" correct="tomatoes"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Beef has the greatest energy subsidy because cattle require more land, water and food resources than chicken. Chicken requires less land and food than beef, but more than vegetable crops. Of the three food items, tomatoes require the least in terms of inputs. </p>
+    </div>
+  </solution>
+</problem>

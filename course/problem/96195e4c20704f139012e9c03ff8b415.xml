@@ -1,0 +1,11 @@
+<problem display_name="W1 Q13" markdown="null" max_attempts="1" weight="2.0"><customresponse><text><h2>Drag and Drop with Outline</h2><p>Please drag the terms below to the correct locations on the following Carbon Cycle diagram. Note: This question will work best on a desktop or laptop (not a mobile device).</p></text><drag_and_drop_input img="/static/CO2_Question-600.jpg" target_outline="true" one_per_target="true" no_labels="true" label_bg_color="rgb(255, 255, 153)"><draggable id="1" label="Photosynthesis"/><draggable id="2" label="Sedimentation"/><draggable id="3" label="Exchange"/><draggable id="4" label="Combustion"/><draggable id="5" label="Respiration"/><target id="t1" x="60" y="27" w="85" h="42"/><target id="t2" x="158" y="87" w="100" h="42"/><target id="t3" x="395" y="1" w="105" h="42"/><target id="t4" x="408" y="108" w="105" h="42"/><target id="t5" x="438" y="215" w="105" h="37"/></drag_and_drop_input><answer type="loncapa/python">
+correct_answer = [{
+    'draggables': ['4'], 'targets':['t1'], 'rule':'exact'}, {'draggables': ['1'], 'targets':['t2'], 'rule':'exact'}, {'draggables':['5'], 'targets':['t3'], 'rule':'exact'}, {'draggables':['3'], 'targets':['t4'], 'rule':'exact'}, {'draggables':['2'], 'targets':['t5'], 'rule':'exact'}]
+   
+if draganddrop.grade(submission[0], correct_answer):
+    correct = ['correct']
+else:
+    correct = ['incorrect']
+        </answer></customresponse><solution><img src="/static/CO2QuestionAnswer.jpg"/></solution>
+Combustion releases carbon primarily in the form of carbon dioxide into the atmosphere and often occurs as the burning of fossil fuels. Photosynthesis occurs within plant cells, such as those on the leaves of trees and takes up this carbon dioxide from the atmosphere. Respiration, occurring in all living cells, including plant cells, results in the release of carbon dioxide. Exchange occurs at the ocean surface. Sedimentation is the burial of sediments and debris, often deep under the surface of the ocean.
+</problem>

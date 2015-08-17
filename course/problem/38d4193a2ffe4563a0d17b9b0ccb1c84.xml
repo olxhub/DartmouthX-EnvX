@@ -1,0 +1,18 @@
+<problem display_name="W3 Q13" markdown="&gt;&gt;Choose the statement about genetically modified crops that is NOT true:&lt;&lt;&#10;&#10;() they offer the possibility of greater yield&#10;() they might provide resistance to drought and disease &#10;() they might provide greater resistance to cold temperatures &#10;(x) they are banned in the United States&#10;() they can decrease the need for pesticides&#10;&#10;[explanation]&#10;Genetically modified crops can be bred to produce greater yields, withstand drought and disease, and tolerate wide temperature variations and resist pests (which results in less pesticide use). Genetically modified crops are abundant in the United States, but are banned by the European Union. &#10;[explanation]" max_attempts="1">
+  <p>Choose the statement about genetically modified crops that is NOT true:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Choose the statement about genetically modified crops that is NOT true:" type="MultipleChoice">
+      <choice correct="false">they offer the possibility of greater yield</choice>
+      <choice correct="false">they might provide resistance to drought and disease </choice>
+      <choice correct="false">they might provide greater resistance to cold temperatures </choice>
+      <choice correct="true">they are banned in the United States</choice>
+      <choice correct="false">they can decrease the need for pesticides</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Genetically modified crops can be bred to produce greater yields, withstand drought and disease, and tolerate wide temperature variations and resist pests (which results in less pesticide use). Genetically modified crops are abundant in the United States, but are banned by the European Union. </p>
+    </div>
+  </solution>
+</problem>

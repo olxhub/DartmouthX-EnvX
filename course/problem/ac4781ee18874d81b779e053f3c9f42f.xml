@@ -1,0 +1,18 @@
+<problem display_name="Q2" markdown="&gt;&gt;The Rule of 70 is used to calculate the:&lt;&lt;&#10;() global population growth rate&#10;() crude birth rate&#10;() crude death rate&#10;(x) doubling time&#10;&#10;[explanation]&#10;&#10;The rule of 70 refers to the formula used to calculate doubling time, or the amount of time it would take for a population to double in size. The formula is as follows: &#10;Doubling time = 70 / growth rate of the population&#10;&#10;[explanation]&#10;" max_attempts="3">
+  <p>The Rule of 70 is used to calculate the:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The Rule of 70 is used to calculate the:" type="MultipleChoice">
+      <choice correct="false">global population growth rate</choice>
+      <choice correct="false">crude birth rate</choice>
+      <choice correct="false">crude death rate</choice>
+      <choice correct="true">doubling time</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The rule of 70 refers to the formula used to calculate doubling time, or the amount of time it would take for a population to double in size. The formula is as follows: </p>
+      <p>Doubling time = 70 / growth rate of the population</p>
+    </div>
+  </solution>
+</problem>

@@ -1,0 +1,28 @@
+{
+    "GRADER": [
+        {
+            "drop_count": 0, 
+            "min_count": 6, 
+            "short_label": "DIS", 
+            "type": "Discussion", 
+            "weight": 0.1
+        }, 
+        {
+            "drop_count": 1, 
+            "min_count": 25, 
+            "short_label": "CYU", 
+            "type": "Check Your Understanding", 
+            "weight": 0.2
+        }, 
+        {
+            "drop_count": 0, 
+            "min_count": 6, 
+            "short_label": "WQ", 
+            "type": "Weekly Quiz", 
+            "weight": 0.7
+        }
+    ], 
+    "GRADE_CUTOFFS": {
+        "Pass": 0.59
+    }
+}

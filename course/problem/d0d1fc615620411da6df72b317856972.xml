@@ -1,0 +1,13 @@
+<problem display_name="W6 Q11" markdown="&gt;&gt;What is the best estimate for total number (in millions) of species on Earth? (give a whole number as your answer)&lt;&lt;&#10;&#10;= 10 +- 2&#10;&#10;[explanation]&#10;There are 2 million named species. The most common scientific estimate for total number of species on Earth is 10 million.&#10;[explanation]" max_attempts="1" weight="2.0">
+  <p>What is the best estimate for total number (in millions) of species on Earth? (give a whole number as your answer)</p>
+  <numericalresponse answer="10">
+    <responseparam type="tolerance" default="2"/>
+    <formulaequationinput label="What is the best estimate for total number (in millions) of species on Earth? (give a whole number as your answer)"/>
+  </numericalresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>There are 2 million named species. The most common scientific estimate for total number of species on Earth is 10 million.</p>
+    </div>
+  </solution>
+</problem>

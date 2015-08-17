@@ -1,0 +1,10 @@
+<video youtube="1.00:EuZHN68lcF4" url_name="90a082c0ad694c3fa09cf6ed58791f5d" display_name="Video: The Soil Resource" download_track="true" download_video="true" edx_video_id="3c4177e3-421a-4892-9947-9a9821b2e25c" handout="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk3_Soil_Resource_Handout.pdf" html5_sources="[]" sub="EuZHN68lcF4" track="/static/Wk3.TheSoilResource.pdf" youtube_id_1_0="EuZHN68lcF4">
+  <track src="/static/Wk3.TheSoilResource.pdf"/>
+  <handout src="/c4x/DartmouthX/DART.ENVS.01.X/asset/Wk3_Soil_Resource_Handout.pdf"/>
+  <video_asset client_video_id="Wk3.SoilResource.FIXED.mp4" duration="472.15">
+    <encoded_video bitrate="258" file_size="15260396" profile="mobile_low" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS2/DRTENVS2T115-V000100_MB2.mp4"/>
+    <encoded_video bitrate="440" file_size="26024851" profile="mobile_high" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS2/DRTENVS2T115-V000100_MB1.mp4"/>
+    <encoded_video bitrate="871" file_size="51440203" profile="desktop_mp4" url="https://d2f1egay8yehza.cloudfront.net/DRTENVS2/DRTENVS2T115-V000100_DTH.mp4"/>
+    <encoded_video bitrate="0" file_size="0" profile="youtube" url="EuZHN68lcF4"/>
+  </video_asset>
+</video>

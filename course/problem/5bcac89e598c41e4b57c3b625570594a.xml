@@ -1,0 +1,18 @@
+<problem display_name="W5 Q13" markdown="&gt;&gt;Hydroelectric dams utilize:&lt;&lt;&#10;( ) only kinetic energy&#10;( ) only potential energy&#10;( ) only chemical energy&#10;(x) both potential and kinetic energy&#10;( ) both chemical and potential energy &#10;&#10;[explanation]&#10;Hydroelectric dams generate electricity through both potential and kinetic energy: the potential energy of the water built up behind the dam, and the kinetic energy of the water turning the turbine and generating electricity. &#10;[explanation]&#10;" max_attempts="1">
+  <p>Hydroelectric dams utilize:</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Hydroelectric dams utilize:" type="MultipleChoice">
+      <choice correct="false">only kinetic energy</choice>
+      <choice correct="false">only potential energy</choice>
+      <choice correct="false">only chemical energy</choice>
+      <choice correct="true">both potential and kinetic energy</choice>
+      <choice correct="false">both chemical and potential energy </choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Hydroelectric dams generate electricity through both potential and kinetic energy: the potential energy of the water built up behind the dam, and the kinetic energy of the water turning the turbine and generating electricity. </p>
+    </div>
+  </solution>
+</problem>

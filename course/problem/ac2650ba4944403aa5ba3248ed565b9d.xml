@@ -1,0 +1,17 @@
+<problem display_name="Q1" markdown="&gt;&gt;The long term pattern of temperature, wind, and rainfall is referred to as: &lt;&lt;&#10;() weather&#10;(x) climate&#10;() global climate change&#10;() global warming&#10;&#10;[explanation]&#10;Climate is the long term pattern of temperature, wind, and rainfall (the average weather in a region over time).&#10;[explanation]" max_attempts="3">
+  <p>The long term pattern of temperature, wind, and rainfall is referred to as: </p>
+  <multiplechoiceresponse>
+    <choicegroup label="The long term pattern of temperature, wind, and rainfall is referred to as: " type="MultipleChoice">
+      <choice correct="false">weather</choice>
+      <choice correct="true">climate</choice>
+      <choice correct="false">global climate change</choice>
+      <choice correct="false">global warming</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Climate is the long term pattern of temperature, wind, and rainfall (the average weather in a region over time).</p>
+    </div>
+  </solution>
+</problem>

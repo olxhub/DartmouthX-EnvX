@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;Fossil fuels are formed as a result of which of the following?&lt;&lt;&#10;( ) chemical respiration&#10;( ) combustion of organic material&#10;( ) emission of carbon dioxide&#10;(x) sedimentation and burial of organic matter&#10;( ) decomposition of igneous rocks&#10;&#10;[explanation]&#10;During sedimentation, solid organic carbon settles and is buried at the bottom of the ocean or freshwater systems to create sediments rich in carbon (fossilized carbon, or fossil fuels).&#10;&#10;[explanation]" max_attempts="3">
+  <p>Fossil fuels are formed as a result of which of the following?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Fossil fuels are formed as a result of which of the following?" type="MultipleChoice">
+      <choice correct="false">chemical respiration</choice>
+      <choice correct="false">combustion of organic material</choice>
+      <choice correct="false">emission of carbon dioxide</choice>
+      <choice correct="true">sedimentation and burial of organic matter</choice>
+      <choice correct="false">decomposition of igneous rocks</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>During sedimentation, solid organic carbon settles and is buried at the bottom of the ocean or freshwater systems to create sediments rich in carbon (fossilized carbon, or fossil fuels).</p>
+    </div>
+  </solution>
+</problem>

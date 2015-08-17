@@ -1,0 +1,18 @@
+<problem display_name="Q1" markdown="&gt;&gt;Which of the following energy sources is likely to contribute the greatest quantity of sulfur dioxide emissions to the atmosphere?&lt;&lt;&#10;() wood&#10;(x) coal&#10;() nuclear&#10;() natural gas&#10;() oil&#10;&#10;[explanation]&#10;Burning fossil fuels can release compounds present in the material and as they combine with oxygen, can create air pollutants. Coal has the highest percentage of sulfur compared to oil (which has some) and natural gas (which has a negligible amount). The use of nuclear fuels does not involve the release of sulfur. Wood contains negligible amounts of sulfur.&#10;[explanation]" max_attempts="3" weight="1.0">
+  <p>Which of the following energy sources is likely to contribute the greatest quantity of sulfur dioxide emissions to the atmosphere?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which of the following energy sources is likely to contribute the greatest quantity of sulfur dioxide emissions to the atmosphere?" type="MultipleChoice">
+      <choice correct="false">wood</choice>
+      <choice correct="true">coal</choice>
+      <choice correct="false">nuclear</choice>
+      <choice correct="false">natural gas</choice>
+      <choice correct="false">oil</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Burning fossil fuels can release compounds present in the material and as they combine with oxygen, can create air pollutants. Coal has the highest percentage of sulfur compared to oil (which has some) and natural gas (which has a negligible amount). The use of nuclear fuels does not involve the release of sulfur. Wood contains negligible amounts of sulfur.</p>
+    </div>
+  </solution>
+</problem>

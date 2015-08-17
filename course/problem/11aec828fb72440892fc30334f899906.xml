@@ -1,0 +1,22 @@
+<problem display_name="W5 Q10" markdown="&gt;&gt;Please select the energy type that matches the description.&lt;&lt;&#10;&#10;A non-depletable renewable source of energy:&#10;[[nuclear fission, natural gas, (the sun)]]&#10;A potentially renewable source of energy:&#10;[[the sun, (waste vegetable oil), wind]]&#10;A depletable source of energy:&#10;[[ algae, (coal), solar]]&#10; &#10; [explanation]&#10;The sun is a non-depletable renewable source of energy, while waste vegetable oil is a potentially renewable source (it can be replenished, but also can be depleted). Coal is a depletable source of energy. &#10; [explanation]&#10; &#10;" max_attempts="1" weight="2.0">
+  <p>Please select the energy type that matches the description.</p>
+  <p>A non-depletable renewable source of energy:</p>
+  <optionresponse>
+    <optioninput label="Please select the energy type that matches the description." options="('nuclear fission','natural gas','the sun')" correct="the sun"/>
+  </optionresponse>
+  <p>A potentially renewable source of energy:</p>
+  <optionresponse>
+    <optioninput options="('the sun','waste vegetable oil','wind')" correct="waste vegetable oil"/>
+  </optionresponse>
+  <p>A depletable source of energy:</p>
+  <optionresponse>
+    <optioninput options="(' algae','coal','solar')" correct="coal"/>
+  </optionresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>The sun is a non-depletable renewable source of energy, while waste vegetable oil is a potentially renewable source (it can be replenished, but also can be depleted). Coal is a depletable source of energy. </p>
+    </div>
+  </solution>
+  <p> </p>
+</problem>
